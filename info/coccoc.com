@@ -1,0 +1,10 @@
+http://www.coccoc.com,,,none
+http://bat.bing.com,,,none
+http://www.coccoc.com/en/,,,none
+http://www.coccoc.com,,,none
+http://www.coccoc.com/,,,none
+http://www.coccoc.com/vi/win/thanks.html,,,none
+http://cv.accesstrade.vn,,,none
+http://www.coccoc.com/en/win/thanks.html,,,none
+http://www.coccoc.com/vi/old_win/thanks.html,,,none
+http://www.coccoc.com/vi/mac/thanks.html,,,none

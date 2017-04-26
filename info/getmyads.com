@@ -1,0 +1,10 @@
+http://www.getmyads.com,,,none
+http://www.amcharts.com,,,none
+http://www.getmyads.com/,,,none
+http://www.getmyads.com/#aboutus,,,none
+http://www.getmyads.com/products,,,none
+http://www.getmyads.com/#testimonial,,,none
+http://www.getmyads.com/#contactus,,,none
+http://www.getmyads.com/account/password-forgot,,,none
+http://www.getmyads.com/en/,,,none
+http://www.getmyads.com/ru/,,,none

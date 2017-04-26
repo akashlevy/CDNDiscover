@@ -1,0 +1,15 @@
+http://www.redtube.com,,,none
+http://bi.phncdn.com,,,none
+http://ci.phncdn.com,,,none
+http://cdn1d-static-shared.phncdn.com,,,none
+http://media.trafficjunky.net,,,none
+http://thumbs-cdn.redtube.com,,,none
+http://www.redtube.com/,,,none
+http://www.redtube.com/hot,,,none
+http://www.redtube.com/channel,,,none
+http://www.redtube.com/pornstar,,,none
+http://www.redtube.com/straight/playlists,,,none
+http://www.redtube.com/recommended,,,none
+http://www.redtube.com/top,,,none
+http://www.redtube.com/mostviewed,,,none
+http://www.redtube.com/subscriptions,,,none

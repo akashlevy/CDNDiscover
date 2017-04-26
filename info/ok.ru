@@ -1,0 +1,15 @@
+http://www.ok.ru,,,none
+http://www.tns-counter.ru,,,none
+http://st.mycdn.me,,,none
+http://pimg.mycdn.me,,,none
+http://i.mycdn.me,,,none
+http://www.ok.ru/dk?cmd=logExternal&st.cmd=logExternal&st.link=http%3A%2F%2Fm.odnoklassniki.ru&st.name=accessibleVersion,,,none
+http://counter.yadro.ru,,,none
+http://www.ok.ru/dk?st.cmd=anonymMain,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=en&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=uk&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=kk&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=hy&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=uz&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=mo&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none
+http://www.ok.ru/dk?cmd=lang&st.lang=az&st.cmd=anonymMain&st._aid=Toolbar_ChangeLang,,,none

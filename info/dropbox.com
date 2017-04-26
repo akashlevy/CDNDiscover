@@ -1,0 +1,12 @@
+http://www.dropbox.com,,,none
+http://dropbox.com,,,none
+http://cfl.dropboxstatic.com,,,none
+http://www.dropbox.com,,,none
+http://www.dropbox.com/forgot,,,none
+http://www.dropbox.com/lost_phone,,,none
+http://www.dropbox.com/terms,,,none
+http://www.dropbox.com/business,,,none
+http://www.dropbox.com/,,,none
+http://www.dropbox.com/downloading?src=index,,,none
+http://www.dropbox.com/register,,,none
+http://www.dropbox.com/login,,,none

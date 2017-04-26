@@ -1,0 +1,17 @@
+http://www.espn.com,,,none
+http://a4.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://cdn.optimizely.com,,,none
+http://a2.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a3.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a1.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://cdn.espn.com,cdn.espn.com.edgesuite.net.,Akamai,cname
+http://www.espn.com,,,none
+http://www.espn.com/,,,none
+http://www.espn.com/nfl/,,,none
+http://www.espn.com/nba/,,,none
+http://www.espn.com/mlb/,,,none
+http://www.espn.com/college-football/,,,none
+http://www.espn.com/nhl/,,,none
+http://www.espn.com/golf/,,,none
+http://www.espn.com/tennis/,,,none

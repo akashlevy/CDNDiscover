@@ -1,0 +1,11 @@
+http://www.mail.ru,,,none
+http://reklama.mail.ru,,,none
+http://www.tns-counter.ru,,,none
+http://r.mradx.net,,,none
+http://ad.mail.ru,,,none
+http://limg.imgsmail.ru,,,none
+http://top-fwz1.mail.ru,,,none
+http://r3.mail.ru,,,none
+http://rs.mail.ru,,,none
+http://www.mail.ru,,,none
+http://www.mail.ru/region,,,none

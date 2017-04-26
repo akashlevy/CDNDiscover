@@ -1,0 +1,14 @@
+http://www.adobe.com,www.adobe.com.edgekey.net.,Akamai,cname
+http://wwwimages.adobe.com,wwwimages.adobe.com.edgekey.net.,Akamai,cname
+http://assets.adobedtm.com,san-assets.adobedtm.com.edgekey.net.,Akamai,cname
+http://wwwimages2.adobe.com,ssl.adobe.com.edgekey.net.,Akamai,cname
+http://www.adobe.com/,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/creativecloud.html?promoid=KLXLR,www.adobe.com.edgekey.net.,Akamai,cname
+http://blogs.adobe.com,,,none
+https://www.adobe.com/products/photoshop.html?promoid=KLXLS,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/products/illustrator.html?promoid=KLXLT,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/products/indesign.html?promoid=KLXLU,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/products/premiere.html?promoid=KLXLV,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/products/aftereffects.html?promoid=KLXLW,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/products/photoshop-lightroom.html?promoid=KLXLX,www.adobe.com.edgekey.net.,Akamai,cname
+https://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KOVFF,www.adobe.com.edgekey.net.,Akamai,cname

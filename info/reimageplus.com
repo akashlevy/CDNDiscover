@@ -1,0 +1,14 @@
+http://www.reimageplus.com,,,none
+http://seal.websecurity.norton.com,seal.websecurity.norton.com.edgekey.net.,Akamai,cname
+http://images.scanalert.com,images.scanalert.com.edgekey.net.,Akamai,cname
+http://widget.reviews.io,,,none
+http://cdnrep.reimage.com,vip0x050.ssl.hwcdn.net.,Highwinds,cname
+http://www.reimageplus.com/,,,none
+http://www.reimageplus.com/product/,,,none
+http://www.reimageplus.com/mobile/,,,none
+http://www.reimageplus.com/what-it-fix/,,,none
+http://www.reimageplus.com/how-does-it-work/,,,none
+http://www.reimageplus.com/comparison/,,,none
+http://www.reimageplus.com/testimonials/,,,none
+http://www.reimageplus.com/system-requirements/,,,none
+http://www.reimageplus.com/release-notes/,,,none

@@ -1,0 +1,12 @@
+http://www.apple.com,www.apple.com.edgekey.net.,Akamai,cname
+http://images.apple.com,,,none
+http://www.apple.com,www.apple.com.edgekey.net.,Akamai,cname
+http://www.apple.com/,www.apple.com.edgekey.net.,Akamai,cname
+http://www.apple.com/us/shop/goto/bag,www.apple.com.edgekey.net.,Akamai,cname
+http://store.storeimages.cdn-apple.com,,,none
+http://securemetrics.apple.com,,,none
+http://www.apple.com/mac/,www.apple.com.edgekey.net.,Akamai,cname
+http://www.apple.com/ipad/,www.apple.com.edgekey.net.,Akamai,cname
+http://www.apple.com/iphone/,www.apple.com.edgekey.net.,Akamai,cname
+http://www.apple.com/watch/,www.apple.com.edgekey.net.,Akamai,cname
+http://www.apple.com/tv/,www.apple.com.edgekey.net.,Akamai,cname

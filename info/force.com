@@ -1,0 +1,12 @@
+http://www.force.com,,,none
+http://c2.sfdcstatic.com,c.sfdcstatic.com.edgekey.net.,Akamai,cname
+http://assets.adobedtm.com,san-assets.adobedtm.com.edgekey.net.,Akamai,cname
+http://c1.sfdcstatic.com,c.sfdcstatic.com.edgekey.net.,Akamai,cname
+http://www.force.com/products/quip/overview/,,,none
+http://www.force.com,,,none
+http://www.force.com/solutions/industries/consumer-goods/overview/,,,none
+http://www.force.com/services/cloud-services/overview/,,,none
+http://www.force.com/services/overview/,,,none
+http://www.force.com/services/solutions-finder/,,,none
+http://www.force.com/services/success-plans/overview/,,,none
+http://www.force.com/services/success-plans/features/,,,none

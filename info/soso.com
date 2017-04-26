@@ -1,0 +1,13 @@
+http://www.soso.com,,,none
+http://dl.web.sogoucdn.com,,,none
+http://account.sogou.com,,,none
+http://www.soso.com/docs/terms.htm?v=1,,,none
+http://www.sogou.com,,,none
+http://logo.www.sogou.com,,,none
+http://js.sogou.com,,,none
+http://www.soso.com/docs/more.htm?v=1,,,none
+http://www.soso.com/docs/about.htm?v=1,,,none
+http://www.soso.com/docs/home.htm?v=1,,,none
+http://fuwu.sogou.com,,,none
+http://www.soso.com/docs/yinsi.htm?v=1,,,none
+http://www.soso.com/docs/jingwang2014.htm?v=1,,,none

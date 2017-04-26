@@ -1,0 +1,11 @@
+http://www.soundcloud.com,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://a-v2.sndcdn.com,d15wdfb2rw9n2y.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/explore,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/upload,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/people/directory,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/pro?ref=t201,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/popular/searches,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/charts/top?genre=all-music,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/charts/new?genre=all-music,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname
+http://www.soundcloud.com/charts/top?genre=all-audio,d28n7yywqog3r7.cloudfront.net.,Amazon CloudFront,cname

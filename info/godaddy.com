@@ -1,0 +1,10 @@
+http://www.godaddy.com,www.godaddy.com.edgekey.net.,Akamai,cname
+http://img1.wsimg.com,,,none
+http://www.godaddy.com,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com/es,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com/contact-us.aspx,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com/help,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com/domains/domain-name-search,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com/domains/bulk-domain-search.aspx,www.godaddy.com.edgekey.net.,Akamai,cname
+https://www.godaddy.com/tlds/gtld.aspx,www.godaddy.com.edgekey.net.,Akamai,cname

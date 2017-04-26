@@ -1,0 +1,13 @@
+http://www.whatsapp.com,,,none
+http://www.cdn.whatsapp.net,,,none
+http://www.whatsapp.com,,,none
+http://www.whatsapp.com,,,none
+http://www.whatsapp.com/,,,none
+http://www.whatsapp.com?l=az,,,none
+http://blog.whatsapp.com,,,none
+http://www.whatsapp.com?l=id,,,none
+http://www.whatsapp.com?l=ms,,,none
+http://www.whatsapp.com?l=ca,,,none
+http://www.whatsapp.com?l=cs,,,none
+http://www.whatsapp.com?l=da,,,none
+http://www.whatsapp.com?l=de,,,none

@@ -1,0 +1,12 @@
+http://www.diply.com,diply.com.edgekey.net.,Akamai,cname
+http://pixel.quantserve.com,,,none
+http://cdn.diply.com,cdn.diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/category/inspirational,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/category/videos,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/category/diy,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/category/life,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/category/style,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/category/parenting,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/static/about,diply.com.edgekey.net.,Akamai,cname
+http://www.diply.com/static/advertise,diply.com.edgekey.net.,Akamai,cname

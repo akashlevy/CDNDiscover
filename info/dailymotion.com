@@ -1,0 +1,16 @@
+http://www.dailymotion.com,,,none
+http://s2.dmcdn.net,cs481.wac.edgecastcdn.net.,Edgecast,cname
+http://static1.dmcdn.net,cs481.wac.edgecastcdn.net.,Edgecast,cname
+http://s1.dmcdn.net,cs481.wac.edgecastcdn.net.,Edgecast,cname
+http://www.dailymotion.com/,,,none
+http://www.dailymotion.com/pageitem/authenticationContainer?request=/signin&urlback=%2Fupload?,,,none
+http://www.dailymotion.com/us,,,none
+http://www.dailymotion.com/us/browse,,,none
+http://s1-ssl.dmcdn.net,cs481.wac.edgecastcdn.net.,Edgecast,cname
+http://s2-ssl.dmcdn.net,cs481.wac.edgecastcdn.net.,Edgecast,cname
+http://www.dailymotion.com/following,,,none
+http://www.dailymotion.com/video/x5jmjqa_kendrick-lamar-damn-album-review-dead-end-hip-hop_music,,,none
+http://www.dailymotion.com/DeadEndHipHop,,,none
+http://cdnjs.cloudflare.com,,Cloudflare,name
+http://www.dailymotion.com/us/channel/music,,,none
+http://www.dailymotion.com/video/x5jobk1_call-of-duty-heads-back-to-its-wwii-roots_videogames,,,none

@@ -1,0 +1,12 @@
+http://www.mozilla.org,,,none
+http://www.mozilla.org/en-US/,,,none
+http://www.mozilla.org/en-US/firefox/new/,,,none
+http://www.mozilla.org/en-US/internet-health/,,,none
+http://www.mozilla.org/en-US/technology/,,,none
+http://www.mozilla.org/en-US/about/,,,none
+http://c.statcounter.com,,,none
+http://videos.cdn.mozilla.net,d238bh8cgqmc25.cloudfront.net.,Amazon CloudFront,cname
+http://www.mozilla.org/en-US/contribute/,,,none
+http://www.mozilla.org/en-US/firefox/system-requirements/,,,none
+http://www.mozilla.org/firefox/new/?scene=2,,,none
+http://www.mozilla.org/en-US/privacy/firefox/,,,none

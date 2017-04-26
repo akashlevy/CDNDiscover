@@ -1,0 +1,13 @@
+http://www.adf.ly,,,none
+http://platform.linkedin.com,,,none
+http://cdn.adf.ly,,,none
+http://s7.addthis.com,,,none
+http://www.adf.ly?lang=es&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=de&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=zh&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=pt&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=fr&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=ru&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=ar&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=th&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none
+http://www.adf.ly?lang=hi&csrfLang=df9a4ae297f7965a834a390397d565cd,,,none

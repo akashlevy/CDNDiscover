@@ -1,0 +1,16 @@
+http://www.pornhub.com,,,none
+http://bi.phncdn.com,,,none
+http://cdn1d-static-shared.phncdn.com,,,none
+http://media.trafficjunky.net,,,none
+http://www.pornhub.com/front/lost_password,,,none
+http://www.pornhub.com/front/resend_confirmation_email,,,none
+http://www.pornhub.com/create_account_select,,,none
+http://www.pornhub.com/,,,none
+http://www.pornhub.com/login,,,none
+http://www.pornhub.com/video,,,none
+http://ci.phncdn.com,,,none
+http://www.pornhub.com/categories,,,none
+http://www.pornhub.com/live?track=menu,,,none
+http://m2.nsimg.net,,,none
+http://m1.nsimg.net,,,none
+http://www.pornhub.com/pornstars,,,none

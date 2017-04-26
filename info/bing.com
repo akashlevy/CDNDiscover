@@ -1,0 +1,14 @@
+http://www.bing.com,,,none
+http://www.bing.com/images?FORM=Z9LH,,,none
+http://tse4.mm.bing.net,,,none
+http://tse3.mm.bing.net,,,none
+http://tse2.mm.bing.net,,,none
+http://tse1.mm.bing.net,,,none
+http://www.bing.com/videos?FORM=Z9LH1,,,none
+http://www.bing.com/maps/?FORM=Z9LH2,,,none
+http://www.bing.com/news?FORM=Z9LH3,,,none
+http://www.bing.com/rewards/dashboard,,,none
+http://www.bing.com?FORM=HYLH,,,none
+http://www.bing.com?FORM=HYLH1,,,none
+http://www.bing.com/search?q=weaver+bird&FORM=hpcapt&filters=HpDate%3a%2220170425_0700%22,,,none
+http://www.bing.com/saves?type=images&FORM=HPMUSA,,,none

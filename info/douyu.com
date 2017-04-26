@@ -1,0 +1,13 @@
+http://www.douyu.com,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://shark.douyucdn.cn,shark.douyucdn.cn.wscdns.com.,ChinaNetCenter,cname
+http://rpic.douyucdn.cn,rpic.douyucdn.cn.wscdns.com.,ChinaNetCenter,cname
+http://staticlive.douyucdn.cn,,,none
+http://www.douyu.com/,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/all,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/game/LOL,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/game/How,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/game/DOTA2,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/game/TVgame,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/game/Overwatch,www.douyu.com.wscdns.com.,ChinaNetCenter,cname
+http://www.douyu.com/directory/game/yys,www.douyu.com.wscdns.com.,ChinaNetCenter,cname

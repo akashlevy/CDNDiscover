@@ -1,0 +1,13 @@
+http://www.github.com,,,none
+http://assets-cdn.github.com,github.map.fastly.net.,Fastly,cname
+http://www.github.com/features,,,none
+http://www.github.com/business,,,none
+http://www.github.com/explore,,,none
+http://avatars1.githubusercontent.com,github.map.fastly.net.,Fastly,cname
+http://avatars2.githubusercontent.com,github.map.fastly.net.,Fastly,cname
+http://avatars3.githubusercontent.com,github.map.fastly.net.,Fastly,cname
+http://www.github.com/pricing,,,none
+http://www.github.com/dashboard,,,none
+http://www.github.com/login,,,none
+http://www.github.com/join?source=header-home,,,none
+http://www.github.com/open-source,,,none

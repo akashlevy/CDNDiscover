@@ -1,0 +1,9 @@
+http://www.ask.com,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/privacy-policy,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/terms-of-service,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/sitemap.html,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/terms-of-service#link1,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/terms-of-service#link2,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/terms-of-service#link3,www.ask.com.edgesuite.net.,Akamai,cname
+http://www.ask.com/terms-of-service#link4,www.ask.com.edgesuite.net.,Akamai,cname

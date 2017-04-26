@@ -1,0 +1,14 @@
+http://www.bongacams.com,,,none
+http://i1.bongacams.com,,,none
+http://ius.bongacams.com,,,none
+http://www.bongacams.com/,,,none
+http://www.bongacams.com/all-models,,,none
+http://www.bongacams.com/top-models,,,none
+http://ius3.bongacams.com,,,none
+http://ius2.bongacams.com,,,none
+http://ius1.bongacams.com,,,none
+http://www.bongacams.com,,,none
+http://www.bongacams.com/members/join,,,none
+http://www.bongacams.com/forgot-password,,,none
+http://www.bongacams.com/ajax-member-chat-faq?section=private,,,none
+http://www.bongacams.com/ajax-member-chat-faq?section=fullprivate,,,none

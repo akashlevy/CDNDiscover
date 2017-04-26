@@ -1,0 +1,16 @@
+http://www.cnet.com,,,none
+http://mtrx.go.sonobi.com,prod.sonobi-go.map.fastly.net.,Fastly,cname
+http://cnet2.cbsistatic.com,cnet.cbsistatic.com.edgekey.net.,Akamai,cname
+http://cnet4.cbsistatic.com,cnet.cbsistatic.com.edgekey.net.,Akamai,cname
+http://js-sec.indexww.com,js-sec.casalemedia.com.edgekey.net.,Akamai,cname
+http://cnet1.cbsistatic.com,cnet.cbsistatic.com.edgekey.net.,Akamai,cname
+http://cnet3.cbsistatic.com,cnet.cbsistatic.com.edgekey.net.,Akamai,cname
+https://www.cnet.com/,,,none
+http://www.cnet.com/reviews/,,,none
+http://www.cnet.com/best-products/,,,none
+http://www.cnet.com/topics/appliances/,,,none
+http://www.cnet.com/topics/audio/,,,none
+http://www.cnet.com/topics/cameras/,,,none
+http://www.cnet.com/roadshow/,,,none
+http://www.cnet.com/topics/networking/,,,none
+http://www.cnet.com/topics/desktops/,,,none

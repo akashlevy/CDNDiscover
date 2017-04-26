@@ -1,0 +1,11 @@
+http://www.vice.com,http2.vice.map.fastly.net.,Fastly,cname
+http://vice-d.openx.net,,,none
+http://platform.instagram.com,,,none
+http://vice-sundry-assets-cdn.vice.com,http2.vice.map.fastly.net.,Fastly,cname
+http://pixel.quantserve.com,,,none
+http://vice-publishers-cdn.vice.com,http2.vice.map.fastly.net.,Fastly,cname
+http://native.sharethrough.com,,,none
+http://advice-ads-cdn.vice.com,http2.vice.map.fastly.net.,Fastly,cname
+http://vice-web-statics-cdn.vice.com,http2.vice.map.fastly.net.,Fastly,cname
+http://secure-au.imrworldwide.com,,,none
+http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname

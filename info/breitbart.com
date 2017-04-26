@@ -1,0 +1,11 @@
+http://www.breitbart.com,,,none
+http://pixel.quantserve.com,akamai-pixel.quantserve.com.akadns.net.,Akamai,cname
+http://media.breitbart.com,media.aotto.netdna-cdn.com.,MaxCDN,cname
+http://www.breitbart.com/,,,none
+http://www.breitbart.com/newsletter-signup/,,,none
+http://www.breitbart.com/big-government/,,,none
+http://www.breitbart.com/big-journalism/,,,none
+http://www.breitbart.com/big-hollywood/,,,none
+http://www.breitbart.com/national-security/,,,none
+http://www.breitbart.com/tech/,,,none
+http://www.breitbart.com/video/,,,none

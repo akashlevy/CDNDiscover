@@ -1,0 +1,13 @@
+http://www.vk.com,,,none
+http://top-fwz1.mail.ru,,,none
+http://www.vk.com,,,none
+http://www.vk.com/,,,none
+http://www.vk.com/join,,,none
+http://www.vk.com/restore,,,none
+http://www.vk.com/about,,,none
+http://pp.userapi.com,,,none
+http://www.vk.com/support?act=home,,,none
+http://www.vk.com/terms,,,none
+http://www.vk.com/ads,,,none
+http://vk.com,,,none
+http://www.vk.com/dev,,,none

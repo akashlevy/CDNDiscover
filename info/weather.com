@@ -1,0 +1,10 @@
+http://www.weather.com,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://tags.tiqcdn.com,,,none
+http://dsx.weather.com,dsx.weather.com.edgekey.net.,Akamai,cname
+http://tags.crwdcntrl.net,cs84.wac.edgecastcdn.net.,Edgecast,cname
+http://weather.com,,,none
+http://js-sec.indexww.com,js-sec.casalemedia.com.edgekey.net.,Akamai,cname
+http://www.weather.com/storms/tornado/news/severe-weather-tornado-forecast-late-april-2017,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://s.w-x.co,prod.weather.map.fastly.net.,Fastly,cname
+http://www.weather.com/slideshows,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/travel/news/incredible-views-every-state,pmd-www.weather.com.edgekey.net.,Akamai,cname

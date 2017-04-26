@@ -1,0 +1,12 @@
+http://www.booking.com,,,none
+http://t-ec.bstatic.com,cs716.wac.edgecastcdn.net.,Edgecast,cname
+http://s-ec.bstatic.com,cs715.wac.edgecastcdn.net.,Edgecast,cname
+http://www.booking.com,,,none
+http://www.booking.com/index.en-us.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=en-us;lang_click=top;cdl=en-gb,,,none
+http://www.booking.com/index.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=en-gb;lang_click=top;cdl=en-gb,,,none
+http://www.booking.com/index.es.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=es;lang_click=top;cdl=en-gb,,,none
+http://www.booking.com/index.zh-cn.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=zh-cn;lang_click=top;cdl=en-gb,,,none
+http://www.booking.com/index.fr.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=fr;lang_click=top;cdl=en-gb,,,none
+http://www.booking.com/index.de.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=de;lang_click=top;cdl=en-gb,,,none
+http://www.booking.com/index.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=en-gb;lang_click=other;cdl=en-gb,,,none
+http://www.booking.com/index.en-us.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBLrgBCsgBBdgBAegBAfgBC5ICAXmoAgM;sid=6dd1d722425be920d189334d536fbece;sb_price_type=total;=;lang=en-us;lang_click=other;cdl=en-gb,,,none

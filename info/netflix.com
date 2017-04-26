@@ -1,0 +1,14 @@
+http://www.netflix.com,,,none
+http://codex.nflxext.com,,,none
+http://assets.nflxext.com,,,none
+http://www.netflix.com/,,,none
+http://www.netflix.com/login,,,none
+http://www.netflix.com/yourAccount,,,none
+http://www.netflix.com/redeem,,,none
+http://www.netflix.com/watch,,,none
+http://www.netflix.com,,,none
+http://www.netflix.com/originals,,,none
+http://www.netflix.com/LoginHelp,,,none
+http://www.netflix.com/giftterms,,,none
+http://help.nflximg.net,,,none
+http://secure.netflix.com,sha2.secure.netflix.edgekey.net.,Akamai,cname

@@ -1,0 +1,15 @@
+http://www.slack.com,,,none
+http://a.slack-edge.com,,,none
+http://www.slack.com/get,,,none
+http://www.slack.com,,,none
+http://www.slack.com/ssb/download-osx,,,none
+http://www.slack.com/ssb/download-win,,,none
+http://www.slack.com/help/contact,,,none
+http://www.slack.com/is,,,none
+http://www.slack.com/enterprise,,,none
+http://www.slack.com/pricing,,,none
+http://www.slack.com/guides,,,none
+http://fast.wistia.com,global.prod.fastly.net.,Fastly,cname
+http://p4.zdassets.com,,,none
+http://slack.zendesk.com,,,none
+http://code.jquery.com,code.jquery.netdna-cdn.com.,MaxCDN,cname

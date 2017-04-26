@@ -1,0 +1,13 @@
+http://www.tokopedia.com,,,none
+http://cdn.onesignal.com,,,none
+http://accounts.tokopedia.com,,,none
+http://ecs7.tokopedia.net,cs219.wpc.edgecastcdn.net.,Edgecast,cname
+https://www.tokopedia.com/,,,none
+http://www.tokopedia.com,,,none
+https://www.tokopedia.com/p/fashion-wanita,,,none
+https://www.tokopedia.com/p/fashion-pria,,,none
+https://www.tokopedia.com/p/fashion-muslim,,,none
+https://www.tokopedia.com/p/fashion-anak,,,none
+https://www.tokopedia.com/p/kecantikan,,,none
+https://www.tokopedia.com/p/kesehatan,,,none
+https://www.tokopedia.com/p/ibu-bayi,,,none

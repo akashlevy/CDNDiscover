@@ -1,0 +1,12 @@
+http://www.steampowered.com,,,none
+http://store.akamai.steamstatic.com,store.akamai.steamstatic.com.edgesuite.net.,Akamai,cname
+http://cdn.akamai.steamstatic.com,cdn.akamai.steamstatic.com.edgesuite.net.,Akamai,cname
+http://www.steampowered.com?l=bulgarian,,,none
+http://www.steampowered.com?l=czech,,,none
+http://www.steampowered.com?l=danish,,,none
+http://www.steampowered.com?l=dutch,,,none
+http://www.steampowered.com?l=finnish,,,none
+http://www.steampowered.com?l=french,,,none
+http://www.steampowered.com?l=greek,,,none
+http://www.steampowered.com?l=german,,,none
+http://www.steampowered.com?l=hungarian,,,none

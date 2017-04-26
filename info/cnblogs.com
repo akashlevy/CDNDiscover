@@ -1,0 +1,14 @@
+http://www.cnblogs.com,,,none
+http://common.cnblogs.com,,,none
+http://pic.cnblogs.com,,,none
+https://www.cnblogs.com/,,,none
+http://www.cnblogs.com/,,,none
+http://www.cnblogs.com/pick/,,,none
+http://www.cnblogs.com/candidate/,,,none
+http://www.cnblogs.com/news/,,,none
+http://images0.cnblogs.com,,,none
+http://images2015.cnblogs.com,,,none
+http://www.cnblogs.com/following,,,none
+http://www.cnblogs.com/aggsite/mycommented,,,none
+http://www.cnblogs.com/aggsite/mydigged,,,none
+http://www.cnblogs.com,,,none

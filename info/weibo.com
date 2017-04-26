@@ -1,0 +1,11 @@
+http://www.weibo.com,,,none
+http://tva1.sinaimg.cn,,,none
+http://ui.sina.com,,,none
+http://tva3.sinaimg.cn,,,none
+http://tvax2.sinaimg.cn,,,none
+http://news.sina.com.cn,,,none
+http://i.sso.sina.com.cn,,,none
+http://tva2.sinaimg.cn,,,none
+http://dailynews.sina.com,,,none
+http://tva4.sinaimg.cn,,,none
+http://www.weibo.com/api/data/p/1/c/2,,,none

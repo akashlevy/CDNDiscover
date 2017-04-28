@@ -20,7 +20,7 @@ def run():
         texfile.write('\\label{cdn-stats-table}\n')
         texfile.write('\\begin{tabular}{|lllll|}\n')
         texfile.write('\\hline\n')
-        texfile.write('\\# & CDN & No. of Domains & \\% CDN & \\% total \\\\\n')
+        texfile.write('\\# & CDN & No. Domains & \\% CDN & \\% total \\\\\n')
         texfile.write('\\hline\n')
 
         # Generate entries

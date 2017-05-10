@@ -1,0 +1,8 @@
+http://indiatimes.com/,,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://media.indiatimes.in,media.indiatimes.in.edgekey.net.,Akamai,cname
+http://images.taboola.com,f2.shared.global.fastly.net.,Fastly,cname
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://staticresources.indiatimes.in,staticresources.indiatimes.in.edgesuite.net.,Akamai,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://indiatimes.com/#top,,,none

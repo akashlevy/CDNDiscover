@@ -1,0 +1,19 @@
+http://www.goodreads.com/,,,none
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://s.gr-assets.com,d1iqki3au1knww.cloudfront.net.,Amazon CloudFront,cname
+http://images.gr-assets.com,d2arxad8u2l0g7.cloudfront.net.,Amazon CloudFront,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.goodreads.com/,,,none
+http://www.goodreads.com/user/forgot_password,,,none
+http://www.goodreads.com/about/terms,,,none
+http://www.goodreads.com/google_accounts/sign_in,,,none
+http://www.goodreads.com/about/how_it_works,,,none
+http://twitter.com,,,none
+http://www.goodreads.com/book/show/1137215.Boneshaker,,,none
+http://i.gr-assets.com,d3201w7qr60x0r.cloudfront.net.,Amazon CloudFront,cname
+http://assets.pinterest.com,assets.pinterest.com.edgekey.net.,Akamai,cname
+http://platform.twitter.com,,,none
+http://www.goodreads.com/book/show/142296.The_Anubis_Gates,,,none
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://www.goodreads.com/book/show/7670800-clementine,,,none
+http://www.goodreads.com/book/show/8253037-the-buntline-special,,,none

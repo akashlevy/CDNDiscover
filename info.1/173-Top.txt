@@ -1,0 +1,11 @@
+https://duckduckgo.com/,,,none
+https://duckduckgo.com/,,,none
+https://duckduckgo.com/about,,,none
+http://images.duckduckgo.com,,,none
+https://duckduckgo.com/bang,,,none
+https://duckduckgo.com/settings#theme,,,none
+https://duckduckgo.com/settings,,,none
+https://duckduckgo.com/privacy,,,none
+https://duckduckgo.com/app,,,none
+https://duckduckgo.com/spread,,,none
+https://duckduckgo.com/feedback,,,none

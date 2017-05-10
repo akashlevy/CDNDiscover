@@ -1,0 +1,14 @@
+http://soundcloud.com/,,,none
+http://soundcloud.com/,,,none
+http://5352434.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://5485101.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://soundcloud.com/charts/top,,,none
+http://va.sndcdn.com,d1qj8m9gs69rhf.cloudfront.net.,Amazon CloudFront,cname
+http://soundcloud.com/upload,,,none
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+http://soundcloud.com/pages/privacy,,,none
+http://soundcloud.com/pages/cookies,,,none
+http://soundcloud.com/go,,,none
+http://soundcloud.com/popular/searches,,,none
+http://soundcloud.com/people/directory,,,none
+http://soundcloud.com/pages/contact,,,none

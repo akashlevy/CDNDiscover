@@ -1,0 +1,28 @@
+http://www.independent.co.uk/,t.shared.global.fastly.net.,Fastly,cname
+http://secure-gl.imrworldwide.com,,,none
+http://us.ads.justpremium.com,,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://cdns.US1.gigya.com,cdns.gigya.com.edgekey.net.,Akamai,cname
+http://widget.perfectmarket.com,prod.taboola.map.fastly.net.,Fastly,cname
+http://sp.mdotlabs.com,d6a8a5x8b2y3x.cloudfront.net.,Amazon CloudFront,cname
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://w.visualdna.com,,,none
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://ads.pubmatic.com,pubmatic.edgekey.net.,Akamai,cname
+http://cdn.krxd.net,,,none
+http://platform.twitter.com,,,none
+http://www.independent.co.uk/,t.shared.global.fastly.net.,Fastly,cname
+http://eu-u.openx.net,,,none
+http://www.independent.co.uk/us,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/news/uk,t.shared.global.fastly.net.,Fastly,cname
+http://static.independent.co.uk,prod.t.ssl.global.fastly.net.,Fastly,cname
+http://cdnx.tribalfusion.com,wildcard.tribalfusion.com.edgekey.net.,Akamai,cname
+http://www.independent.co.uk/news/world,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/news/world/europe,t.shared.global.fastly.net.,Fastly,cname
+http://tags.bluekai.com,,,none
+http://www.independent.co.uk/news/business,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/voices,t.shared.global.fastly.net.,Fastly,cname
+http://design.sharethrough.com,dzbgjozu10clr.cloudfront.net.,Amazon CloudFront,cname
+http://static.sharethrough.com,,,none
+http://www.independent.co.uk/voices/comment,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/author/robert-fisk,t.shared.global.fastly.net.,Fastly,cname

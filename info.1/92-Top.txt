@@ -1,0 +1,10 @@
+http://news.yahoo.com/,,,none
+http://s.yimg.com,,,none
+http://news.yahoo.com/#Navigation,,,none
+http://news.yahoo.com/#Main,,,none
+http://news.yahoo.com/#Aside,,,none
+http://news.yahoo.com/news/live-updates-reactions-president-trumps-firing-fbi-director-james-comey-224348100.html,,,none
+http://news.yahoo.com/news/trump-fires-fbi-director-james-214644292.html,,,none
+http://news.yahoo.com/news/6-reasons-why-donald-trump-223413361.html,,,none
+http://news.yahoo.com/gma/family-slain-boston-doctors-remember-lives-not-died-114004480--abc-news-topstories.html,,,none
+http://news.yahoo.com/news/insurers-fleeing-obamacare-trump-helping-195233875.html,,,none

@@ -1,0 +1,16 @@
+https://www.box.com/,,,none
+http://servedby.flashtalking.com,vip0x013.map2.ssl.hwcdn.net.,Highwinds,cname
+http://cdn03.boxcdn.net,,,none
+http://app.box.com,,,none
+http://assets.adobedtm.com,san-assets.adobedtm.com.edgekey.net.,Akamai,cname
+http://a6264210458.cdn.optimizely.com,wildcard.cdn.optimizely.com.edgekey.net.,Akamai,cname
+http://pixel.mathtag.com,pixel.mathtag.com.edgekey.net.,Akamai,cname
+https://www.box.com/home,,,none
+https://www.box.com/,,,none
+https://www.box.com/collaboration,,,none
+https://www.box.com/file-sharing,,,none
+https://www.box.com/mobility,,,none
+https://www.box.com/security,,,none
+https://www.box.com/content-management,,,none
+https://www.box.com/platform,,,none
+https://www.box.com/security/it-admin-controls,,,none

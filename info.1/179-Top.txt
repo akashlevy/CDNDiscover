@@ -1,0 +1,18 @@
+http://www.azlyrics.com/,,,none
+http://cdn.bandsintown.com,d3s5p05dbinif0.cloudfront.net.,Amazon CloudFront,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://images.azlyrics.com,,,none
+http://loadus.exelator.com,,,none
+http://www.azlyrics.com,,,none
+http://us-u.openx.net,,,none
+http://srv.clickfuse.com,,,none
+http://www.azlyrics.com,,,none
+http://www.azlyrics.com/a.html,,,none
+http://www.azlyrics.com/b.html,,,none
+http://load.s3.amazonaws.com,,,none
+http://www.azlyrics.com/c.html,,,none
+http://www.azlyrics.com/d.html,,,none
+http://www.azlyrics.com/e.html,,,none
+http://www.azlyrics.com/f.html,,,none
+http://www.azlyrics.com/g.html,,,none
+http://www.azlyrics.com/h.html,,,none

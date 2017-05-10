@@ -1,0 +1,16 @@
+http://www.evernote.com/,,,none
+http://cdn1.evernote.com,cdn1.evernote.com.edgekey.net.,Akamai,cname
+http://analytics.twitter.com,,,none
+http://t.co,,,none
+http://www.evernote.com/,,,none
+http://imp2.ads.linkedin.com,,,none
+http://www.evernote.com/#content,,,none
+https://www.evernote.com/Home.action,,,none
+http://www.evernote.com/pricing/,,,none
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+https://www.evernote.com/Home.action?offer=www_menu,,,none
+https://www.evernote.com/Registration.action?offer=www_menu&offer=&origin=marketingsite,,,none
+http://r.turn.com,r.turn.com.akadns.net.,Akamai,cname
+http://www.evernote.com/pricing?offer=www_menu,,,none
+http://www.evernote.com/upgrade/?tier=plus&offer=www_menu,,,none
+http://www.evernote.com/upgrade/?tier=premium&offer=www_menu,,,none

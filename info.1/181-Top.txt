@@ -1,0 +1,15 @@
+http://www.dell.com/,www1.dell-cidr.akadns.net.,Akamai,cname
+http://i.dell.com,img.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com?~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com/,www1.dell-cidr.akadns.net.,Akamai,cname
+https://www.dell.com/identity/global/loginorregister?connectionId=98254675-AC6F-47D9-A7E4-4537724F135D&wreply=http%3a%2f%2fwww.dell.com%2fen-us%2fhome%2f&c=us&l=en&r=us&s=dhs&cs=19&~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com,www1.dell-cidr.akadns.net.,Akamai,cname
+http://cdns.US1.gigya.com,cdns.gigya.com.edgekey.net.,Akamai,cname
+https://www.dell.com/identity/v2/discovery?cht=login&l=en&c=us&s=corp&~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com/content/public/xdbredirect.aspx?link=global:nav:partnerprogram:signin&~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com/en-us/myaccount?~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+https://www.dell.com/support/orderstatus?~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://si.cdn.dell.com,si.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com/support/assets?~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://www.dell.com/en-us/learn/finance-and-rewards/rewards-details?~ck=mn,www1.dell-cidr.akadns.net.,Akamai,cname
+http://universal.iperceptions.com,iperceptions01.azureedge.net.,Microsoft Azure,cname

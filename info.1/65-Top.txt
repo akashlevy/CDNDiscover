@@ -1,0 +1,16 @@
+http://www.indeed.com/,,,none
+http://www.indeed.com/,,,none
+http://www.indeed.com/resumes?isid=find-resumes&ikw=hometop&co=US&hl=en,,,none
+http://secure.adnxs.com,,,none
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://pixel-geo.prfct.co,,,none
+http://www.indeed.com/hire?hl=en&cc=US,,,none
+http://d3fw5vlhllyvee.cloudfront.net,,Amazon CloudFront,name
+http://www.indeed.com/promo/resume,,,none
+https://www.indeed.com/account/login?dest=%2F,,,none
+http://www.indeed.com/advanced_search?l=Princeton%2C+NJ,,,none
+http://www.indeed.com/jobs,,,none
+http://www.indeed.com/setprefs?action=set&hl=es&tk=1bfnb05qn4f0mfo7&prevhl=en,,,none
+http://www.indeed.com/promo/gotajob,,,none
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname

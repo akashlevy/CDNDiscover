@@ -1,0 +1,22 @@
+http://www.xfinity.com/,www.xfinity.com.edgekey.net.,Akamai,cname
+http://odol-atsec-pan-32.cim-prog.top.comcast.net,,,none
+http://cdn.comcast.com,cdn.comcast.com.edgekey.net.,Akamai,cname
+http://universal.iperceptions.com,iperceptions01.azureedge.net.,Microsoft Azure,cname
+http://www.xfinity.com,www.xfinity.com.edgekey.net.,Akamai,cname
+http://4053494.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://comcast.demdex.net,,,none
+http://assets.adobedtm.com,san-assets.adobedtm.com.edgekey.net.,Akamai,cname
+http://bat.bing.com,,,none
+http://www.xfinity.com/,www.xfinity.com.edgekey.net.,Akamai,cname
+http://www.xfinity.com/checkout/myorder.aspx,www.xfinity.com.edgekey.net.,Akamai,cname
+http://www.xfinity.com/Corporate/shop/productoverview.html,www.xfinity.com.edgekey.net.,Akamai,cname
+http://www.xfinity.com/move-transfer,www.xfinity.com.edgekey.net.,Akamai,cname
+http://cdn.userreplay.net,,,none
+https://www.xfinity.com,www.xfinity.com.edgekey.net.,Akamai,cname
+https://www.xfinity.com/learn/offers#/,www.xfinity.com.edgekey.net.,Akamai,cname
+https://www.xfinity.com/support/,www.xfinity.com.edgekey.net.,Akamai,cname
+http://cdn.customer.comcast.com,cdn.customer.comcast.com.edgekey.net.,Akamai,cname
+http://secure.xfinity.com,secure.xfinity.com.edgekey.net.,Akamai,cname
+https://www.xfinity.com/Corporate/Learn/DigitalCable/digitalcable.html,www.xfinity.com.edgekey.net.,Akamai,cname
+http://odol-atsec-pan-15.cim-prog.top.comcast.net,,,none
+https://www.xfinity.com/learn/internet-service,www.xfinity.com.edgekey.net.,Akamai,cname

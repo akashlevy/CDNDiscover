@@ -1,0 +1,17 @@
+http://www.amazon.co.jp/,,,none
+http://images-fe.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
+http://aax-fe.amazon-adsystem.com,,,none
+http://fls-fe.amazon.co.jp,,,none
+http://www.amazon.co.jp/ref=nav_logo/357-3854931-3846657,,,none
+http://www.amazon.co.jp/gp/prime/ref=nav_logo_prime_join/357-3854931-3846657,,,none
+http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
+http://www.amazon.co.jp/gp/prime/ref=nav_tooltip_redirect/357-3854931-3846657,,,none
+http://www.amazon.co.jp/gp/registry/wishlist/ref=nav__gno_createwl?ie=UTF8&triggerElementID=createList,,,none
+http://www.amazon.co.jp/gp/registry/search.html/ref=nav__gno_listpop_find?ie=UTF8&type=wishlist,,,none
+http://www.amazon.co.jp/wishlist/universal/ref=nav__gno_listpop_uwl,,,none
+http://www.amazon.com,,,none
+http://www.amazon.cn,,,none
+http://www.amazon.co.jp/gp/site-directory/ref=nav__fullstore,,,none
+http://www.amazon.co.jp/Amazon-Video/b/ref=nav__aiv_vid?ie=UTF8&node=2351649051,,,none
+http://m.media-amazon.com,,,none
+http://www.amazon.co.jp/Prime-Video/b/ref=nav__aiv_piv?ie=UTF8&node=3535604051,,,none

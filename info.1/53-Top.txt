@@ -1,0 +1,11 @@
+http://www.bet365.com/,,,none
+https://www.bet365.com/home/?lng=1,,,none
+https://www.bet365.com/es/,,,none
+https://www.bet365.com/de/,,,none
+http://www.bet365.com,,,none
+https://www.bet365.com/it/,,,none
+https://www.bet365.com/pt/,,,none
+https://www.bet365.com/da/,,,none
+https://www.bet365.com/sv/,,,none
+https://www.bet365.com/nn/,,,none
+https://www.bet365.com/zh-CHS/,,,none

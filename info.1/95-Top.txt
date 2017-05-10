@@ -1,0 +1,16 @@
+http://www.weather.com/,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://secure-us.imrworldwide.com,,,none
+http://dsx.weather.com,dsx.weather.com.edgekey.net.,Akamai,cname
+http://s.w-x.co,prod.weather.map.fastly.net.,Fastly,cname
+http://gateway.answerscloud.com,answerscloud.map.fastly.net.,Fastly,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://us-u.openx.net,,,none
+http://bcp.crwdcntrl.net,,,none
+http://www.weather.com/,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/life/profile/,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/life/manage-notifications,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/weather/today/l/USDC0001:1:US,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://widget.perfectmarket.com,prod.taboola.map.fastly.net.,Fastly,cname
+http://content.synapsys.us,,,none
+http://acdn.adnxs.com,prod.appnexus.map.fastly.net.,Fastly,cname
+http://www.weather.com/weather/hourbyhour/l/USDC0001:1:US,pmd-www.weather.com.edgekey.net.,Akamai,cname

@@ -1,0 +1,16 @@
+http://www.reverso.net/,,,none
+http://logv31.xiti.com,,,none
+http://cdn.reverso.net,reversoprodcdn.azureedge.net.,Microsoft Azure,cname
+http://www.reverso.net/text_translation.aspx?lang=EN,,,none
+http://www.reverso.net/,,,none
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://www.reverso.net/spell-checker/english-spelling-grammar/,,,none
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://logv11.xiti.com,,,none
+http://www.reverso.net/more.aspx?lang=EN,,,none
+http://www.reverso.net/feedback.aspx?lang=EN,,,none
+http://www.reverso.net/tricks.aspx?lang=EN,,,none
+http://www.reverso.net/tellafriend.aspx?lang=EN,,,none
+http://www.reverso.net/disclaimer.aspx?lang=EN,,,none
+http://www.reverso.net/privacy.aspx?lang=EN,,,none

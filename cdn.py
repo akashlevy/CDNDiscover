@@ -1,14 +1,15 @@
-'''Finds CDNs for the top 1000 Amazon Alexa ranked websites'''
+'''Finds CDNs for the top 500 Amazon Alexa ranked websites'''
 
 # Standard library imports
 import json
 from Queue import Empty, Queue
-from urlparse import ParseResult, urljoin, urlparse
+from urlparse import urljoin, urlparse
 
 # Custom library imports
 import dns.resolver
-import mechanize
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.common.exceptions import TimeoutException, WebDriverException
 
 # Maximum number of URLs to crawl per page
 MAX_URLS = 10
@@ -21,30 +22,24 @@ CDN = json.load(open('cdn.json'))
 def run():
     '''Run the CDN finder'''
     # Get top URLs
-    topurls = [url.strip() for url in list(open('top1000'))]
+    categ = 'Top'
+    topurls = open('rankings/%s.txt' % categ).read().splitlines()
 
     # Open browser, make it look real, and make it handle robots/throttling
-    browser = mechanize.Browser()
-    browser.set_handle_equiv(False)
-    browser.set_handle_robots(False)
-    browser.addheaders = [('User-agent', 'Mozilla/5.0 (X11; \
-                            U; Linux i686; en-US; rv:1.9.0.1) \
-                            Gecko/2008071615 Fedora/3.0.1-1.fc9 \
-                            Firefox/3.0.1')]
-
+    fprof = webdriver.FirefoxProfile()
+    fprof.set_preference("http.response.timeout", 20)
+    fprof.set_preference("dom.max_script_run_time", 15)
+    fprof.add_extension(extension='adblock.xpi')
+    browser = webdriver.Firefox(firefox_profile=fprof)
+    browser.set_page_load_timeout(30)
 
     # Run crawler over CDN
-    for url in topurls[199:200]:
+    for i, url in enumerate(topurls[:250]):
+        if i not in [67, 149, 187, 196, 199, 207, 208, 216]:
+            continue
+        
         # Open output file
-        outfile = open('info/' + url, 'w')
-
-        # Make URL good
-        url = urlparse(url, 'http')
-        netloc = url.netloc or url.path
-        if not netloc.startswith('www.'):
-            netloc = 'www.' + netloc
-        url = ParseResult('http', netloc, url.path if url.netloc else '',
-                          *url[3:]).geturl()
+        outfile = open('info/%d-%s.txt' % (i, categ), 'w')
 
         # First item is top domain
         queue = Queue()
@@ -59,7 +54,7 @@ def run():
 
         # Now crawl inner links
         for _ in range(MAX_URLS):
-            # Get the URL
+            # Get the URL (if any left)
             try:
                 url = queue.get(False)
             except Empty:
@@ -67,11 +62,14 @@ def run():
 
             # Get page and parse
             try:
-                page = browser.open(url, timeout=15)
+                browser.get(url)
+                soup = BeautifulSoup(browser.page_source, 'lxml')
+            except TimeoutException:
+                print 'Loading took too much time!'
+                continue
             except Exception as exception:
                 print exception
                 continue
-            soup = BeautifulSoup(page.read(), 'lxml')
 
             # Get same-domain links on the page
             for link in soup.find_all('a', href=True):
@@ -83,7 +81,9 @@ def run():
                     seenlinks.add(urljoin(url, link['href']))
                     queue.put(urljoin(url, link['href']))
 
-            # Get diff-domain embedded links
+            # Get diff-domain embedded links that are not scripts/noscripts
+            for subtree in soup.findAll(['script', 'noscript']):
+                subtree.extract()
             emblinks = [link['src'] for link in soup.find_all(src=True)]
             emblinks = set([urlparse(emblink).netloc for emblink in emblinks])
             try:
@@ -92,11 +92,11 @@ def run():
                 pass
 
             # Get CDN associated with URL
-            getcdn(url, page.info(), outfile)
+            getcdn(url, outfile)
 
             # For embedded links
             for emblink in emblinks - seenemblinks:
-                getcdn('http://' + emblink, {}, outfile)
+                getcdn('http://' + emblink, outfile)
 
             # Mark embedded links as done
             seenemblinks = seenemblinks.union(emblinks)
@@ -107,32 +107,10 @@ def run():
         # Top URL divider
         print '------------------------------------------------------'
 
-def getcdn(url, headers, outfile):
+def getcdn(url, outfile):
     '''Get CDN from URL and headers'''
     # Check whether at least one CDN has been written to file
     wrote = False
-
-    # Check headers
-    for header in CDN['headers']:
-        try:
-            if header[1] == headers[header[0]]:
-                print url + ',',
-                print header[2] + ': Found in headers!'
-                outfile.write(url + ',,' + header[2] + ',headers\n')
-                wrote = True
-        except KeyError:
-            pass
-
-    # Check multiheaders
-    for hlist in CDN['multiheaders']:
-        try:
-            if all([header[1] == headers[header[0]] for header in hlist[0]]):
-                print url + ',',
-                print hlist[1] + ': Found in multiheaders!'
-                outfile.write(url + ',,' + hlist[1] + ',multiheaders\n')
-                wrote = True
-        except KeyError:
-            pass
 
     # Check CNAME
     host = urlparse(url).netloc

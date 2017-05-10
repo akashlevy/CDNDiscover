@@ -90,3 +90,6 @@ ENV/
 
 # Alexa keys
 alexa_keys.txt
+
+# Logs
+geckodriver.log

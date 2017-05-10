@@ -1,0 +1,16 @@
+http://www.engadget.com/,,,none
+http://cdn.at.atwola.com,,,none
+http://o.aolcdn.com,,,none
+http://sb.scorecardresearch.com,sb.scorecardresearch.com.edgekey.net.,Akamai,cname
+http://s.aolcdn.com,,,none
+http://www.engadget.com/,,,none
+http://cdn.flashtalking.com,cdn.flashtalking.com.edgekey.net.,Akamai,cname
+https://www.engadget.com/user/login,,,none
+http://www.engadget.com/#search-box,,,none
+http://www.engadget.com/gear/,,,none
+http://www.engadget.com/gaming/,,,none
+http://s.blogsmithmedia.com,s.blogsmithmedia.com.edgekey.net.,Akamai,cname
+http://www.engadget.com/entertainment/,,,none
+http://www.engadget.com/videos/,,,none
+http://www.engadget.com/reviews/,,,none
+http://www.engadget.com/reviews/all/,,,none

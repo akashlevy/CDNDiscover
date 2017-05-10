@@ -1,0 +1,6 @@
+https://mail.google.com/,googlemail.l.google.com.,Google,cname
+http://apis.google.com,plus.l.google.com.,Google,cname
+http://accounts.google.com,,Google,name
+https://mail.google.com/gmail/about/,googlemail.l.google.com.,Google,cname
+https://mail.google.com/gmail/about/for-work/,googlemail.l.google.com.,Google,cname
+https://mail.google.com/gmail/about/policy/,googlemail.l.google.com.,Google,cname

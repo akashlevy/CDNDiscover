@@ -1,0 +1,17 @@
+http://support.microsoft.com/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://www.microsoftstore.com,www.microsoftstore.com.edgekey.net.,Akamai,cname
+http://login.live.com,,,none
+http://compass-ssl.microsoft.com,,,none
+http://a3698060313.cdn.optimizely.com,wildcard.cdn.optimizely.com.edgekey.net.,Akamai,cname
+http://c1.microsoft.com,,,none
+http://7962161087.cdn.optimizely.com,wildcard.cdn.optimizely.com.edgekey.net.,Akamai,cname
+http://assets.onestore.ms,assets.onestore.ms.akadns.net.,Akamai,cname
+http://support.microsoft.com/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+https://support.microsoft.com/en-us,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/products/windows?os=windows-10,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/products/microsoft-account/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/products/store/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/products/internet-explorer/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/products/microsoft-edge/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/products/hololens/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
+http://support.microsoft.com/en-us/allproducts,ev.support.microsoft.com.edgekey.net.,Akamai,cname

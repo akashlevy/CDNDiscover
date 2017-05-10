@@ -1,0 +1,17 @@
+http://www.livejournal.com/,,,none
+http://l-stat.livejournal.net,l-stat.livejournal.net.akamaized.net.,Akamai,cname
+http://awaps.yandex.ru,,,none
+http://xc3.services.livejournal.com,,,none
+http://l-files.livejournal.net,l-files.livejournal.net.akamaized.net.,Akamai,cname
+http://www.livejournal.com,,,none
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://www.livejournal.com/browse/,,,none
+http://www.livejournal.com/syn,,,none
+http://www.livejournal.com/support/,,,none
+http://www.livejournal.com/18/,,,none
+http://www.livejournal.com/shop/,,,none
+http://www.livejournal.com/login.bml,,,none
+http://www.livejournal.com,,,none
+http://www.livejournal.com/create,,,none
+http://www.google.com,,Google,name
+http://www.livejournal.com/manage/settings/?cat=display,,,none

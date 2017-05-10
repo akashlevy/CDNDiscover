@@ -1,0 +1,28 @@
+https://vimeo.com/,,,none
+http://3797665.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://f.vimeocdn.com,prod.vimeo-video.map.fastly.net.,Fastly,cname
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://secure.gravatar.com,,,none
+http://i.vimeocdn.com,prod.vimeo-video.map.fastly.net.,Fastly,cname
+https://vimeo.com,,,none
+https://vimeo.com/join,,,none
+http://vimeo-hp-videos.global.ssl.fastly.net,global-ssl.fastly.net.,Fastly,cname
+https://vimeo.com/log_in,,,none
+https://vimeo.com/create,,,none
+http://b97.yahoo.co.jp,,,none
+https://vimeo.com/upgrade,,,none
+http://ads.bluelithium.com,,,none
+https://vimeo.com/professionals,,,none
+http://player.vimeo.com,,,none
+http://amplifypixel.outbrain.com,prod.outbrain.map.fastlylb.net.,Fastly,cname
+https://vimeo.com/business,,,none
+http://d9hhrg4mnvzow.cloudfront.net,,Amazon CloudFront,name
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+http://bat.bing.com,,,none
+https://vimeo.com/everyone,,,none
+http://10-lvl3-pdl.vimeocdn.com,10-lvl3-pdl.vimeocdn.com.c.footprint.net.,Level 3,cname
+http://15-lvl3-pdl.vimeocdn.com,15-lvl3-pdl.vimeocdn.com.c.footprint.net.,Level 3,cname
+http://13-lvl3-pdl.vimeocdn.com,13-lvl3-pdl.vimeocdn.com.c.footprint.net.,Level 3,cname
+http://11-lvl3-pdl.vimeocdn.com,11-lvl3-pdl.vimeocdn.com.c.footprint.net.,Level 3,cname
+http://04-lvl3-pdl.vimeocdn.com,04-lvl3-pdl.vimeocdn.com.c.footprint.net.,Level 3,cname
+https://vimeo.com/videoschool,,,none

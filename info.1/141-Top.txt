@@ -1,0 +1,26 @@
+http://www.accuweather.com/,www.accuweather.com.edgekey.net.,Akamai,cname
+http://vortex.accuweather.com,vortex.accuweather.com.edgekey.net.,Akamai,cname
+http://s7.addthis.com,,,none
+http://sirocco.accuweather.com,sirocco.accuweather.com.edgekey.net.,Akamai,cname
+http://n-cdn.areyouahuman.com,,,none
+http://player.ooyala.com,,,none
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://bcp.crwdcntrl.net,,,none
+http://accuweather.brightspotcdn.com,,,none
+http://www.accuweather.com/,www.accuweather.com.edgekey.net.,Akamai,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://www.accuweather.com/en/us/princeton-nj/08544/weather-forecast/339523,www.accuweather.com.edgekey.net.,Akamai,cname
+http://ec.c.ooyala.com,d38me01vvwrazi.cloudfront.net.,Amazon CloudFront,cname
+http://www.accuweather.com/en/us/new-york-ny/10017/weather-forecast/349727,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/miami-fl/33128/weather-forecast/347936,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/los-angeles-ca/90012/weather-forecast/347625,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/browse-locations,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/#menu-country,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/united-states-weather,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/cn/china-weather,www.accuweather.com.edgekey.net.,Akamai,cname
+http://t3.ssl.ak.tiles.virtualearth.net,wildcard.tiles.virtualearth.net.edgekey.net.,Akamai,cname
+http://ecn.t2.tiles.virtualearth.net,ssl2.tiles.virtualearth.net.edgekey.net.,Akamai,cname
+http://t0.ssl.ak.tiles.virtualearth.net,wildcard.tiles.virtualearth.net.edgekey.net.,Akamai,cname
+http://t2.ssl.ak.tiles.virtualearth.net,wildcard.tiles.virtualearth.net.edgekey.net.,Akamai,cname
+http://maptiles.accuweather.com,maptiles.accuweather.com.edgekey.net.,Akamai,cname
+http://t1.ssl.ak.tiles.virtualearth.net,wildcard.tiles.virtualearth.net.edgekey.net.,Akamai,cname

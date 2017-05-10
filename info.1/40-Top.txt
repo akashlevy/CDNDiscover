@@ -1,0 +1,15 @@
+http://www.bbc.co.uk/,,,none
+http://ichef.bbci.co.uk,,,none
+http://www.bbc.co.uk/#hp-bbc-homepage-content,,,none
+http://www.bbc.co.uk/accessibility/,,,none
+http://edigitalsurvey.com,,,none
+http://www.bbc.co.uk/,,,none
+http://www.bbc.co.uk/tv/,,,none
+http://static.bbci.co.uk,,,none
+http://www.bbc.co.uk/radio/,,,none
+http://s.effectivemeasure.net,,,none
+http://www.bbc.co.uk/cbbc,,,none
+http://a.files.bbci.co.uk,a.files.bbci.co.uk.edgekey.net.,Akamai,cname
+http://www.bbc.co.uk/cbeebies,,,none
+http://www.bbc.co.uk/food/,,,none
+http://www.bbc.co.uk/education,,,none

@@ -1,0 +1,13 @@
+http://www.researchgate.net/,,,none
+http://c5.rgstatic.net,,,none
+https://www.researchgate.net/signup.SignUp.html?ev=su_chnl_index&_sg=k31Axp2CdKtitKx0fWEzv30-UJ9NflGj6krtPTIbmuVFK5eCzLqPLxHW71jHvEWQ,,,none
+https://www.researchgate.net/connector/linkedin?ev=su_chnl_li,,,none
+https://www.researchgate.net/connector/facebook?ev=su_chnl_fb,,,none
+https://www.researchgate.net/signup.SignUp.html?ev=su_chnl_index&_sg=nZLwMIi0rHgyk1kxNqeVgvwnuIGacGX53ggY_dObLK-2F8mgcD6ZcS6CblnAwtBI,,,none
+http://www.researchgate.net/application.IndexBottomClassification.signup.html?ev=su_chnl_index&classification=institution&_sg=drtQ82L21RmdnGevxvt67d_qsrs-KoAwO0PQ4IIGGYHrWu9hFFllNfI5EZ424MKJvqkkSJWY5pu1UcWPC_Q-Cg,,,none
+http://pubads.g.doubleclick.net,partnerad.l.doubleclick.net.,Google,cname
+http://www.researchgate.net/application.IndexBottomClassification.signup.html?ev=su_chnl_index&classification=company&_sg=371S8B--_u02SkC9GKxj5c3Llkz8htsvnmkkB1mpw6rDgdpFQzsEnenbrC74unlHHjeQuPFVvCOZF0PSFSyYng,,,none
+http://www.researchgate.net/application.IndexBottomClassification.signup.html?ev=su_chnl_index&classification=medical&_sg=SYVbYg-eERo7GkQifKa5zCRrkakK6y1uOWUvspa3nQ0hLiTZDQFJvEFz8jElBzgdPrXEoyPA_5Yjb-ueaJdS2A,,,none
+http://www.researchgate.net/blog,,,none
+http://i1.rgstatic.net,,,none
+http://www.researchgate.net/about,,,none

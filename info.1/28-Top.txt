@@ -1,0 +1,10 @@
+http://www.office.com/,geo.home.office.akadns.net.,Akamai,cname
+http://c1.microsoft.com,,,none
+http://officehome.msocdn.com,wildcard.msocdn.com.edgekey.net.,Akamai,cname
+https://www.office.com/login?es=Click&ru=%2F,geo.home.office.akadns.net.,Akamai,cname
+http://secure.aadcdn.microsoftonline-p.com,secure.aadcdn.microsoftonline-p.com.edgekey.net.,Akamai,cname
+https://www.office.com,geo.home.office.akadns.net.,Akamai,cname
+http://www.office.com/Downloads?cid=400ee6f6-c185-4496-8000-6ff894f70097,geo.home.office.akadns.net.,Akamai,cname
+https://www.office.com/Downloads?cid=256fb91e-9e8f-4f7a-b9c7-ea884540e028,geo.home.office.akadns.net.,Akamai,cname
+https://www.office.com/login?es=Click&ru=%2FDownloads%3Fcid%3D400ee6f6-c185-4496-8000-6ff894f70097,geo.home.office.akadns.net.,Akamai,cname
+https://www.office.com/login?es=Click&ru=%2FDownloads%3Fcid%3D256fb91e-9e8f-4f7a-b9c7-ea884540e028,geo.home.office.akadns.net.,Akamai,cname

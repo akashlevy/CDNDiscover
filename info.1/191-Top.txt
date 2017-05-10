@@ -1,0 +1,12 @@
+http://www.icicibank.com/,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/privilege-banking/index.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/wealth-management/index.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://infinity.icicibank.co.in,,,none
+http://www.icicibank.com/nri-banking/nri-banking.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/corporate/corp-index.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/business-banking/index.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://www.icicibank.com/aboutus/about-us.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/safe-online-banking/safe-online-banking.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname
+http://www.icicibank.com/corporate/safe-online-CIBbanking.page,www.icicibank.com-v2.edgekey.net.,Akamai,cname

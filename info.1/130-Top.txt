@@ -1,0 +1,9 @@
+http://www.gamefaqs.com/,,,none
+http://cbsi.demdex.net,,,none
+http://gamefaqs.akamaized.net,a1981.d.akamai.net.,Akamai,cname
+http://www.gamefaqs.com/ds,,,none
+http://www.gamefaqs.com/pc,,,none
+http://www.gamefaqs.com/ps4,,,none
+http://images.taboola.com,f2.shared.global.fastly.net.,Fastly,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://bttrack.com,,,none

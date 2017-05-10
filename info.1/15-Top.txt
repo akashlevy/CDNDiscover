@@ -1,0 +1,15 @@
+http://www.netflix.com/,,,none
+http://assets.nflxext.com,,,none
+http://www.netflix.com/,,,none
+http://www.netflix.com/login,,,none
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.netflix.com/yourAccount,,,none
+http://www.netflix.com/redeem,,,none
+http://adtech.nflximg.net,,,none
+http://www.netflix.com/watch,,,none
+http://www.netflix.com/originals,,,none
+http://www.netflix.com/LoginHelp,,,none
+http://www.netflix.com/giftterms,,,none
+http://api-global.netflix.com,,,none
+http://secure.netflix.com,sha2.secure.netflix.edgekey.net.,Akamai,cname

@@ -1,0 +1,4 @@
+https://groups.google.com/,groups.l.google.com.,Google,cname
+https://groups.google.com/d/overview,groups.l.google.com.,Google,cname
+https://groups.google.com/#!overview,groups.l.google.com.,Google,cname
+https://groups.google.com/d/overview#!overview,groups.l.google.com.,Google,cname

@@ -1,0 +1,17 @@
+http://www.fiverr.com/,,,none
+http://fiverr-res.cloudinary.com,dsa.cloudinary.com.edgekey.net.,Akamai,cname
+http://5566805.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://cloudinary.fiverrcdn.com,,,none
+http://assetsv2.fiverrcdn.com,,,none
+http://www.fiverr.com/?_pxhc=1494387806115,,,none
+http://www.fiverr.com/,,,none
+https://www.fiverr.com/start_selling,,,none
+http://sg.fiverrcdn.com,,,none
+https://www.fiverr.com/login,,,none
+https://www.fiverr.com/join,,,none
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.fiverr.com/categories/graphics-design?source=category_tree,,,none
+http://www.fiverr.com/categories/graphics-design/creative-logo-design?source=category_tree,,,none
+http://www.fiverr.com/categories/graphics-design/sample-business-cards-design?source=category_tree,,,none
+http://www.fiverr.com/categories/graphics-design/digital-illustration?source=category_tree,,,none

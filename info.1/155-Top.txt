@@ -1,0 +1,24 @@
+http://www.nba.com/,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://analytics.twitter.com,,,none
+http://bea4.v.fwmrm.net,,,none
+http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://5165526.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://ad.atdmt.com,,,none
+http://i.cdn.turner.com,cdn.turner.com.edgekey.net.,Akamai,cname
+http://t.co,,,none
+http://cdn.nba.net,cdn.nba.net.edgekey.net.,Akamai,cname
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://cdn.krxd.net,,,none
+http://hs.interpolls.com,,,none
+http://www.nba.com/news/privacy_policy.html,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://www.nba.com/news/termsofuse.html ,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+http://www.nba.com/news/privacy_policy.html#cookies,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://www.nba.com/live1,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://tag.researchnow.com,wildcard.researchnow.edgekey.net.,Akamai,cname
+http://www.nba.com/#main,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://www.nba.com/,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://www.nba.com/games,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://images.nba.net,cdn.nba.net.edgekey.net.,Akamai,cname
+http://www.nba.com/playoffs,www.nba.com-ipv6.edgesuite.net.,Akamai,cname
+http://www.nba.com/news,www.nba.com-ipv6.edgesuite.net.,Akamai,cname

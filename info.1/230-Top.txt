@@ -1,0 +1,22 @@
+http://www.investopedia.com/,,,none
+http://assets.bounceexchange.com,dw6gonse2zdus.cloudfront.net.,Amazon CloudFront,cname
+http://nop.xpanama.net,,,none
+http://optimizely.s3.amazonaws.com,,,none
+http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://i.investopedia.com,i.investopedia.com.edgesuite.net.,Akamai,cname
+http://pubads.g.doubleclick.net,partnerad.l.doubleclick.net.,Google,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://us-u.openx.net,,,none
+http://bcp.crwdcntrl.net,,,none
+http://www.investopedia.com/,,,none
+http://www.investopedia.com/topics/,,,none
+http://www.investopedia.com/news/valeant-turns-first-profit-six-quarters-vrx/,,,none
+http://w.graphiq.com,,,none
+http://ntvcld-a.akamaihd.net,ntvcld-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://ntvcld-a.akamaihd.net,ntvcld-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://www.investopedia.com/news/,,,none
+http://www.investopedia.com/financial-advisor/,,,none
+http://www.investopedia.com/markets/,,,none
+http://imasdk.googleapis.com,googleadapis.l.google.com.,Google,cname
+http://www.investopedia.com/anxiety-index/,,,none
+http://www.investopedia.com/investing/,,,none

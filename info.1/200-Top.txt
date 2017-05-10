@@ -1,0 +1,12 @@
+http://sports.yahoo.com/,,,none
+http://s.yimg.com,,,none
+http://sports.yahoo.com/,,,none
+http://sports.yahoo.com/#Navigation,,,none
+http://sports.yahoo.com/#Main,,,none
+http://s1.yimg.com,,,none
+http://sports.yahoo.com/#Aside,,,none
+http://sports.yahoo.com,,,none
+http://sports.yahoo.com/nfl/teams/phi,,,none
+http://sports.yahoo.com/nfl/teams/nyg,,,none
+http://sports.yahoo.com/nfl/teams/nyj,,,none
+http://sports.yahoo.com/nhl/teams/phi,,,none

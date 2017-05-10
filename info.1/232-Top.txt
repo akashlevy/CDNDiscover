@@ -1,0 +1,12 @@
+http://www.kijiji.ca/,,,none
+http://dis.us.criteo.com,,,none
+http://bat.bing.com,,,none
+http://www.kijiji.ca/,,,none
+http://www.kijiji.ca/?siteLocale=fr_CA,,,none
+http://www.kijiji.ca/t-user-registration.html,,,none
+http://www.kijiji.ca/t-login.html,,,none
+http://www.kijiji.ca/p-select-category.html,,,none
+http://www.kijiji.ca/#9003,,,none
+http://www.kijiji.ca/#group-9003,,,none
+http://www.kijiji.ca/#group-1700234,,,none
+http://www.kijiji.ca/#group-1700199,,,none

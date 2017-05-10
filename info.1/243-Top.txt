@@ -1,0 +1,21 @@
+http://www.att.com/,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://att.demdex.net,,,none
+http://2558160.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://6100125.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+https://www.att.com/,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/,prod-www.zr-att.com.akadns.net.,Akamai,cname
+https://www.att.com/gen/general?pid=11627,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/smallbusiness/content/shop.page,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://view.atdmt.com,,,none
+http://6142322.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://6143919.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://www.att.com/gen/general?pid=11625,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/att/multifamily-property,prod-www.zr-att.com.akadns.net.,Akamai,cname
+https://www.att.com/gen/landing-pages?pid=3309,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+http://att.com,,,none
+http://www.att.com/gen/landing-pages?pid=5718,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://quotes.corporate-ir.net,,,none
+http://feedaggregator-att.centralcast.net,,,none
+http://www.att.com/#wrapper,prod-www.zr-att.com.akadns.net.,Akamai,cname

@@ -1,0 +1,17 @@
+http://www.imdb.com/,,,none
+http://s.amazon-adsystem.com,,,none
+http://ia.media-imdb.com,,,none
+http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
+http://www.imdb.com/?ref_=nv_home,,,none
+http://www.imdb.com/search/,,,none
+http://i.media-imdb.com,d3k42v5me62qu0.cloudfront.net.,Amazon CloudFront,cname
+http://www.imdb.com/movies-in-theaters/?ref_=nv_tp_inth_1,,,none
+http://www.imdb.com/chart/toptv/?ref_=nv_tp_tv250_2,,,none
+http://www.imdb.com/showtimes/?ref_=nv_tp_sh_3,,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.imdb.com/title/tt0038650/?ref_=nv_mv_dflt_1,,,none
+http://aax-us-east.amazon-adsystem.com,,,none
+http://i.imdb.com,d3k42v5me62qu0.cloudfront.net.,Amazon CloudFront,cname
+http://www.imdb.com/title/tt0038650/?ref_=nv_mv_dflt_2,,,none
+http://www.imdb.com/chart/top?ref_=nv_mv_dflt_3,,,none
+http://www.imdb.com/movies-in-theaters/?ref_=nv_mv_inth_1,,,none

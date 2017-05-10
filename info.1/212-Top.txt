@@ -1,0 +1,1 @@
+http://www.nike.com/,www.nike.com.akadns.net.,Akamai,cname

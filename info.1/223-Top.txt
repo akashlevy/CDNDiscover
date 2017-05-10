@@ -1,0 +1,16 @@
+http://www.naukri.com/,ocean.naukri.edgekey.net.,Akamai,cname
+http://company.naukri.com,,,none
+http://bms.naukimg.com,ocean.naukri.edgekey.net.,Akamai,cname
+http://w28.naukri.com,ocean.naukri.edgekey.net.,Akamai,cname
+http://www.naukri.com,ocean.naukri.edgekey.net.,Akamai,cname
+http://static.naukimg.com,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/browse-jobs,ocean.naukri.edgekey.net.,Akamai,cname
+http://img.naukimg.com,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/jobs-by-location,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/top-skill-jobs,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/top-jobs-by-designations,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/free-job-alerts,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/top-company-jobs,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/jobs-by-category,ocean.naukri.edgekey.net.,Akamai,cname
+https://www.naukri.com/advanced-search,ocean.naukri.edgekey.net.,Akamai,cname

@@ -1,0 +1,13 @@
+http://aws.amazon.com/,,,none
+http://www.bizographics.com,,,none
+http://d0.awsstatic.com,,,none
+https://aws.amazon.com/?nc2=h_lg,,,none
+http://d1.awsstatic.com,,,none
+https://aws.amazon.com/de/?nc1=h_ls,,,none
+https://aws.amazon.com/es/?nc1=h_ls,,,none
+https://aws.amazon.com/fr/?nc1=h_ls,,,none
+https://aws.amazon.com/it/?nc1=h_ls,,,none
+https://aws.amazon.com/pt/?nc1=h_ls,,,none
+https://aws.amazon.com/ru/?nc1=h_ls,,,none
+https://aws.amazon.com/jp/?nc1=h_ls,,,none
+https://aws.amazon.com/ko/?nc1=h_ls,,,none

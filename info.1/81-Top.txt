@@ -1,0 +1,15 @@
+http://4chan.org/,,,none
+http://img.2ch.sc,,,none
+http://i.4cdn.org,,,none
+http://4chan.org/,,,none
+http://4chan.org/rules,,,none
+http://syndication.exdynsrv.com,,,none
+http://4chan.org/faq,,,none
+http://s.4cdn.org,,,none
+http://4chan.org/faq#what4chan,,,none
+http://4chan.org/feedback,,,none
+http://www.google.com,,Google,name
+http://4chan.org/legal,,,none
+http://4chan.org/contact,,,none
+http://4chan.org/rules#global,,,none
+http://4chan.org/rules#imgboard,,,none

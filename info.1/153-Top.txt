@@ -1,0 +1,26 @@
+http://zendesk.com/,,,none
+http://d1eipm3vz40hy0.cloudfront.net,,Amazon CloudFront,name
+http://secure.adnxs.com,,,none
+http://pixel-geo.prfct.co,,,none
+http://6709343.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://bat.bing.com,,,none
+http://www.zndsk.com,,,none
+http://4452918.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://zendesk.com/blog/welcome-outbound/,,,none
+http://d26a57ydsghvgx.cloudfront.net,,Amazon CloudFront,name
+http://disqus.com,,,none
+http://zendesk.com/login/,,,none
+http://zendesk.com/,,,none
+http://zendesk.com/about/,,,none
+http://fast.wistia.com,global.prod.fastly.net.,Fastly,cname
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+http://zendesk.com/company/press/,,,none
+http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+http://zendesk.com/company/events/,,,none
+http://d16cvnquvjw7pr.cloudfront.net,,Amazon CloudFront,name
+http://zen-marketing-content.s3.amazonaws.com,,,none
+http://zendesk.com/jobs/,,,none
+http://zendesk.com/company/contact-info/,,,none
+http://zendesk.com/support/contact/,,,none
+http://maps.gstatic.com,,Google,name
+http://maps.googleapis.com,googleapis.l.google.com.,Google,cname

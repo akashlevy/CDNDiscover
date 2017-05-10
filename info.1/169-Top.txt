@@ -1,0 +1,22 @@
+http://www.gizmodo.com/,,,none
+http://secure-us.imrworldwide.com,,,none
+http://i.kinja-img.com,,,none
+http://pubads.g.doubleclick.net,partnerad.l.doubleclick.net.,Google,cname
+http://cdn-gl.imrworldwide.com,d1o1v4alhgrqng.cloudfront.net.,Amazon CloudFront,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://cdn.krxd.net,,,none
+http://www.gizmodo.com/,,,none
+http://www.gizmodo.com/video,,,none
+http://www.gizmodo.com/tag/science,,,none
+http://www.gizmodo.com/tag/reviews,,,none
+http://www.gizmodo.com/?startTime=1494355200523,,,none
+http://www.gizmodo.com/about,,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://imasdk.googleapis.com,googleadapis.l.google.com.,Google,cname
+http://js.stripe.com,stripecdn.map.fastly.net.,Fastly,cname
+http://d8rk54i4mohrb.cloudfront.net,,Amazon CloudFront,name
+http://staticxx.facebook.com,scontent.xx.fbcdn.net.,Facebook,cname
+http://x.kinja-static.com,,,none
+http://www.gizmodo.com/tag/science?startIndex=20,,,none
+http://www.gizmodo.com/tag/reviews?startIndex=20,,,none
+http://www.gizmodo.com/?startTime=1494335700960,,,none

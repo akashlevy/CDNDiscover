@@ -1,0 +1,15 @@
+http://www.avg.com/,secure2.avg.com.edgekey.net.,Akamai,cname
+http://4711400.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://5229620.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://www.avg.com/us-en/homepage,secure2.avg.com.edgekey.net.,Akamai,cname
+http://vars.hotjar.com,vars.hotjar.netdna-cdn.com.,NetDNA,cname
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+http://bat.bing.com,,,none
+http://www.avg.com/#body-inner,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/all-products?r=1#customer=home,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/ultimate,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/free-antivirus-download,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/internet-security,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/avg-pctuneup,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/avg-driver-updater,secure2.avg.com.edgekey.net.,Akamai,cname

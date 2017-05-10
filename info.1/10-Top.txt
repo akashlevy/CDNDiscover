@@ -1,0 +1,12 @@
+http://www.amazon.com/,,,none
+http://fls-na.amazon.com,,,none
+http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
+http://www.amazon.com/ref=nav_logo/144-9071375-6715625,,,none
+http://www.amazon.com/gp/prime/ref=nav_logo_prime_join/144-9071375-6715625,,,none
+http://s.amazon-adsystem.com,,,none
+http://www.amazon.com/dp/B01J24C0TI/ref=nav_swm_ods_swm_tab_kt_launch?pf_rd_p=f11b827f-336a-47cd-a8b6-e38678b41eb3&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=27KND94R2C9K33VA8MD2&pf_rd_r=27KND94R2C9K33VA8MD2&pf_rd_p=f11b827f-336a-47cd-a8b6-e38678b41eb3,,,none
+http://www.amazon.com/gp/prime/ref=nav_tooltip_redirect/144-9071375-6715625,,,none
+http://www.amazon.com/gp/navigation/redirector.html/ref=sign-in-redirect?ie=UTF8&associationHandle=usflex&currentPageURL=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin,,,none
+https://www.amazon.com/ap/register?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_newcust,,,none
+http://www.amazon.com/gp/registry/search/ref=nav_wishlist_find,,,none
+http://www.amazon.com/gp/gift-finder/ref=nav_wishlist_gf,,,none

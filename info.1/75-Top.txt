@@ -1,0 +1,16 @@
+http://battle.net/,,,none
+http://blznav.akamaized.net,a1469.d.akamai.net.,Akamai,cname
+http://bnetus-a.akamaihd.net,bnetus-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://bnetus-a.akamaihd.net,bnetus-a.akamaihd.net.edgesuite.net.,Akamai,cname
+https://battle.net/shop/,,,none
+http://a8270235338.cdn.optimizely.com,wildcard.cdn.optimizely.com.edgekey.net.,Akamai,cname
+http://bnetproduct-a.akamaihd.net,bnetproduct-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://bnetproduct-a.akamaihd.net,bnetproduct-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://battle.net/%SIMPLE_URL%,,,none
+http://battle.net/url.overwatch.home.us,,,none
+http://battle.net/url.hs.home.us,,,none
+http://battle.net/url.heroes.home.us,,,none
+http://battle.net/url.sc2.home.us,,,none
+http://battle.net/url.d3.home.us,,,none
+http://battle.net/url.bnet.home.usgames/classic,,,none
+http://battle.net/url.bnet.home.usaccount/download/,,,none

@@ -1,0 +1,30 @@
+http://www.wsj.com/,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://tpc.googlesyndication.com,pagead-googlehosted.l.google.com.,Google,cname
+http://accounts.wsj.com,,,none
+http://m.wsj.net,m.wsj.net.edgekey.net.,Akamai,cname
+http://si.wsj.net,s.wsj.net.edgekey.net.,Akamai,cname
+http://accounts.dowjones.com,,,none
+http://s.wsj.net,s.wsj.net.edgekey.net.,Akamai,cname
+http://art.wsj.net,art.wsj.net.edgekey.net.,Akamai,cname
+http://www.wsj.com/public/page/wsj-x-marketing.html,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://signin.wsj.com,signin.wsj.com.edgekey.net.,Akamai,cname
+http://www.wsj.com/conferences,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://images.conferences.wsj.net,,,none
+http://conferences.wsj.com,,,none
+http://img.youtube.com,ytimg.l.google.com.,Google,cname
+http://www.wsj.com/pro/centralbanking,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://secure.adnxs.com,,,none
+http://beacon.krxd.net,,,none
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://dowjones.demdex.net,,,none
+http://www.wsj.com,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://s0.2mdn.net,s0-2mdn-net.l.google.com.,Google,cname
+https://www.wsj.com/,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com/itp,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://vir.wsj.net,d3r007o0al06ey.cloudfront.net.,Amazon CloudFront,cname
+https://www.wsj.com/news/world,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://secure-us.imrworldwide.com,,,none
+http://bid.g.doubleclick.net,ads-bid.l.doubleclick.net.,Google,cname
+http://5662121.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://www.wsj.com/news/world/africa,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com/news/world/asia,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname

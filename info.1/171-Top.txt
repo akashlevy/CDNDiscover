@@ -1,0 +1,19 @@
+http://www.bloomberg.com/,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://cdn.krxd.net,,,none
+http://assets.bwbx.io,,,none
+http://www.bloomberg.com,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://secure-ds.serving-sys.com,secure-ds.serving-sys.com.edgekey.net.,Akamai,cname
+http://cws.conviva.com,,,none
+http://www.bloomberg.com/company/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://player.vimeo.com,,,none
+http://www.bloomberg.com/professional/request-demo/?utm_source=bloomberg-menu&utm_medium=bcom&bbgsum=DG-WS-PROF-DEMO-bbgmenu,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://data.bloomberglp.com,d2vcesdhhywzyc.cloudfront.net.,Amazon CloudFront,cname
+http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname
+http://www.google.com,,Google,name
+http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&utm_medium=bcom,www.bloomberg.com.edgekey.net.,Akamai,cname

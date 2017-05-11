@@ -59,7 +59,7 @@ def run():
         texfile.write('\\end{table}\n\n')
 
         # Table header
-        texfile.write('\\begin{table}[]\n')
+        texfile.write('\\begin{table}[tbp]\n')
         texfile.write('\\centering\n')
         texfile.write('\\begin{tabular}{|llll|llll|}\n')
         texfile.write('\\hline\n')

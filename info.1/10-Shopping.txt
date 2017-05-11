@@ -1,3 +1,0 @@
-http://www.target.com/,www.target.com.edgekey.net.,Akamai,cname
-http://www.target.com/,www.target.com.edgekey.net.,Akamai,cname
-http://www.target.com/co-cart,www.target.com.edgekey.net.,Akamai,cname

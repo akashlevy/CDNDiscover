@@ -1,1 +1,0 @@
-http://www.goal.com/,www.goal.com.edgesuite.net.,Akamai,cname

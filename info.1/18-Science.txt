@@ -1,3 +1,0 @@
-http://arxiv.org/http://static.arxiv.org,daa2ks08y5ls.cloudfront.net.,Amazon CloudFront,cname
-http://arxiv.org/IgnoreMehttp://arxiv.org/user/loginhttp://arxiv.org/helphttp://arxiv.org/findhttp://arxiv.org/new#apr20_2017http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
-http://arxiv.org/new#mar10_2017http://arxiv.org/new#feb10_2017http://arxiv.org/new/http://arxiv.org/help/robots

@@ -1,2 +1,0 @@
-https://tweetdeck.twitter.com/,,,none
-http://ton.twimg.com,wildcard.twimg.com.,Twitter,cname

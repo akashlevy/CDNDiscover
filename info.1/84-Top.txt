@@ -1,5 +1,0 @@
-http://support.microsoft.com/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
-http://c1.microsoft.com,,,none
-http://assets.onestore.ms,assets.onestore.ms.akadns.net.,Akamai,cname
-http://support.microsoft.com/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
-https://support.microsoft.com/en-us,ev.support.microsoft.com.edgekey.net.,Akamai,cname

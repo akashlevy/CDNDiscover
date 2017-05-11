@@ -1,17 +1,22 @@
 '''Compiles the information into a CSV'''
 from urlparse import urlparse
 
-def run():
+# Categories compile results for
+CATEGORIES = 'Adult Arts Business Computers Games Health Home Kids_and_Teens \
+              News Recreation Reference Regional Science Shopping Society \
+              Sports'
+
+
+def run(categ='Top'):
     '''Compiles the information into a CSV'''
     # Get top URLs
-    categ = 'Top'
     topurls = open('rankings/%s.txt' % categ).read().splitlines()
     topurls = [urlparse(url).netloc.replace('www.', '') for url in topurls]
 
     # Open output file
-    with open('out.csv', 'w') as outfile:
+    with open('out/out_%s.csv' % categ, 'w') as outfile:
         # Iterate through files
-        for i, url in enumerate(topurls[:250]):
+        for i, url in enumerate(topurls[:25]):
             outfile.write(url + ',')
             filename = 'info/%d-%s.txt' % (i, categ)
             # Open file
@@ -22,14 +27,7 @@ def run():
                 # Read each line in the file
                 for line in infile.readlines():
                     # Get the CDN and increment
-                    try:
-                        cdn = line.strip().split(',')[-2]
-                    except IndexError as e:
-                        print e
-                        print url
-                        print i
-                        print line
-                        exit()
+                    cdn = line.strip().split(',')[-2]
                     foundurl = line.strip().split(',')[0]
 
                     # NetDNA is now MaxCDN
@@ -63,4 +61,5 @@ def run():
 
 # Run the CDN finder
 if __name__ == '__main__':
-    run()
+    for cat in CATEGORIES.split():
+        run(cat)

@@ -2,10 +2,11 @@
 from collections import Counter
 
 
-def run():
+def run(categ='Top'):
     '''Convert out.csv to a LaTeX table'''
     # Get outcsv, then sort and strip
-    outcsv = zip(*[entry.split(',') for entry in list(open('out.csv'))])
+    infile = 'out/out_%s.csv' % categ
+    outcsv = zip(*[entry.split(',') for entry in list(open(infile))])
     _, cdn1s, _, cdn2s, _, _ = outcsv
 
     freq = Counter(cdn1s) + Counter(cdn2s)

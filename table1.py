@@ -3,17 +3,17 @@ from glob import glob
 from urlparse import urlparse
 
 
-def run():
+def run(categ='Top'):
     '''Convert out.csv to a LaTeX table'''
     # Get outcsv, then sort and strip
-    outcsv = {entry.split(',')[0]: entry for entry in list(open('out.csv'))}
-    categ = 'Top'
+    infile = 'out/out_%s.csv' % categ
+    outcsv = {entry.split(',')[0]: entry for entry in list(open(infile))}
     topurls = open('rankings/%s.txt' % categ).read().splitlines()[:250]
     topurls = [urlparse(url).netloc.replace('www.', '') for url in topurls]
     data = [outcsv[entry.strip()].strip() for entry in topurls]
 
     # Generate LaTeX tables
-    with open('table1.tex', 'w') as texfile:
+    with open('out/table1.tex', 'w') as texfile:
         # Table header
         texfile.write('\\begin{table}[tbp]\n')
         texfile.write('\\centering\n')

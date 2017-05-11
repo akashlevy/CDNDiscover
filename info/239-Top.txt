@@ -1,0 +1,19 @@
+http://www.nhl.com/,,,none
+http://nhl.bamcontent.com,dp3r1mvtl3dui.cloudfront.net.,Amazon CloudFront,cname
+http://www-league.nhlstatic.com,dkwk9n9rgl0ft.cloudfront.net.,Amazon CloudFront,cname
+http://www.nhl.com/#content-wrap,,,none
+http://www.nhl.com/,,,none
+https://www.nhl.com/login/rogers,,,none
+https://www.nhl.com/stanley-cup-playoffs,,,none
+https://www.nhl.com/scores,,,none
+https://www.nhl.com/news,,,none
+https://www.nhl.com/video,,,none
+http://www.nhl.com/stats/,,,none
+http://1.cdn.nhle.com,cdn.nhle.com.edgesuite.net.,Akamai,cname
+http://placeholdit.imgix.net,global.imgix.map.fastly.net.,Fastly,cname
+http://cdn.nhle.com,cdn.nhle.com.edgesuite.net.,Akamai,cname
+http://tags.bluekai.com,,,none
+http://www.nbcudigitaladops.com,www.nbcudigitaladops.com.edgekey.net.,Akamai,cname
+http://5110022.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://www.nhl.com,,,none
+https://www.nhl.com/schedule,,,none

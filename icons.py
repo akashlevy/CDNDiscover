@@ -2,14 +2,17 @@
 
 # Custom library imports
 from urllib import urlopen
+from urlparse import urlparse
 
 
 def run():
     '''Run the CDN finder'''
     # Get URLs in top 1000 list
-    for url in [url.strip() for url in list(open('top1000'))][:250]:
-        icon = urlopen('https://www.google.com/s2/favicons?domain=www.' + url)
-        with open('icons/' + url + '.ico', 'wb') as iconfile:
+    cat = 'Top'
+    for url in open('rankings/%s.txt' % cat).read().splitlines()[:250]:
+        icon = urlopen('https://www.google.com/s2/favicons?domain=' + url)
+        netloc = urlparse(url).netloc.replace('www.', '')
+        with open('icons/%s.png' % netloc.replace('.', '_'), 'wb') as iconfile:
             iconfile.write(icon.read())
 
 # Run the icon getter

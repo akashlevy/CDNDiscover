@@ -1,0 +1,14 @@
+http://www.bookmyshow.com/,,,none
+http://in.bmscdn.com,in.bmscdn.com.edgekey.net.,Akamai,cname
+http://:0,,,none
+http://www.bookmyshow.com/giftcards,,,none
+http://www.google.com,,Google,name
+http://www.bookmyshow.com/myprofile/mywallet/,,,none
+http://www.bookmyshow.com/myprofile/year-at-2016,,,none
+http://www.bookmyshow.com/myprofile/booking-history,,,none
+http://www.bookmyshow.com/myprofile/quikpay,,,none
+http://www.bookmyshow.com/myprofile/experiences,,,none
+http://www.bookmyshow.com/myprofile/settings,,,none
+http://www.bookmyshow.com/sports/indian-cricket/t20-premier-league,,,none
+http://eventifier.com,,,none
+http://brands.eventifier.com,,,none

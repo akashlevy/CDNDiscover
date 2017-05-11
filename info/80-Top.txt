@@ -1,0 +1,13 @@
+http://www.ncbi.nlm.nih.gov/,,,none
+http://pixel.wp.com,,WordPress,name
+http://www.ncbi.nlm.nih.gov,,,none
+http://www.ncbi.nlm.nih.gov/,,,none
+http://www.ncbi.nlm.nih.gov/#maincontent,,,none
+http://www.ncbi.nlm.nih.gov/#navcontent,,,none
+http://www.ncbi.nlm.nih.gov/static/header_footer_ajax/submenu/#resources,,,none
+http://www.ncbi.nlm.nih.gov/guide/all/,,,none
+http://static.pubmed.gov,,,none
+http://www.ncbi.nlm.nih.gov/#chemicals-bioassays,,,none
+http://www.ncbi.nlm.nih.gov/biosystems/,,,none
+http://www.ncbi.nlm.nih.gov/pcassay,,,none
+http://www.ncbi.nlm.nih.gov/pccompound,,,none

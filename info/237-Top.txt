@@ -1,0 +1,13 @@
+https://www.ibm.com/,,,none
+http://www.ibm.com/planetwide/select/selector.html,,,none
+http://www.ibm.com,,,none
+http://1.www.s81c.com,www2.ibm.com.edgekey.net.,Akamai,cname
+http://www.ibm.com/us/en/,,,none
+https://www.ibm.com/,,,none
+http://www.ibm.com/industries?lnk=min,,,none
+http://www.ibm.com/employment/?lnk=mca,,,none
+http://www.ibm.com/sitemap/us/en/,,,none
+http://www.ibm.com/marketplace/?lnk=mp,,,none
+http://1.cms.s81c.com,www.ibm.com.edgekey.net.,Akamai,cname
+http://www.ibm.com/products/en-us/?lnk=hmpr,,,none
+http://www.ibm.com/analytics/us/en/?lnk=mpr_bua&lnk2=learn,,,none

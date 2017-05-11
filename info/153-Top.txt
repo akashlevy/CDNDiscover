@@ -1,0 +1,15 @@
+http://zendesk.com/,,,none
+http://d1eipm3vz40hy0.cloudfront.net,,Amazon CloudFront,name
+http://www.zndsk.com,,,none
+http://zendesk.com/blog/welcome-outbound/,,,none
+http://d26a57ydsghvgx.cloudfront.net,,Amazon CloudFront,name
+http://zendesk.com/login/,,,none
+http://zendesk.com/,,,none
+http://zendesk.com/about/,,,none
+http://fast.wistia.com,global.prod.fastly.net.,Fastly,cname
+http://zendesk.com/company/press/,,,none
+http://zendesk.com/jobs/,,,none
+http://zendesk.com/company/contact-info/,,,none
+http://zendesk.com/support/contact/,,,none
+http://maps.gstatic.com,,Google,name
+http://maps.googleapis.com,googleapis.l.google.com.,Google,cname

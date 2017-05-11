@@ -1,0 +1,11 @@
+http://www.google.co.uk/,,Google,name
+http://consent.google.com,,Google,name
+http://www.google.co.uk/setprefs?suggon=2&prev=https://www.google.co.uk/?gws_rd%3Dssl&sig=0_tlE7RT0CdardX1NCXFcL5kLFQyU%3D,,Google,name
+https://www.google.co.uk/imghp?hl=en&tab=wi&ei=FLMSWbWrPMPQmwGo3paIDw&ved=0EKouCBcoAQ,,Google,name
+https://www.google.co.uk/intl/en/options/,,Google,name
+http://lh3.googleusercontent.com,googlehosted.l.googleusercontent.com.,Google,cname
+https://www.google.co.uk/webhp?hl=en&sa=X&ved=0ahUKEwiPvMqo2eTTAhXH6iYKHdqZAGEQPAgD,,Google,name
+http://www.google.co.uk/,,Google,name
+http://www.google.co.uk/intl/en/policies/privacy/?fg=1,,Google,name
+https://www.google.co.uk/preferences?hl=en,,Google,name
+https://www.google.co.uk/preferences?hl=en-GB&fg=1,,Google,name

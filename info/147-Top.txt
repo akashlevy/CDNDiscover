@@ -1,0 +1,11 @@
+http://www.homedepot.com/,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/l/,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/c/tool_and_truck_rental,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/c/professional_contractor,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/c/Gift_Cards,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/c/Credit_Center,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/c/customer_service,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/#departments,www.homedepot.com.edgesuite.net.,Akamai,cname
+http://www.homedepot.com/#cancel,www.homedepot.com.edgesuite.net.,Akamai,cname

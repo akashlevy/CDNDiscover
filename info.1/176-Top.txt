@@ -1,3 +1,0 @@
-https://www.ups.com/,ev.ups.com.akadns.net.,Akamai,cname
-http://ups.demdex.net,,,none
-https://www.ups.com/#skip_link_content,ev.ups.com.akadns.net.,Akamai,cname

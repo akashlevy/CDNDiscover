@@ -1,0 +1,15 @@
+http://www.wikia.com/,,,none
+http://static.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://player.ooyala.com,,,none
+http://vignette.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://fandom.wikia.com,,,none
+https://www.wikia.com/signin?redirect=http%3A%2F%2Fwww.wikia.com%2Ffandom%3Fcb%3D1494399006310,,,none
+https://www.wikia.com/register?redirect=http%3A%2F%2Fwww.wikia.com%2Ffandom%3Fcb%3D1494399006311,,,none
+http://www.wikia.com/Special:CreateNewWiki,,,none
+http://slot1.images.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://0914.global.ssl.fastly.net,global-ssl.fastly.net.,Fastly,cname
+http://www.wikia.com/join,,,none
+http://www.wikia.com/explore,,,none
+http://www.wikia.com/,,,none
+http://www.wikia.com/about,,,none
+http://www.wikia.com/Terms_of_use,,,none

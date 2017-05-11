@@ -1,0 +1,13 @@
+https://www.groupon.com/,www.groupon.com.edgekey.net.,Akamai,cname
+http://www2.grouponcdn.com,www2.grouponcdn.com.edgekey.net.,Akamai,cname
+http://img.grouponcdn.com,img.grouponcdn.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/cart,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/merchant/get-started?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon,www.groupon.com.edgekey.net.,Akamai,cname
+http://www.groupon.com,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/customer_support,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/login,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/signup,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/browse/central-jersey?context=local,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/goods,www.groupon.com.edgekey.net.,Akamai,cname
+https://www.groupon.com/getaways,www.groupon.com.edgekey.net.,Akamai,cname

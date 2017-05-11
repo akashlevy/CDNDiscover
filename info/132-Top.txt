@@ -1,0 +1,13 @@
+http://www.oracle.com/,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://20754664p.rfihub.com,,,none
+https://www.oracle.com/index.html,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://www.oracle.com/us/mosaicmenu/index.html#otn-menu-countryselect,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://www.oracle.com,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://www.oracle.com/corporate/region/index.html#ocom-menu-countryselect,ds-www.oracle.com.edgekey.net.,Akamai,cname
+https://www.oracle.com/communities/index.html#menu-communities,ds-www.oracle.com.edgekey.net.,Akamai,cname
+https://www.oracle.com/corporate/role/index.html#menu-iam,ds-www.oracle.com.edgekey.net.,Akamai,cname
+https://www.oracle.com/corporate/task/index.html#menu-iwant,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://www.oracle.com/webapps/redirect/signon?nexturl=,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://www.oracle.com/us/corporate/contact/about-your-account-070507.html,ds-www.oracle.com.edgekey.net.,Akamai,cname
+http://www.oracleimg.com,ds-www.oracleimg.com.edgekey.net.,Akamai,cname
+https://www.oracle.com/products/index.html#menu-products-n-services,ds-www.oracle.com.edgekey.net.,Akamai,cname

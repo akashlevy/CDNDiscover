@@ -1,0 +1,14 @@
+http://www.asos.com/,global.asos.com.edgekey.net.,Akamai,cname
+http://assets.asosservices.com,wildcard.asosservices.com.edgekey.net.,Akamai,cname
+http://content.asos-media.com,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/,global.asos.com.edgekey.net.,Akamai,cname
+http://my.asos.com,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/?hrd=1&CTARef=Global%20Nav,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/?hrd=1,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/#siteSelectorList,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/pgeSiteRedirect.aspx?referrer=http%3a%2f%2fus.asos.com%2f%3fsetPrefSite%3dtrue&to=us.asos.com,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/pgeSiteRedirect.aspx?referrer=http%3a%2f%2fwww.asos.fr%2f%3fsetPrefSite%3dtrue&to=www.asos.fr,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/pgeSiteRedirect.aspx?referrer=http%3a%2f%2fwww.asos.de%2f%3fsetPrefSite%3dtrue&to=www.asos.de,global.asos.com.edgekey.net.,Akamai,cname
+http://cdn.klarna.com,d2x3xm1hznff8u.cloudfront.net.,Amazon CloudFront,cname
+http://www.asos.com/pgeSiteRedirect.aspx?referrer=http%3a%2f%2fwww.asos.com%2fit%2f%3fsetPrefSite%3dtrue&to=www.asos.com,global.asos.com.edgekey.net.,Akamai,cname
+http://www.asos.com/pgeSiteRedirect.aspx?referrer=http%3a%2f%2fwww.asos.com%2fes%2f%3fsetPrefSite%3dtrue&to=www.asos.com,global.asos.com.edgekey.net.,Akamai,cname

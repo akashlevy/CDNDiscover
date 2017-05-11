@@ -1,0 +1,19 @@
+http://www.ign.com/,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://oystatic.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+http://assets14.ign.com,,,none
+http://assets1.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://assets2.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://0914.global.ssl.fastly.net,global-ssl.fastly.net.,Fastly,cname
+http://cdn.ziffstatic.com,www.ziffdavis.com.edgekey.net.,Akamai,cname
+http://www.ign.com/,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/articles/2017/05/09/guillermo-del-toros-hellboy-3-that-never-was,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/videos/2017/05/09/top-10-rpgs-of-all-time,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/articles/2017/05/10/the-flash-cause-and-effect-review,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://oyster.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://www.ign.com/articles/2017/05/10/marvels-agents-of-shield-the-return-review,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/articles/2017/05/09/alien-covenant-untangling-aliens-complicated-timeline,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/xbox-one,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/xbox-360,a009.ziffdavis.inscname.net.,Instart Logic,cname

@@ -1,0 +1,11 @@
+http://www.livescore.com/,,,none
+http://cdn3.livescore.com,,,none
+http://www.livescore.com/,,,none
+http://www.livescore.com/worldcup/,,,none
+http://www.livescore.com/hockey/,,,none
+http://www.livescore.com/basketball/,,,none
+http://www.livescore.com/tennis/,,,none
+http://www.livescore.com/cricket/,,,none
+http://www.livescore.com/iphone/,,,none
+http://www.livescore.com/android/,,,none
+http://www.livescore.com/mobile/,,,none

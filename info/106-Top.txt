@@ -1,0 +1,21 @@
+http://www.forbes.com/,g2.shared.global.fastly.net.,Fastly,cname
+http://www.forbes.com/adblock/instructions/,g2.shared.global.fastly.net.,Fastly,cname
+http://fast.forbes.com,,,none
+http://www.forbes.com/,g2.shared.global.fastly.net.,Fastly,cname
+http://0.gravatar.com,,,none
+http://2.gravatar.com,,,none
+http://blogs-images.forbes.com,blogs-images.forbes.com.edgekey.net.,Akamai,cname
+http://1.gravatar.com,,,none
+http://www.forbes.com/fdc/privacy.html,g2.shared.global.fastly.net.,Fastly,cname
+http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+http://ads.forbes.com,,,none
+http://i.forbesimg.com,i.forbesimg.com.edgekey.net.,Akamai,cname
+http://images.forbes.com,images.forbes.com.edgekey.net.,Akamai,cname
+http://www.forbesmagazine.com,,,none
+http://www.forbes.com/terms,g2.shared.global.fastly.net.,Fastly,cname
+http://forbesbooks.com,,,none
+http://www.forbes.com/fdc/contact.html,g2.shared.global.fastly.net.,Fastly,cname
+http://www.google.com,,Google,name
+http://www.forbes.com/sites/careers-at-forbes/,g2.shared.global.fastly.net.,Fastly,cname
+http://www.forbes.com/sites/forbespr/,g2.shared.global.fastly.net.,Fastly,cname
+https://www.forbes.com/podcasts/,g2.shared.global.fastly.net.,Fastly,cname

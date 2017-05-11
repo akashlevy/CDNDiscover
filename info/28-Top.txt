@@ -1,0 +1,5 @@
+http://www.office.com/,geo.home.office.akadns.net.,Akamai,cname
+http://officehome.msocdn.com,wildcard.msocdn.com.edgekey.net.,Akamai,cname
+https://www.office.com/login?es=Click&ru=%2F,geo.home.office.akadns.net.,Akamai,cname
+http://secure.aadcdn.microsoftonline-p.com,secure.aadcdn.microsoftonline-p.com.edgekey.net.,Akamai,cname
+https://www.office.com,geo.home.office.akadns.net.,Akamai,cname

@@ -1,0 +1,10 @@
+http://www.avg.com/,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/homepage,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/#body-inner,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/all-products?r=1#customer=home,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/ultimate,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/free-antivirus-download,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/internet-security,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/avg-pctuneup,secure2.avg.com.edgekey.net.,Akamai,cname
+http://www.avg.com/us-en/avg-driver-updater,secure2.avg.com.edgekey.net.,Akamai,cname

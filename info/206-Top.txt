@@ -1,0 +1,13 @@
+http://www.thefreedictionary.com/,,,none
+http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://img.tfd.com,,,none
+http://www.thefreedictionary.com,,,none
+http://www.thefreedictionary.com/_/hp/Controls/printer-friendly.aspx?985,,,none
+http://www.thefreedictionary.com,,,none
+http://www.thefreedictionary.com/_/help/help1.htm,,,none
+http://www.thefreedictionary.com/download.htm,,,none
+http://www.thefreedictionary.com/Word-of-the-Day.htm,,,none
+http://www.thefreedictionary.com/help.htm,,,none
+http://www.thefreedictionary.com/lookup.htm#sitecontent,,,none
+http://www.thefreedictionary.com/lookup.htm#link,,,none
+http://www.thefreedictionary.com/lookup.htm#searchbox,,,none

@@ -1,6 +1,0 @@
-http://www.go.com/,,,none
-http://imasdk.googleapis.com,googleadapis.l.google.com.,Google,cname
-http://lumiere-a.akamaihd.net,lumiere-a.akamaihd.net.edgesuite.net.,Akamai,cname
-http://lumiere-a.akamaihd.net,lumiere-a.akamaihd.net.edgesuite.net.,Akamai,cname
-http://www.go.com/,,,none
-http://www.go.com/creations,,,none

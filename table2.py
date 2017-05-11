@@ -5,7 +5,8 @@ from collections import Counter
 def run():
     '''Convert out.csv to a LaTeX table'''
     # Get outcsv, then sort and strip
-    _, cdn1s, _, cdn2s, _, _, _ = zip(*[entry.split(',') for entry in list(open('out.csv'))])
+    outcsv = zip(*[entry.split(',') for entry in list(open('out.csv'))])
+    _, cdn1s, _, cdn2s, _, _ = outcsv
 
     freq = Counter(cdn1s) + Counter(cdn2s)
     del freq['']
@@ -14,7 +15,7 @@ def run():
     # Generate LaTeX tables
     with open('table2.tex', 'w') as texfile:
         # Table header
-        texfile.write('\\begin{table}[]\n')
+        texfile.write('\\begin{table}[tbp]\n')
         texfile.write('\\centering\n')
         texfile.write('\\caption{Aggregate Statistics for CDN Usage}\n')
         texfile.write('\\label{cdn-stats-table}\n')
@@ -30,7 +31,8 @@ def run():
 
             # Create rank, icon, URL
             texfile.write(str(i+1) + ' & ')
-            texfile.write('\\includegraphics[width=8px]{' + cdnfile + '.png} ')
+            texfile.write('\\includegraphics[width=8px]{' +
+                          'images/cdnicons/' + cdnfile + '.png} ')
             texfile.write(cdn + ' & ' + str(num) + ' & ')
             texfile.write('%.1f' % (num/total*100) + '\\% & ')
             texfile.write(str(num/250.*100) + '\\%')

@@ -1,0 +1,13 @@
+https://www.humblebundle.com/,ghs.googlehosted.com.,Google,cname
+http://humblebundle.imgix.net,global.imgix.map.fastly.net.,Fastly,cname
+https://www.humblebundle.com/,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/books,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/monthly,ghs.googlehosted.com.,Google,cname
+http://humblebundle-a.akamaihd.net,humblebundle-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://humblebundle-a.akamaihd.net,humblebundle-a.akamaihd.net.edgesuite.net.,Akamai,cname
+https://www.humblebundle.com/store,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/#heading-logo,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/very-positive-bundle,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/monthly?hmb_campaign=Humble_Monthly_June_2017&hmb_source=banner&hmb_medium=banner,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/#contribute,ghs.googlehosted.com.,Google,cname
+https://www.humblebundle.com/developer,ghs.googlehosted.com.,Google,cname

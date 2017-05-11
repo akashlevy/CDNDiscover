@@ -2,6 +2,7 @@
 
 # Standard library imports
 import json
+import time
 from Queue import Empty, Queue
 from urlparse import urljoin, urlparse
 
@@ -9,7 +10,7 @@ from urlparse import urljoin, urlparse
 import dns.resolver
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException, WebDriverException
+from selenium.common.exceptions import TimeoutException
 
 # Maximum number of URLs to crawl per page
 MAX_URLS = 10
@@ -33,11 +34,11 @@ def run():
     browser = webdriver.Firefox(firefox_profile=fprof)
     browser.set_page_load_timeout(30)
 
+    # Wait for one minute to load Adblock Plus settings
+    time.sleep(60)
+
     # Run crawler over CDN
     for i, url in enumerate(topurls[:250]):
-        if i not in [67, 149, 187, 196, 199, 207, 208, 216]:
-            continue
-        
         # Open output file
         outfile = open('info/%d-%s.txt' % (i, categ), 'w')
 
@@ -59,6 +60,9 @@ def run():
                 url = queue.get(False)
             except Empty:
                 break
+
+            # Get CDN associated with URL
+            getcdn(url, outfile)
 
             # Get page and parse
             try:
@@ -90,9 +94,6 @@ def run():
                 emblinks.remove('')
             except KeyError:
                 pass
-
-            # Get CDN associated with URL
-            getcdn(url, outfile)
 
             # For embedded links
             for emblink in emblinks - seenemblinks:

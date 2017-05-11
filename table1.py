@@ -1,5 +1,5 @@
 '''Convert out.csv to a LaTeX table'''
-import glob
+from glob import glob
 from urlparse import urlparse
 
 
@@ -106,7 +106,7 @@ def run():
         texfile.write('&& \\\\\n')
 
         # Create legend entries
-        cdnicons = glob.glob('cdnicons/*')
+        cdnicons = glob('cdnicons/*')
         for i, cdnfile in enumerate(cdnicons):
             cdnfile = cdnfile.split('/')[-1].split('.')[0]
             cdn = cdnfile.replace('_', ' ')

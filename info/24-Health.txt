@@ -1,0 +1,13 @@
+http://health.com/,,,none
+http://cdn-img.health.com,,,none
+http://www.health.com,d27uc26nhlq8uv.cloudfront.net.,Amazon CloudFront,cname
+http://www.google.com,,Google,name
+http://health.com/#main-content,,,none
+http://health.com/,,,none
+http://health.com/fitness,,,none
+http://health.com/food,,,none
+http://health.com/weight-loss,,,none
+http://health.com/beauty,,,none
+http://health.com/diseases-conditions,,,none
+http://health.com/psoriatic-arthritis/psoriatic-arthritis-mollie-carman,,,none
+http://health.com/psoriatic-arthritis,,,none

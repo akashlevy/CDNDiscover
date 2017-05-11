@@ -1,0 +1,10 @@
+http://www.xe.com/,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/faq,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/sitemap.php,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/companyinfo.php,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/company/,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/contact.php,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/email/xenewsletter/,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/partnerships/,www.xe.com.edgekey.net.,Akamai,cname
+http://www.xe.com/jobs/,www.xe.com.edgekey.net.,Akamai,cname

@@ -1,0 +1,13 @@
+http://www.y8.com/,,,none
+http://img-ak.y8.com,y8.com.edgesuite.net.,Akamai,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.y8.com/,,,none
+http://www.y8.com/anim,,,none
+http://cdn.id.net,cds.y3a7d4j7.hwcdn.net.,Highwinds,cname
+http://www.y8.com/logout,,,none
+http://www.y8.com/new/games,,,none
+http://www.y8.com/best,,,none
+http://www.y8.com/popular/games,,,none
+http://www.y8.com/parental_filters/new,,,none
+http://www.y8.com,,,none
+http://www.y8.com/categories/girls,,,none

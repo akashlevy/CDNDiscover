@@ -1,0 +1,10 @@
+http://www.stanford.edu/,,,none
+http://www.stanford.edu/#content,,,none
+http://www.stanford.edu/,,,none
+http://www.stanford.edu/about,,,none
+http://www.stanford.edu/admission,,,none
+http://www.stanford.edu/academics,,,none
+http://www.stanford.edu/research,,,none
+http://www.stanford.edu/campuslife,,,none
+http://www.stanford.edu/gateways/students,,,none
+http://www.stanford.edu/gateways/facstaff,,,none

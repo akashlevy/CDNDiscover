@@ -1,0 +1,14 @@
+https://www.playstation.com/,www.playstation.com.edgekey.net.,Akamai,cname
+http://media.playstation.com,dsan.scene7.com.edgekey.net.,Akamai,cname
+http://auth.api.sonyentertainmentnetwork.com,auth.api.sonyentertainmentnetwork.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/ps4/,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/playstation-vr/,www.playstation.com.edgekey.net.,Akamai,cname
+http://sne.demdex.net,,,none
+https://www.playstation.com/en-us/explore/ps3/,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/psvita/,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/games/ps4-games/?console=ps4,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/games/ps3-games/?console=ps3,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/games/psvita-games/?console=ps vita,www.playstation.com.edgekey.net.,Akamai,cname
+https://www.playstation.com/en-us/explore/playstation-plus/,www.playstation.com.edgekey.net.,Akamai,cname
+http://i1.ytimg.com,ytimg.l.google.com.,Google,cname

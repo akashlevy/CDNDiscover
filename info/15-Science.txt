@@ -1,0 +1,13 @@
+http://www.nationalgeographic.com/,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://news.nationalgeographic.com,news.nationalgeographic.com.edgesuite.net.,Akamai,cname
+http://www.nationalgeographic.com,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/magazines/l/multisubs/navH.html,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/latest-stories/?source=sitenavstories,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/photography/proof/2017/05/technology-innovation-cuba-youth-arts,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/photography/proof,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/magazine/2017/06/side-effect-haiti-street-medicine-sellers,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/environment/urban-expeditions/aviation/gallery-photos-commute-bus-train-environment,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/environment/urban-expeditions,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/photography/photo-of-the-day,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://yourshot.nationalgeographic.com,san1.nationalgeographic.com.edgekey.net.,Akamai,cname
+http://www.nationalgeographic.com/travel/destinations/africa/morocco/video-watch-bizarre-tree-climbing-goats-in-action-morocco,san1.nationalgeographic.com.edgekey.net.,Akamai,cname

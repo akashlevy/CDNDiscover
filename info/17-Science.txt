@@ -1,0 +1,1 @@
+http://www.mayoclinic.org/,www.mayoclinic.org.edgekey.net.,Akamai,cname

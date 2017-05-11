@@ -1,0 +1,13 @@
+http://www.bbc.com/news,,,none
+http://static.bbci.co.uk,,,none
+http://ichef.bbci.co.uk,,,none
+http://www.bbc.com/,,,none
+http://www.bbc.com/news#page,,,none
+http://www.bbc.com/accessibility/,,,none
+http://edigitalsurvey.com,,,none
+http://www.bbc.com/news,,,none
+http://www.bbc.com/news/,,,none
+http://www.bbc.com/sport/,,,none
+http://www.bbc.com/weather/,,,none
+http://www.bbc.com/earth/,,,none
+http://www.bbc.com/travel/,,,none

@@ -1,0 +1,11 @@
+http://www.ecollege.com/,,,none
+http://www.ecollege.com/contact-us.php,,,none
+http://www.ecollege.com/index.php,,,none
+http://www.ecollege.com/about-us.php,,,none
+http://www.ecollege.com/technical-support.php,,,none
+http://www.ecollege.com/increasing-access.php,,,none
+http://www.ecollege.com/improving-achievement.php,,,none
+http://www.ecollege.com/delivering-value-and-affordability.php,,,none
+http://www.ecollege.com/careers.php,,,none
+http://www.ecollege.com/location-directions.php,,,none
+http://maps.google.com,,Google,name

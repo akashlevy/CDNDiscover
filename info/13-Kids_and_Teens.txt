@@ -1,0 +1,13 @@
+http://www.xbox.com/,www.xbox.com.akadns.net.,Akamai,cname
+http://assets.onestore.ms,assets.onestore.ms.akadns.net.,Akamai,cname
+http://compass.xbox.com,,,none
+http://placehold.it,,,none
+https://www.xbox.com/,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/?xr=mebarnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/xbox-one-s?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/xbox-one?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/project-scorpio?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/xbox-one/consoles?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/xbox-one/experience?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/xbox-one/backward-compatibility?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname
+http://www.xbox.com/en-US/entertainment?xr=shellnav,www.xbox.com.akadns.net.,Akamai,cname

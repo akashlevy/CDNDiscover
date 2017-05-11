@@ -1,0 +1,11 @@
+http://www.ana.co.jp/,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/#Main,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/wws/japan/e/asw_common/serviceinfo/share/assist/,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/wws/japan/e/local/site-help/share/feedback/,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.ana.co.jp/wws/japan/e/local/site-help/share/contact/,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/asw/LocaleSelectServlet,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/asw/index.jsp?type=d,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/#loginHelp,www.ana.co.jp.edgekey.net.,Akamai,cname
+http://www.ana.co.jp/rtn/index_e.html,www.ana.co.jp.edgekey.net.,Akamai,cname

@@ -1,0 +1,12 @@
+http://www.bhphotovideo.com/,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+http://www.bhphotovideo.com/efdzewcwdcqueystrdfs.html,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+http://static.bhphoto.com,static.bhphoto.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com/find/gsa.jsp,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com/find/eduAdvantage.jsp,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com/find/federal-gsa-contracts-gov-corporate-edu-sales.jsp/removeMode/all,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+http://www.bhphotovideo.com/explora/,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+http://static.bhphotovideo.com,static.bhphotovideo.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com/find/HelpCenter/helpcenter.jsp,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com/find/HelpCenter/AboutUs.jsp#BhProfile,www.bhphotovideo.com.edgekey.net.,Akamai,cname
+https://www.bhphotovideo.com/find/liveChat.jsp?cm_sp=Live`Chat-_-AllPages~Header-_-Live~Chat,www.bhphotovideo.com.edgekey.net.,Akamai,cname

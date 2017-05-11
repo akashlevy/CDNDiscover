@@ -125,7 +125,8 @@
 		".cdnetworks.net": "CDNetworks",
 		".chinacache.net": "ChinaCache",
 		".akadns.": "Akamai",
-		".yunjiasu-cdn.net": "Cloudflare"
+		".yunjiasu-cdn.net": "Cloudflare",
+		".cloudflare.net": "Cloudflare"
 	},
 	"headers":
 	[

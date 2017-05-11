@@ -138,7 +138,19 @@ def getcdn(url, outfile):
     # Write to file if no CDN found
     if not wrote:
         print url + ',', None
-        outfile.write(url + ',,,none\n')
+        outfile.write(url.encode('ascii', 'ignore').decode('ascii'))
+        try:
+            if cname:
+                outfile.write(',%s,,none\n' % cname)
+            else:
+                outfile.write(',,,none\n')
+        except UnboundLocalError:
+            pass
+
+
+def reprocess():
+    '''Update all files' hosts'''
+    pass
 
 
 # Run the CDN finder

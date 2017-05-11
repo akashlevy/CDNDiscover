@@ -1,0 +1,14 @@
+http://www.bodybuilding.com/,www.bodybuilding.com.edgekey.net.,Akamai,cname
+http://www.bodybuilding.com,www.bodybuilding.com.edgekey.net.,Akamai,cname
+http://artifacts.bbcomcdn.com,re.bodybuilding.com.edgekey.net.,Akamai,cname
+http://www.bodybuilding.com,www.bodybuilding.com.edgekey.net.,Akamai,cname
+https://www.bodybuilding.com/store/,www.bodybuilding.com.edgekey.net.,Akamai,cname
+http://assets.bodybuilding.com,www.bodybuilding.com.edgekey.net.,Akamai,cname
+http://store.bbcomcdn.com,re.bodybuilding.com.edgekey.net.,Akamai,cname
+https://www.bodybuilding.com/category/training,www.bodybuilding.com.edgekey.net.,Akamai,cname
+https://www.bodybuilding.com/fun/find-a-plan.html,www.bodybuilding.com.edgekey.net.,Akamai,cname
+http://offerpop.comhttp://content.jwplatform.comhttps://www.bodybuilding.com/category/nutrition,www.bodybuilding.com.edgekey.net.,Akamai,cname
+http://www.bodybuilding.com/store/common/store/change-store.jsp,www.bodybuilding.com.edgekey.net.,Akamai,cname
+https://www.bodybuilding.com/store/protein.htm ,www.bodybuilding.com.edgekey.net.,Akamai,cname
+https://www.bodybuilding.com/store/goalpreworkout.htm,www.bodybuilding.com.edgekey.net.,Akamai,cname
+https://www.bodybuilding.com/store/bcaa.html,www.bodybuilding.com.edgekey.net.,Akamai,cname

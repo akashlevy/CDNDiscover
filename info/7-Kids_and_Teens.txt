@@ -1,0 +1,13 @@
+http://www.reverso.net/,,,none
+http://logv31.xiti.com,,,none
+http://cdn.reverso.net,reversoprodcdn.azureedge.net.,Microsoft Azure,cname
+http://www.reverso.net/text_translation.aspx?lang=EN,,,none
+http://www.reverso.net/,,,none
+http://www.reverso.net/spell-checker/english-spelling-grammar/,,,none
+http://logv11.xiti.com,,,none
+http://www.reverso.net/more.aspx?lang=EN,,,none
+http://www.reverso.net/feedback.aspx?lang=EN,,,none
+http://www.reverso.net/tricks.aspx?lang=EN,,,none
+http://www.reverso.net/tellafriend.aspx?lang=EN,,,none
+http://www.reverso.net/disclaimer.aspx?lang=EN,,,none
+http://www.reverso.net/privacy.aspx?lang=EN,,,none

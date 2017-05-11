@@ -1,0 +1,11 @@
+http://www.gamefaqs.com/,,,none
+http://gamefaqs.akamaized.net,a1981.d.akamai.net.,Akamai,cname
+http://www.gamefaqs.com/3ds,,,none
+http://www.gamefaqs.com/ds,,,none
+http://www.gamefaqs.com/iphone,,,none
+http://www.gamefaqs.com/pc,,,none
+http://www.gamefaqs.com/ps3,,,none
+http://www.gamefaqs.com/ps4,,,none
+http://www.gamefaqs.com/psp,,,none
+http://www.gamefaqs.com/switch,,,none
+http://www.gamefaqs.com/vita,,,none

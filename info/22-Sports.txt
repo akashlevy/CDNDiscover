@@ -1,0 +1,12 @@
+http://baseball.fantasysports.yahoo.com/,ycpi.fantasysports.yahoo.com.,,none
+http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://baseball.fantasysports.yahoo.com/,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/#maincontent,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/#subnav,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/b1,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/b1/register/tos?done=createjoin,ycpi.fantasysports.yahoo.com.,,none
+http://s1.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://baseball.fantasysports.yahoo.com/b1/game_message_boards,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/b1/leaderboard,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/b1/features,ycpi.fantasysports.yahoo.com.,,none
+http://baseball.fantasysports.yahoo.com/b1/proleagues,ycpi.fantasysports.yahoo.com.,,none

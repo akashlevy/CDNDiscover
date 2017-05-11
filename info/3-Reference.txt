@@ -1,8 +1,8 @@
 http://www.thesaurus.com/,www.thesaurus.com.edgesuite.net.,Akamai,cname
-http://spanids.dictionary.com,,,none
+http://spanids.dictionary.com,sid.dictionary.com.,,none
 http://static.sfdict.com,static.sfdict.com.edgesuite.net.,Akamai,cname
 http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
-http://platform.twitter.com,,,none
+http://platform.twitter.com,platform-eb.twitter.com.,,none
 http://www.thesaurus.com/,www.thesaurus.com.edgesuite.net.,Akamai,cname
 http://www.thesaurus.com,www.thesaurus.com.edgesuite.net.,Akamai,cname
 http://www.thesaurus.com/list/0/1,www.thesaurus.com.edgesuite.net.,Akamai,cname

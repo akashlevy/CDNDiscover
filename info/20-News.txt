@@ -1,5 +1,5 @@
 http://money.cnn.com/,,,none
-http://markets.money.cnn.com,,,none
+http://markets.money.cnn.com,markets.money.cnn.wallst.com.,,none
 http://offers.lendingtree.com,vmc7u.x.incapdns.net.,Incapsula,cname
 http://www.dianomi.com,,,none
 http://i2.cdn.turner.com,cdn.turner.com.edgekey.net.,Akamai,cname

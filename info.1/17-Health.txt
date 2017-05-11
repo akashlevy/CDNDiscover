@@ -1,0 +1,11 @@
+http://www.apa.org/,,,none
+http://my.apa.org,,,none
+http://www.apa.org/index.aspx,,,none
+http://www.apa.org/taqdcsybrc.html,,,none
+http://www.apa.org/support/index.aspx,,,none
+http://www.apa.org/about/index.aspx,,,none
+http://www.apa.org/topics/index.aspx,,,none
+http://www.apa.org/pubs/index.aspx,,,none
+http://www.apa.org/helpcenter/index.aspx,,,none
+http://www.apa.org/news/index.aspx,,,none
+http://www.apa.org/research/index.aspx,,,none

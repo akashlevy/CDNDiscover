@@ -1,5 +1,5 @@
 http://www.naukri.com/,ocean.naukri.edgekey.net.,Akamai,cname
-http://company.naukri.com,,,none
+http://company.naukri.com,static.naukri.com.,,none
 http://bms.naukimg.com,ocean.naukri.edgekey.net.,Akamai,cname
 http://w28.naukri.com,ocean.naukri.edgekey.net.,Akamai,cname
 http://www.naukri.com,ocean.naukri.edgekey.net.,Akamai,cname

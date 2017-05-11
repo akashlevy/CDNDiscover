@@ -1,4 +1,4 @@
-http://www.ted.com/http://www.ted.com/http://www.ted.com/talkshttp://pi.tedcdn.com,j2.shared.global.fastly.net.,Fastly,cname
-http://www.ted.com/playlistshttp://www.ted.com/watch/ted-edhttp://www.ted.com/watch/tedx-talkshttp://www.ted.com/surprisemehttp://pa.tedcdn.com,j2.shared.global.fastly.net.,Fastly,cname
-http://www.ted.com/topicshttp://www.ted.com/read/ted-bookshttp://pb-assets.tedcdn.com,ecdn.tedcdn.com.,,none
-http://www.ted.com/newsletter
+http://www.ted.com/http://www.ted.com/http://www.ted.com/talkshttp://pi.tedcdn.com,,,none
+http://www.ted.com/playlistshttp://www.ted.com/watch/ted-edhttp://www.ted.com/watch/tedx-talkshttp://www.ted.com/surprisemehttp://pa.tedcdn.com,,,none
+http://www.ted.com/topicshttp://www.ted.com/read/ted-bookshttp://pb-assets.tedcdn.com,,,none
+http://www.ted.com/newsletter,,,none

@@ -1,0 +1,5 @@
+http://www.hp.com/,,,none
+http://www.www8-hp.com,www.www8-hp.com.edgesuite.net.,Akamai,cname
+http://storage.media.ext.hp.com,storage.media.ext.hp.com.edgesuite.net.,Akamai,cname
+http://www.hp.com/#skiptobody,,,none
+http://www.hp.com/#skiptofooter,,,none

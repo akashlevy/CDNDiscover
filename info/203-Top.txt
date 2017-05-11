@@ -3,7 +3,7 @@ http://media.playstation.com,dsan.scene7.com.edgekey.net.,Akamai,cname
 http://auth.api.sonyentertainmentnetwork.com,auth.api.sonyentertainmentnetwork.com.edgekey.net.,Akamai,cname
 https://www.playstation.com/en-us/,www.playstation.com.edgekey.net.,Akamai,cname
 https://www.playstation.com/en-us/explore/ps4/,www.playstation.com.edgekey.net.,Akamai,cname
-http://sne.demdex.net,,,none
+http://sne.demdex.net,gslb.demdex.net.,,none
 https://www.playstation.com/en-us/explore/playstation-vr/,www.playstation.com.edgekey.net.,Akamai,cname
 https://www.playstation.com/en-us/explore/ps3/,www.playstation.com.edgekey.net.,Akamai,cname
 https://www.playstation.com/en-us/explore/psvita/,www.playstation.com.edgekey.net.,Akamai,cname

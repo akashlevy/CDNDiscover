@@ -1,6 +1,6 @@
 http://www.walmart.com/,www.walmart.com.edgekey.net.,Akamai,cname
 http://i5.walmartimages.com,walmartgc.hs.llnwd.net.,Limelight,cname
-http://beam.hlserve.comhttp://www.walmart.com/#pageContainer,www.walmart.com.edgekey.net.,Akamai,cname
+http://beam.hlserve.comhttp://www.walmart.com/#pageContainer,,,none
 http://www.walmart.com/account/login?tid=0&returnUrl=%2F,www.walmart.com.edgekey.net.,Akamai,cname
 http://ll-us-i5.wal.co,walmartgc-1.hs.llnwd.net.,Limelight,cname
 http://www.walmart.com/cp/free-shipping/1088989,www.walmart.com.edgekey.net.,Akamai,cname

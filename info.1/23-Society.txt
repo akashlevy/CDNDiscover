@@ -1,0 +1,11 @@
+http://www.thrillist.com/,http2.thrillist.map.fastly.net.,Fastly,cname
+http://content.jwplatform.comhttp://assets3.thrillist.com,thrillist.com.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/food-and-drink,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/travel,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/entertainment,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/tech,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/on-tap,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/small-business,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/health,http2.thrillist.map.fastly.net.,Fastly,cname
+http://www.thrillist.com/videos,http2.thrillist.map.fastly.net.,Fastly,cname

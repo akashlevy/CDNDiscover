@@ -4,7 +4,7 @@ http://www.cracked.com/users/register/,www.cracked.com.edgesuite.net.,Akamai,cna
 http://www.cracked.com,www.cracked.com.edgesuite.net.,Akamai,cname
 http://s3.crackedcdn.com,s3.crackedcdn.com.akamaized.net.,Akamai,cname
 http://www.google.com,,Google,name
-http://platform.twitter.com,,,none
+http://platform.twitter.com,platform-eb.twitter.com.,,none
 http://www.cracked.com/users/password/,www.cracked.com.edgesuite.net.,Akamai,cname
 http://www.cracked.com/,www.cracked.com.edgesuite.net.,Akamai,cname
 http://www.cracked.com/funny-articles.html,www.cracked.com.edgesuite.net.,Akamai,cname

@@ -8,4 +8,4 @@ http://www.kayak.com/packages,prod.kayak.map.fastlylb.net.,Fastly,cname
 http://www.kayak.com/rentals,prod.kayak.map.fastlylb.net.,Fastly,cname
 http://www.kayak.com/cruises,prod.kayak.map.fastlylb.net.,Fastly,cname
 http://www.kayak.com/guides,prod.kayak.map.fastlylb.net.,Fastly,cname
-http://a1.r9cdn.net,,,none
+http://a1.r9cdn.net,kayak.r9cdn.net.,,none

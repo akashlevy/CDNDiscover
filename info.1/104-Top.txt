@@ -1,0 +1,10 @@
+http://www.irctc.co.in/,,,none
+http://www.irctc.co.in/,,,none
+http://www.irctc.co.in/eticketing/loginHome.jsf,,,none
+http://www.irctc.co.in/ https://www.irctc.co.in/eticketing/forgotPassword.jsf,,,none
+http://www.irctc.co.in/eticketing/forgotPassword.jsf,,,none
+http://www.irctc.co.in/eticketing/userSignUp.jsf,,,none
+http://www.irctc.co.in/eticketing/agentlogin,,,none
+http://www.irctc.co.in/findAgents.jsf,,,none
+http://www.irctc.co.in/eticketing/ https://www.irctc.co.in/eticketing/forgotPassword.jsf,,,none
+http://www.irctc.co.in/eticketing/findAgents.jsf,,,none

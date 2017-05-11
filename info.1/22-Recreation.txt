@@ -1,0 +1,13 @@
+http://www.flightradar24.com/,,,none
+http://www.flightradar24.com,,,none
+http://platform.twitter.com,,,none
+http://www.flightradar24.com/,,,none
+http://www.flightradar24.com/add-coverage,,,none
+http://www.flightradar24.com/apply-for-receiver,,,none
+http://www.google.com,,Google,name
+http://www.flightradar24.com/share-your-data,,,none
+http://www.flightradar24.com/build-your-own,,,none
+http://www.flightradar24.com/raspberry-pi,,,none
+http://www.flightradar24.com/activate-raspberry-pi,,,none
+http://www.flightradar24.com/share-statistics,,,none
+http://www.flightradar24.com/data,,,none

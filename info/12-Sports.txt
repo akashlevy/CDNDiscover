@@ -1,5 +1,5 @@
 http://www.bbc.com/sport,www-bbc-com.bbc.net.uk.,,none
-http://edigitalsurvey.comhttp://static.bbci.co.uk,static-bbci.bbc.net.uk.,,none
+http://edigitalsurvey.comhttp://static.bbci.co.uk,,,none
 http://ichef.bbci.co.uk,ichef-bbci.bbc.net.uk.,,none
 http://www.bbc.com/,www-bbc-com.bbc.net.uk.,,none
 http://www.bbc.com/sport#page,www-bbc-com.bbc.net.uk.,,none

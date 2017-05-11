@@ -1,0 +1,12 @@
+http://en.wikipedia.org/,,,none
+http://upload.wikimedia.org,,,none
+http://en.wikipedia.org/#mw-head,,,none
+http://en.wikipedia.org/#p-search,,,none
+http://en.wikipedia.org/wiki/Wikipedia,,,none
+http://en.wikipedia.org/wiki/Free_content,,,none
+http://en.wikipedia.org/wiki/Encyclopedia,,,none
+http://en.wikipedia.org/wiki/Wikipedia:Introduction,,,none
+http://en.wikipedia.org/wiki/Special:Statistics,,,none
+http://en.wikipedia.org/wiki/English_language,,,none
+http://en.wikipedia.org/wiki/Portal:Arts,,,none
+http://commons.wikimedia.org,,,none

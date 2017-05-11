@@ -1,11 +1,11 @@
-https://www.coursera.org/,,,none
+https://www.coursera.org/,www-cloudfront-alias.coursera.org.,,none
 http://d3njjcbhbojbot.cloudfront.net,,Amazon CloudFront,name
-https://www.coursera.org/,,,none
-https://www.coursera.org/browse,,,none
-https://www.coursera.org/courses,,,none
-https://www.coursera.org/partners,,,none
-https://www.coursera.org/enterprise,,,none
-https://www.coursera.org/?authMode=login,,,none
-https://www.coursera.org/?authMode=signup,,,none
-https://www.coursera.org/featured/top_specializations_locale_en_os_web,,,none
-https://www.coursera.org/specializations/jhu-data-science,,,none
+https://www.coursera.org/,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/browse,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/courses,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/partners,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/enterprise,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/?authMode=login,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/?authMode=signup,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/featured/top_specializations_locale_en_os_web,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/specializations/jhu-data-science,www-cloudfront-alias.coursera.org.,,none

@@ -1,0 +1,3 @@
+https://docs.google.com/,,Google,name
+http://accounts.youtube.com,www3.l.google.com.,Google,cname
+http://www.gstatic.com,,Google,name

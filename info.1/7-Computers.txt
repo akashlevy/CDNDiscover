@@ -1,0 +1,13 @@
+https://twitter.com/,,,none
+http://abs.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
+http://twitter.com,,,none
+http://pbs.twimg.com,wildcard.twimg.com.,Twitter,cname
+https://twitter.com/#timeline,,,none
+https://twitter.com/,,,none
+https://twitter.com/signup,,,none
+https://twitter.com/login,,,none
+https://twitter.com/i/streams/category/686639666771046402,,,none
+https://twitter.com/i/streams/category/686639666779394057,,,none
+https://twitter.com/i/streams/category/686639666779426835,,,none
+https://twitter.com/i/streams/category/686639666779394055,,,none
+https://twitter.com/i/streams/category/686639666779426842,,,none

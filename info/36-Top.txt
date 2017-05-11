@@ -2,7 +2,7 @@ http://www.adobe.com/,www.adobe.com.edgekey.net.,Akamai,cname
 http://wwwimages.adobe.com,wwwimages.adobe.com.edgekey.net.,Akamai,cname
 http://www.adobe.com/,www.adobe.com.edgekey.net.,Akamai,cname
 http://www.adobe.com/creativecloud.html?promoid=NGWGRLB2&mv=other,www.adobe.com.edgekey.net.,Akamai,cname
-http://blogs.adobe.com,,,none
+http://blogs.adobe.com,adobe.livingdot.com.,,none
 http://www.adobe.com/creativecloud/photography.html?promoid=NQCJRBTZ&mv=other,www.adobe.com.edgekey.net.,Akamai,cname
 http://www.adobe.com/creativecloud/buy/students.html?promoid=P79NQTWV&mv=other,www.adobe.com.edgekey.net.,Akamai,cname
 http://www.adobe.com/creativecloud/business/teams.html?promoid=NYTLR3CX&mv=other,www.adobe.com.edgekey.net.,Akamai,cname

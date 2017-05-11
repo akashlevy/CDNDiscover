@@ -1,5 +1,5 @@
 http://www.weather.gov/,sancert.weather.gov.edgekey.net.,Akamai,cname
-http://weather.govhttp://forecast.weather.gov,sancert.weather.gov.edgekey.net.,Akamai,cname
+http://weather.govhttp://forecast.weather.gov,,,none
 http://www.weather.gov,sancert.weather.gov.edgekey.net.,Akamai,cname
 http://www.weather.gov/,sancert.weather.gov.edgekey.net.,Akamai,cname
 http://www.weather.gov/forecastmaps,sancert.weather.gov.edgekey.net.,Akamai,cname

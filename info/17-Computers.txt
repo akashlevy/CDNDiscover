@@ -1,6 +1,6 @@
 http://stackoverflow.com/,,,none
 http://ssum-sec.casalemedia.com,ssum-sec.casalemedia.com.edgekey.net.,Akamai,cname
-http://i.stack.imgur.com,,,none
+http://i.stack.imgur.com,stack.imgur.com.cdn.cloudflare.net.,Cloudflare,cname
 http://stackoverflow.com,,,none
 http://engine.adzerk.net,,,none
 http://stackoverflow.com/questions,,,none

@@ -1,0 +1,17 @@
+http://wordpress.com/,,,none
+http://secure.leadback.advertising.com,ns.leadback.ace.advertising.com.adcom.akadns.net.,Akamai,cname
+http://customer.mediawallahscript.com,,,none
+https://wordpress.com/,,,none
+https://wordpress.com/learn-more/?v=site,,,none
+http://data.adxcel-ec2.com,,,none
+http://6355556.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+https://wordpress.com/learn-more/?v=blog,,,none
+https://wordpress.com/features/,,,none
+http://s0.wp.com,,WordPress,name
+http://wordpress.com/pricing/,,,none
+http://s1.wp.com,,WordPress,name
+http://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2F,,,none
+https://wordpress.com/start?ref=homepage,,,none
+http://public-api.wordpress.com,,,none
+http://wordpress.com/#plans,,,none
+http://wordpress.com/#benefits-domains,,,none

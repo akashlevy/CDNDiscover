@@ -8,7 +8,7 @@ http://www.dict.cc/?s=about%3Atips,,,none
 http://www.dict.cc/?s=about%3Afaq,,,none
 http://www.dict.cc/jump.php?ref=clickto,,,none
 http://www.clicktoapp.com,,,none
-http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+http://platform.twitter.com,platform-eb.twitter.com.,,none
 http://www.dict.cc/?s=about%3A,,,none
 http://www.gstatic.com,,Google,name
 http://www.dict.cc/subjects.php,,,none

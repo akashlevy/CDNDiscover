@@ -1,5 +1,5 @@
 http://health.com/,,,none
-http://cdn-img.health.com,,,none
+http://cdn-img.health.com,delivery.health.com.,,none
 http://www.health.com,d27uc26nhlq8uv.cloudfront.net.,Amazon CloudFront,cname
 http://www.google.com,,Google,name
 http://health.com/#main-content,,,none

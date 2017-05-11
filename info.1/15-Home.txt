@@ -1,0 +1,18 @@
+http://www.dpreview.com/,,,none
+http://2.img-dpreview.com,d199bk7kirt65b.cloudfront.net.,Amazon CloudFront,cname
+http://3.img-dpreview.com,d199bk7kirt65b.cloudfront.net.,Amazon CloudFront,cname
+http://4.img-dpreview.com,d199bk7kirt65b.cloudfront.net.,Amazon CloudFront,cname
+http://1.img-dpreview.com,d199bk7kirt65b.cloudfront.net.,Amazon CloudFront,cname
+http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
+http://g4.img-dpreview.com,d3ojfab0q2dwum.cloudfront.net.,Amazon CloudFront,cname
+http://g2.img-dpreview.com,d3ojfab0q2dwum.cloudfront.net.,Amazon CloudFront,cname
+https://www.dpreview.com/subscribe-to-newsletter,,,none
+http://fls-na.amazon.com,,,none
+https://www.dpreview.com,,,none
+https://www.dpreview.com/reviews,,,none
+https://www.dpreview.com/features,,,none
+https://www.dpreview.com/buying-guides,,,none
+https://www.dpreview.com/sample-galleries,,,none
+https://www.dpreview.com/videos,,,none
+https://www.dpreview.com/products/cameras,,,none
+https://www.dpreview.com/products/lenses,,,none

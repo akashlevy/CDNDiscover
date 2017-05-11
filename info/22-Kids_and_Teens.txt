@@ -1,1 +1,1 @@
-http://www.nintendo.com/,,,none
+http://www.nintendo.com/,web-ncom-lb-500740187.us-east-1.elb.amazonaws.com.,,none

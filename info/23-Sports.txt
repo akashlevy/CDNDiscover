@@ -2,7 +2,7 @@ http://www.sbnation.com/,vox-chorus.map.fastly.net.,Fastly,cname
 http://bs.serving-sys.com,bs.eyeblaster.akadns.net.,Akamai,cname
 http://phonograph2.voxmedia.com,o.voxmedia.com.,,none
 http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
-http://cdn3.vox-cdn.com,z.vox-cdn.com.,,none
+http://cdn3.vox-cdn.com,h2.vox-cdn.com.,,none
 http://fonts.voxmedia.com,prod.vox.map.fastly.net.,Fastly,cname
 http://cdn0.vox-cdn.com,z.vox-cdn.com.,,none
 http://www.sbnation.com/,vox-chorus.map.fastly.net.,Fastly,cname

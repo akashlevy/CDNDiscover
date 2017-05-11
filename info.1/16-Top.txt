@@ -1,0 +1,17 @@
+http://imgur.com/,,,none
+http://i.imgur.com,prod.imgur.map.fastlylb.net.,Fastly,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://s.imgur.com,prod.imgur.map.fastlylb.net.,Fastly,cname
+http://imgur.com,,,none
+http://imgur.com/jobs,,,none
+http://www.glassdoor.com,,,none
+http://imgur.com/blog,,,none
+http://blog.imgur.com,prod.imgur.map.fastlylb.net.,Fastly,cname
+http://pbs.twimg.com,wildcard.twimg.com.,Twitter,cname
+http://imgur.com/about,,,none
+http://imgur.com/apps,,,none
+http://play.google.com,play.l.google.com.,Google,cname
+http://imgur.com/tos,,,none
+http://imgur.com/privacy,,,none
+http://imgur.com/privacy#adchoices,,,none
+http://imgur.com/upload,,,none

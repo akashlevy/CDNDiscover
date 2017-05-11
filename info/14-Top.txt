@@ -1,6 +1,6 @@
-http://mail.yahoo.com/,,,none
-http://s1.yimg.com,,,none
-http://mg.mail.yahoo.com,,,none
-http://mail.yahoo.com/,,,none
-http://s.yimg.com,,,none
-http://mail.yahoo.com/#country-codes-menu,,,none
+http://mail.yahoo.com/,login.yahoo.com.,,none
+http://s1.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://mg.mail.yahoo.com,fd-geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://mail.yahoo.com/,login.yahoo.com.,,none
+http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://mail.yahoo.com/#country-codes-menu,login.yahoo.com.,,none

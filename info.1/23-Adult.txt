@@ -1,0 +1,12 @@
+http://www.adam4adam.com/,,,none
+http://images.adam4adam.com,,,none
+http://www.adam4adam.com,,,none
+https://www.adam4adam.com/pages/forgot-password,,,none
+http://www.adam4adam.com/,,,none
+https://www.adam4adam.com/registration,,,none
+https://www.adam4adam.com/#login,,,none
+https://www.adam4adam.com/pages/contact,,,none
+https://www.adam4adam.com/pages/faq,,,none
+https://www.adam4adam.com/pages/guidelines,,,none
+https://www.adam4adam.com/pages/user-agreement,,,none
+https://www.adam4adam.com/pages/privacy,,,none

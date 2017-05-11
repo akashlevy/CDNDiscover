@@ -1,11 +1,11 @@
-https://www.mozilla.org/,,,none
-https://www.mozilla.org/en-US/,,,none
-https://www.mozilla.org/en-US/firefox/new/,,,none
-https://www.mozilla.org/en-US/internet-health/,,,none
-https://www.mozilla.org/en-US/technology/,,,none
-https://www.mozilla.org/en-US/about/,,,none
+https://www.mozilla.org/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/firefox/new/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/internet-health/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/technology/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/about/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
 http://videos.cdn.mozilla.net,d238bh8cgqmc25.cloudfront.net.,Amazon CloudFront,cname
-https://www.mozilla.org/en-US/contribute/,,,none
-https://www.mozilla.org/en-US/firefox/system-requirements/,,,none
-https://www.mozilla.org/firefox/new/?scene=2,,,none
-https://www.mozilla.org/en-US/privacy/firefox/,,,none
+https://www.mozilla.org/en-US/contribute/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/firefox/system-requirements/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/firefox/new/?scene=2,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.mozilla.org/en-US/privacy/firefox/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname

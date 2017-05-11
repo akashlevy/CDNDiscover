@@ -1,9 +1,9 @@
 http://rt.com/,,,none
 http://cdn.rt.com,cs423.wpc.edgecastcdn.net.,Edgecast,cname
-http://img.rt.com,,,none
+http://img.rt.com,wpc.en.rt.com.,,none
 http://rt.com/applications/,,,none
 http://rt.com/rss/,,,none
-http://www.rt.com,,,none
+http://www.rt.com,wpc.en.rt.com.,,none
 http://goat,,,none
 http://rt.com/,,,none
 http://rt.com/on-air/,,,none

@@ -1,7 +1,7 @@
 https://twitter.com/,,,none
 http://abs.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
 http://twitter.com,,,none
-http://pbs.twimg.com,wildcard.twimg.com.,Twitter,cname
+http://pbs.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
 https://twitter.com/#timeline,,,none
 https://twitter.com/,,,none
 https://twitter.com/signup,,,none

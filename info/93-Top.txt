@@ -5,7 +5,7 @@ http://www04.wellsfargomedia.com,www04.wellsfargomedia.com.edgekey.net.,Akamai,c
 http://www.wellsfargo.com/#skip,,,none
 http://www.wellsfargo.com/,,,none
 http://www.wellsfargo.com/help/,,,none
-http://adfarm.mediaplex.com,,,none
+http://adfarm.mediaplex.com,ad.mediaplex.com.,,none
 http://www.wellsfargo.com/locator/,,,none
 http://www.wellsfargo.com/spanish/,,,none
 http://www.wellsfargo.com/biz/,,,none

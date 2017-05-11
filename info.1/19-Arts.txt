@@ -1,0 +1,1 @@
+http://www.vice.com/,http2.vice.map.fastly.net.,Fastly,cname

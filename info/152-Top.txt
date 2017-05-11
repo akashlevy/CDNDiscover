@@ -4,6 +4,8 @@ http://vortex.hulu.com,vortex.hulu.com.akadns.net.,Akamai,cname
 http://www.hulu.com/live-tv,san.huluqa.com.edgekey.net.,Akamai,cname
 http://assetshuluimcom-a.akamaihd.net,assetshuluimcom-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://assetshuluimcom-a.akamaihd.net,assetshuluimcom-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://assetshuluimcom-a.akamaihd.net,assetshuluimcom-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://assetshuluimcom-a.akamaihd.net,assetshuluimcom-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://www.hulu.com/signup/start/on-demand,san.huluqa.com.edgekey.net.,Akamai,cname
 http://www.hulu.com/signup/start/live,san.huluqa.com.edgekey.net.,Akamai,cname
 http://www.hulu.com/plus?src=footer,san.huluqa.com.edgekey.net.,Akamai,cname

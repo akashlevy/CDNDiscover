@@ -5,7 +5,7 @@ http://www.usatoday.com/news/,domains.gannett.map.fastly.net.,Fastly,cname
 http://www.usatoday.com/sports/,domains.gannett.map.fastly.net.,Fastly,cname
 http://www.usatoday.com/life/,domains.gannett.map.fastly.net.,Fastly,cname
 http://www.usatoday.com/money/,domains.gannett.map.fastly.net.,Fastly,cname
-http://portfoliotracker.usatoday.com,,,none
+http://portfoliotracker.usatoday.com,usatoday.sigfig.com.,,none
 http://www.usatoday.com/tech/,domains.gannett.map.fastly.net.,Fastly,cname
 http://w.graphiq.com,,,none
 http://www.usatoday.com/travel/,domains.gannett.map.fastly.net.,Fastly,cname

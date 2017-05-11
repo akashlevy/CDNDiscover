@@ -2,7 +2,7 @@ http://www.netflix.com/,www.geo.netflix.com.,,none
 http://assets.nflxext.com,sha2.san.akam.nflximg.net.,,none
 http://www.netflix.com/,www.geo.netflix.com.,,none
 http://www.netflix.com/login,www.geo.netflix.com.,,none
-tel:1-866-579-7172http://www.netflix.com/yourAccount,www.geo.netflix.com.,,none
+tel:1-866-579-7172http://www.netflix.com/yourAccount,,,none
 http://www.netflix.com/redeem,www.geo.netflix.com.,,none
 http://www.netflix.com/watch,www.geo.netflix.com.,,none
 http://www.netflix.com/originals,www.geo.netflix.com.,,none

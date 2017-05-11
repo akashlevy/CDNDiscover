@@ -1,0 +1,11 @@
+http://www.gamespot.com/,,,none
+http://static.gamespot.com,static.gamespot.com.edgekey.net.,Akamai,cname
+https://www.gamespot.com/,,,none
+http://www.gamespot.com/pc/,,,none
+http://www.gamespot.com/ps4/,,,none
+http://www.gamespot.com/xbox-one/,,,none
+http://www.gamespot.com/nintendo-switch/,,,none
+http://www.gamespot.com/,,,none
+http://www.gamespot.com/wii-u/,,,none
+http://www.gamespot.com/ps3/,,,none
+http://www.gamespot.com/vita/,,,none

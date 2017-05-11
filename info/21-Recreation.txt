@@ -4,7 +4,7 @@ http://lonelyplanetstatic.imgix.net,global.imgix.map.fastly.net.,Fastly,cname
 http://www.lonelyplanet.com,b.global-ssl.fastly.net.,Fastly,cname
 http://www.lonelyplanet.com/search,b.global-ssl.fastly.net.,Fastly,cname
 http://www.lonelyplanet.com/video,b.global-ssl.fastly.net.,Fastly,cname
-http://s3.amazonaws.com,,,none
+http://s3.amazonaws.com,s3-1.amazonaws.com.,,none
 http://www.lonelyplanet.com/video/adventure-travel/v/cha/1,b.global-ssl.fastly.net.,Fastly,cname
 http://www.lonelyplanet.com/video/art-and-culture/v/cha/2,b.global-ssl.fastly.net.,Fastly,cname
 http://www.lonelyplanet.com/video/beaches/v/cha/3,b.global-ssl.fastly.net.,Fastly,cname

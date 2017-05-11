@@ -1,0 +1,16 @@
+http://store.steampowered.com/,,,none
+http://store.akamai.steamstatic.com,store.akamai.steamstatic.com.edgesuite.net.,Akamai,cname
+http://cdn.akamai.steamstatic.com,cdn.akamai.steamstatic.com.edgesuite.net.,Akamai,cname
+https://store.steampowered.com//login/?redir=,,,none
+http://steamstore-a.akamaihd.net,steamstore-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://steamstore-a.akamaihd.net,steamstore-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://store.steampowered.com/,,,none
+http://store.steampowered.com/explore/,,,none
+http://store.steampowered.com/curators/,,,none
+http://store.steampowered.com/news/,,,none
+http://steamcdn-a.akamaihd.net,steamcdn-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://steamcdn-a.akamaihd.net,steamcdn-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://store.steampowered.com/stats/,,,none
+http://store.steampowered.com/privacy_agreement/,,,none
+http://store.steampowered.com/subscriber_agreement/,,,none
+http://store.steampowered.com/steam_refunds/,,,none

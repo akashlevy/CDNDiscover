@@ -1,13 +1,13 @@
-https://www.udemy.com/,c.global-ssl.fastly.net.,Fastly,cname
+https://www.udemy.com/,c.shared.global.fastly.net.,Fastly,cname
 http://udemy-images.udemy.com,udemy-images.udemy.com.c.footprint.net.,Level 3,cname
-http://www.udemy.com,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/courses/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/de/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/es/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/fr/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/pt/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/jp/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/support/,c.global-ssl.fastly.net.,Fastly,cname
-http://p6.zdassets.com,,,none
-https://www.udemy.com/topics/python/,c.global-ssl.fastly.net.,Fastly,cname
-https://www.udemy.com/topics/java/,c.global-ssl.fastly.net.,Fastly,cname
+http://www.udemy.com,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/courses/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/de/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/es/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/fr/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/pt/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/jp/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/support/,c.shared.global.fastly.net.,Fastly,cname
+http://p6.zdassets.com,cs217.wac.deltacdn.net.,,none
+https://www.udemy.com/topics/python/,c.shared.global.fastly.net.,Fastly,cname
+https://www.udemy.com/topics/java/,c.shared.global.fastly.net.,Fastly,cname

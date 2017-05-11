@@ -1,5 +1,5 @@
 http://www.sciencedirect.com/,www.sciencedirect.com.akadns.net.,Akamai,cname
-http://acw.sciverse.comhttp://acw.mendeley.comhttp://acw.scopus.comhttp://acw.sciencedirect.comhttp://acw.elsevier.comhttp://www.sciencedirect.com/#main_content,www.sciencedirect.com.akadns.net.,Akamai,cname
+http://acw.sciverse.comhttp://acw.mendeley.comhttp://acw.scopus.comhttp://acw.sciencedirect.comhttp://acw.elsevier.comhttp://www.sciencedirect.com/#main_content,,,none
 http://www.sciencedirect.com/,www.sciencedirect.com.akadns.net.,Akamai,cname
 http://www.sciencedirect.com/science/journals,www.sciencedirect.com.akadns.net.,Akamai,cname
 http://cdn.els-cdn.com,cdn.els-cdn.com.edgekey.net.,Akamai,cname

@@ -1,5 +1,5 @@
 http://www.asus.com/,www.asus.com.edgekey.net.,Akamai,cname
-http://sp.analytics.yahoo.com,,,none
+http://sp.analytics.yahoo.com,spdc-global.pbp.gysm.yahoodns.net.,,none
 http://www.asus.com/us/,www.asus.com.edgekey.net.,Akamai,cname
 http://www.asus.com/,www.asus.com.edgekey.net.,Akamai,cname
 http://www.asus.com/us/Phone/,www.asus.com.edgekey.net.,Akamai,cname

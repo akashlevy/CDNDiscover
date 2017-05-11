@@ -1,0 +1,14 @@
+http://www.nytimes.com/,nytimes.map.fastly.net.,Fastly,cname
+http://a1.nyt.com,nytimes.map.fastly.net.,Fastly,cname
+http://static01.nyt.com,nytimes.map.fastly.net.,Fastly,cname
+http://www.nytimes.com/content/help/site/ie9-support.html,nytimes.map.fastly.net.,Fastly,cname
+http://up.nytimes.com,,,none
+http://www.nytimes.com/#top-news,nytimes.map.fastly.net.,Fastly,cname
+http://www.nytimes.com/#site-index-navigation,nytimes.map.fastly.net.,Fastly,cname
+http://www.nytimes.com/es/,nytimes.map.fastly.net.,Fastly,cname
+http://int.nyt.com,nytimes.map.fastly.net.,Fastly,cname
+http://www.nytimes.com/,nytimes.map.fastly.net.,Fastly,cname
+http://www.nytimes.com/pages/todayspaper/index.html,nytimes.map.fastly.net.,Fastly,cname
+http://www.nytimes.com/video,nytimes.map.fastly.net.,Fastly,cname
+https://www.nytimes.com/pages/world/index.html,nytimes.map.fastly.net.,Fastly,cname
+https://www.nytimes.com/pages/national/index.html,nytimes.map.fastly.net.,Fastly,cname

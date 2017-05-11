@@ -1,7 +1,7 @@
 https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
 http://www.etsystudio.com,etsy.map.fastly.net.,Fastly,cname
-http://img1.etsystatic.com,,,none
-http://img0.etsystatic.com,,,none
+http://img1.etsystatic.com,img1.etsystatic.com.edgekey.net.,Akamai,cname
+http://img0.etsystatic.com,img0.etsystatic.com.edgekey.net.,Akamai,cname
 http://www.etsy.com,dsd.etsy.com.edgekey.net.,Akamai,cname
 https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
 https://www.etsy.com/terms_of_use.php?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname

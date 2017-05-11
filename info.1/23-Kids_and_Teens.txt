@@ -1,0 +1,12 @@
+http://www.britannica.com/,,,none
+http://media1.britannica.com,media1.wac.B944.edgecastcdn.net.,Edgecast,cname
+http://www.britannica.com,,,none
+http://www.britannica.com/,,,none
+http://www.britannica.com/spotlight,,,none
+http://www.britannica.com/demystified,,,none
+http://www.britannica.com/quiz/browse,,,none
+http://www.britannica.com/gallery/browse,,,none
+http://www.britannica.com/list/browse,,,none
+http://www.britannica.com/on-this-day,,,none
+http://www.britannica.com/event/Russian-Revolution-of-1917,,,none
+http://www.britannica.com/biography/Nelson-Mandela,,,none

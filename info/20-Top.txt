@@ -1,6 +1,6 @@
 http://wordpress.com/,,,none
 http://secure.leadback.advertising.com,ns.leadback.ace.advertising.com.adcom.akadns.net.,Akamai,cname
-http://customer.mediawallahscript.com,,,none
+http://customer.mediawallahscript.com,mwcustomer-prod.us-east-1.elasticbeanstalk.com.,,none
 https://wordpress.com/,,,none
 https://wordpress.com/learn-more/?v=site,,,none
 http://data.adxcel-ec2.com,,,none

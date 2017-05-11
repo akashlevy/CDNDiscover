@@ -1,0 +1,12 @@
+http://www.psu.edu/,,,none
+http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://www.psu.edu,,,none
+http://www.psu.edu/#main-content,,,none
+http://www.psu.edu/academics/campuses,,,none
+http://www.psu.edu/admission,,,none
+http://www.psu.edu/,,,none
+http://www.psu.edu/prospective-students-and-families,,,none
+http://www.psu.edu/visitors-and-neighbors,,,none
+http://www.psu.edu/current-students,,,none
+http://www.psu.edu/business-and-industry,,,none
+http://www.psu.edu/faculty-and-staff,,,none

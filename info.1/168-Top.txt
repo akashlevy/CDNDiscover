@@ -1,0 +1,11 @@
+http://www.americanexpress.com/,www.americanexpress.com.edgekey.net.,Akamai,cname
+http://www.aexp-static.com,www.aexp-static.com.edgekey.net.,Akamai,cname
+http://www.americanexpress.com,www.americanexpress.com.edgekey.net.,Akamai,cname
+http://www.americanexpress.com/,www.americanexpress.com.edgekey.net.,Akamai,cname
+http://www.americanexpress.com/#c-main-content,www.americanexpress.com.edgekey.net.,Akamai,cname
+https://www.americanexpress.com/?fs=y&inav=iNMblLogo,www.americanexpress.com.edgekey.net.,Akamai,cname
+https://www.americanexpress.com/?inav=NavLogo,www.americanexpress.com.edgekey.net.,Akamai,cname
+https://www.americanexpress.com/us/credit-cards/benefits/view-all/?sorted_index=0&inav=menu_myacct_cardbenefits,www.americanexpress.com.edgekey.net.,Akamai,cname
+https://www.americanexpress.com/us/credit-cards/?entryEEP=true&inav=menu_cards_pc_chargecreditcard,www.americanexpress.com.edgekey.net.,Akamai,cname
+https://www.americanexpress.com/us/credit-cards/view-all-personal-cards/?inav=menu_cards_pc_viewallcards,www.americanexpress.com.edgekey.net.,Akamai,cname
+https://www.americanexpress.com/us/credit-cards/category/travel-rewards/?inav=menu_cards_pc_travelrewardscards,www.americanexpress.com.edgekey.net.,Akamai,cname

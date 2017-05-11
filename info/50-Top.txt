@@ -6,9 +6,9 @@ http://f.vimeocdn.com,prod.vimeo-video.map.fastly.net.,Fastly,cname
 http://vimeo-hp-videos.global.ssl.fastly.net,global-ssl.fastly.net.,Fastly,cname
 https://vimeo.com/log_in,,,none
 https://vimeo.com/create,,,none
-http://b97.yahoo.co.jp,,,none
+http://b97.yahoo.co.jp,b97.g.yahoo.co.jp.,,none
 https://vimeo.com/upgrade,,,none
-http://ads.bluelithium.com,,,none
+http://ads.bluelithium.com,ad.yieldmanager.com.,,none
 https://vimeo.com/professionals,,,none
 https://vimeo.com/business,,,none
 http://player.vimeo.com,,,none

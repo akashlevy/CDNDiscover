@@ -1,0 +1,11 @@
+http://www.google.co.in/,,Google,name
+http://www.google.co.in/setprefs?suggon=2&prev=https://www.google.co.in/?gws_rd%3Dssl&sig=0_oloUlkFzF-4SEB1rm6orjnWoLDo%3D,,Google,name
+https://www.google.co.in/imghp?hl=en&tab=wi&ei=TLISWe7nIcbrmAH6p4zwAQ&ved=0EKouCBUoAQ,,Google,name
+https://www.google.co.in/intl/en/options/,,Google,name
+http://lh3.googleusercontent.com,googlehosted.l.googleusercontent.com.,Google,cname
+https://www.google.co.in/webhp?hl=en&sa=X&ved=0ahUKEwjsk4HJ2OTTAhXMMyYKHaWbAGAQPAgD,,Google,name
+http://www.google.co.in/,,Google,name
+https://www.google.co.in/setprefs?sig=0_oloUlkFzF-4SEB1rm6orjnWoLDo%3D&hl=hi&source=homepage,,Google,name
+https://www.google.co.in/setprefs?sig=0_oloUlkFzF-4SEB1rm6orjnWoLDo%3D&hl=bn&source=homepage,,Google,name
+https://www.google.co.in/setprefs?sig=0_oloUlkFzF-4SEB1rm6orjnWoLDo%3D&hl=te&source=homepage,,Google,name
+https://www.google.co.in/setprefs?sig=0_oloUlkFzF-4SEB1rm6orjnWoLDo%3D&hl=mr&source=homepage,,Google,name

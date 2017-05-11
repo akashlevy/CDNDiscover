@@ -1,7 +1,7 @@
 http://www.cliphunter.com/,,,none
-http://p4a.gexo.com,,,none
-http://p3a.gexo.com,,,none
-http://y1.pichunter.com,,,none
+http://p4a.gexo.com,p4a.gexo.com.sds.rncdn7.com.,,none
+http://p3a.gexo.com,p3a.gexo.com.sds.rncdn7.com.,,none
+http://y1.pichunter.com,y1.pichunter.com.sds.rncdn7.com.,,none
 http://www.cliphunter.com/,,,none
 http://www.cliphunter.com/popular/,,,none
 http://www.cliphunter.com/pornstars/,,,none
@@ -9,8 +9,8 @@ http://www.cliphunter.com/playlists/,,,none
 http://img2.cliphunter.com,,,none
 http://www.cliphunter.com/news/,,,none
 http://www.cliphunter.com/channels/,,,none
-http://x1.pichunter.com,,,none
-http://x2.gexo.com,,,none
+http://x1.pichunter.com,x1.pichunter.com.sds.rncdn7.com.,,none
+http://x2.gexo.com,x2.gexo.com.sds.rncdn7.com.,,none
 http://www.cliphunter.com/login,,,none
 http://www.cliphunter.com/register,,,none
 http://www.cliphunter.com/categories/Amateur,,,none

@@ -1,5 +1,5 @@
 http://jalopnik.com/,,,none
-http://i.kinja-img.com,,,none
+http://i.kinja-img.com,kinja-img.com.,,none
 http://jalopnik.com,,,none
 http://jalopnik.com/video,,,none
 http://jalopnik.com/tag/jalopnikreviews,,,none

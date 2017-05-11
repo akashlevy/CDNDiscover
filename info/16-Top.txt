@@ -7,7 +7,7 @@ http://imgur.com/jobs,,,none
 http://www.glassdoor.com,,,none
 http://imgur.com/blog,,,none
 http://blog.imgur.com,prod.imgur.map.fastlylb.net.,Fastly,cname
-http://pbs.twimg.com,wildcard.twimg.com.,Twitter,cname
+http://pbs.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
 http://imgur.com/about,,,none
 http://imgur.com/apps,,,none
 http://play.google.com,play.l.google.com.,Google,cname

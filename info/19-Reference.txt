@@ -1,7 +1,7 @@
 http://www.harvard.edu/,www.harvard.edu.cdn.cloudflare.net.,Cloudflare,cname
 http://www.trumba.com,,,none
 http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
-http://harvardgazette.files.wordpress.com,,,none
+http://harvardgazette.files.wordpress.com,s3.files.wordpress.com.,,none
 http://www.harvard.edu,www.harvard.edu.cdn.cloudflare.net.,Cloudflare,cname
 http://scontent.cdninstagram.com,,Facebook,name
 http://www.harvard.edu/#mainArea,www.harvard.edu.cdn.cloudflare.net.,Cloudflare,cname

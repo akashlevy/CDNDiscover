@@ -1,0 +1,10 @@
+http://www.economist.com/,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/latest-updates,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections/leaders,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections/united-states,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections/americas,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections/asia,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections/china,e2svi.x.incapdns.net.,Incapsula,cname
+http://www.economist.com/sections/middle-east-africa,e2svi.x.incapdns.net.,Incapsula,cname

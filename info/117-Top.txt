@@ -1,7 +1,7 @@
 http://www.ign.com/,a009.ziffdavis.inscname.net.,Instart Logic,cname
 http://oystatic.ignimgs.com,ign.map.fastly.net.,Fastly,cname
 http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
-http://assets14.ign.com,,,none
+http://assets14.ign.com,ign.map.fastly.net.,Fastly,cname
 http://assets1.ignimgs.com,ign.map.fastly.net.,Fastly,cname
 http://assets2.ignimgs.com,ign.map.fastly.net.,Fastly,cname
 http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname

@@ -1,0 +1,17 @@
+http://runescape.wikia.com/,,,none
+http://slot1.images.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://vignette1.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://vignette2.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://vignette4.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://vignette3.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://runescape.wikia.com/#WikiaArticle,,,none
+http://vignette.wikia.nocookie.net,wikia.nocookie.net.,Fastly,cname
+http://runescape.wikia.com/#WikiHeader,,,none
+http://runescape.wikia.com/#GlobalNavigation,,,none
+http://runescape.wikia.com/wiki/RuneScape_Wiki,,,none
+http://runescape.wikia.com/wiki/Game_updates,,,none
+http://runescape.wikia.com/wiki/Gielinorian_Giving,,,none
+http://runescape.wikia.com/wiki/Charity_tokens,,,none
+http://runescape.wikia.com/wiki/Defender_of_the_Mind_Outfit,,,none
+http://runescape.wikia.com/wiki/Defender_of_the_Mind_Cape,,,none

@@ -14,5 +14,5 @@ http://assets.pinterest.com,assets.pinterest.com.edgekey.net.,Akamai,cname
 http://www.goodreads.com/book/show/4214.Life_of_Pi,,,none
 http://www.goodreads.com/book/show/49628.Cloud_Atlas,,,none
 http://i.ytimg.com,ytimg.l.google.com.,Google,cname
-http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+http://platform.twitter.com,platform-eb.twitter.com.,,none
 http://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time,,,none

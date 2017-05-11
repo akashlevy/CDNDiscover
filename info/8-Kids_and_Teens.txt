@@ -1,5 +1,5 @@
 http://www.khanacademy.org/,ghs-svc-https-c1148.ghs-ssl.googlehosted.com.,Google,cname
-http://cdn.kastatic.org,,,none
+http://cdn.kastatic.org,fastly.kastatic.org.,,none
 http://www.khanacademy.org/#main-content,ghs-svc-https-c1148.ghs-ssl.googlehosted.com.,Google,cname
 http://www.khanacademy.org/math,ghs-svc-https-c1148.ghs-ssl.googlehosted.com.,Google,cname
 http://www.khanacademy.org/math/early-math,ghs-svc-https-c1148.ghs-ssl.googlehosted.com.,Google,cname

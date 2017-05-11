@@ -1,6 +1,8 @@
 http://prezi.com/,,,none
 http://prezi-a.akamaihd.net,prezi-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://prezi-a.akamaihd.net,prezi-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://prezi-a.akamaihd.net,prezi-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://prezi-a.akamaihd.net,prezi-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://prezi.com/?click_source=header|home|||,,,none
 http://prezi.com/pricing/?click_source=header|pricing|||,,,none
 http://prezi.com/customers/?click_source=header|customers|||,,,none

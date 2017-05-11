@@ -1,6 +1,7 @@
 '''Finds CDNs for the top 500 Amazon Alexa ranked websites'''
 
 # Standard library imports
+import glob
 import json
 import time
 from Queue import Empty, Queue
@@ -140,17 +141,25 @@ def getcdn(url, outfile):
         print url + ',', None
         outfile.write(url.encode('ascii', 'ignore').decode('ascii'))
         try:
-            if cname:
-                outfile.write(',%s,,none\n' % cname)
-            else:
-                outfile.write(',,,none\n')
+            outfile.write(',%s,,none\n' % cname)
         except UnboundLocalError:
-            pass
+            outfile.write(',,,none\n')
 
 
 def reprocess():
-    '''Update all files' hosts'''
-    pass
+    '''Update all files' hosts: first copy info/ to info.1/, then run'''
+    # Get each file in backup folder
+    for infile in glob.glob('info.1/*'):
+        # Get filename in good folder
+        outfile = open(infile.replace('info.1/', 'info/'), 'w')
+
+        # For each line in file, reprocess and put in good file
+        for line in open(infile).read().splitlines():
+            url = line.split(',')[0].strip()
+            getcdn(url, outfile)
+
+        # Close outfile
+        outfile.close()
 
 
 # Run the CDN finder

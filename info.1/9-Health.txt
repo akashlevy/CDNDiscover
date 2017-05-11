@@ -1,0 +1,10 @@
+http://www.mayoclinic.org/diseases-conditions,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/diseases-conditions#header,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/diseases-conditions#main,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/espanol,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/es-es/appointments,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/es-es/appointments/find-a-doctor,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/es-es/jobs,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/es-es/diseases-conditions,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/diseases-conditions,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/portugues,www.mayoclinic.org.edgekey.net.,Akamai,cname

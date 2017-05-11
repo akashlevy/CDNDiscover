@@ -1,7 +1,7 @@
 http://www.accuweather.com/,www.accuweather.com.edgekey.net.,Akamai,cname
 http://sirocco.accuweather.com,sirocco.accuweather.com.edgekey.net.,Akamai,cname
 http://vortex.accuweather.com,vortex.accuweather.com.edgekey.net.,Akamai,cname
-http://accuweather.brightspotcdn.com,,,none
+http://accuweather.brightspotcdn.com,cdn.accuweather.psdops.com.,,none
 http://www.accuweather.com/en/us/princeton-nj/08544/weather-forecast/339523,www.accuweather.com.edgekey.net.,Akamai,cname
 http://ec.c.ooyala.com,d38me01vvwrazi.cloudfront.net.,Amazon CloudFront,cname
 http://www.accuweather.com/en/us/new-york-ny/10017/weather-forecast/349727,www.accuweather.com.edgekey.net.,Akamai,cname

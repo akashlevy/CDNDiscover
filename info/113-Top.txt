@@ -11,4 +11,4 @@ https://msdn.microsoft.com/windowsserver2012r2resources,msdn.microsoft.akadns.ne
 https://msdn.microsoft.com/msdn-subscriptions-overview,msdn.microsoft.akadns.net.,Akamai,cname
 http://www.visualstudio.com,wildcard.visualstudio.com.edgekey.net.,Akamai,cname
 https://msdn.microsoft.com/msdn-subscriptions-administration,msdn.microsoft.akadns.net.,Akamai,cname
-http://channel9.msdn.com,,,none
+http://channel9.msdn.com,channel9.trafficmanager.net.,,none

@@ -1,0 +1,14 @@
+https://www.bing.com/,,,none
+https://www.bing.com/images?FORM=Z9LH,,,none
+http://tse4.mm.bing.net,,,none
+http://tse3.mm.bing.net,,,none
+http://tse2.mm.bing.net,,,none
+http://tse1.mm.bing.net,,,none
+https://www.bing.com/videos?FORM=Z9LH1,,,none
+https://www.bing.com/maps?FORM=Z9LH2,,,none
+https://www.bing.com/news?FORM=Z9LH3,,,none
+https://www.bing.com/rewards/dashboard,,,none
+https://www.bing.com/?FORM=HYLH,,,none
+https://www.bing.com/?FORM=HYLH1,,,none
+https://www.bing.com/search?q=wood+duck&form=hpcapt&filters=HpDate%3a%2220170509_0700%22,,,none
+https://www.bing.com/saves?type=images&FORM=HPMUSA,,,none

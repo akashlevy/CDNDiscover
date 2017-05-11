@@ -1,6 +1,6 @@
 http://www.mensfitness.com/,,,none
-http://cdn-mf0.heartyhosting.com,,,none
-http://cdn-mf1.heartyhosting.com,,,none
+http://cdn-mf0.heartyhosting.com,mf-0-bwhc3942ac5.bwhog.net.,,none
+http://cdn-mf1.heartyhosting.com,mf-1-bwhc3942ac5.bwhog.net.,,none
 http://www.mensfitness.com/#main-content,,,none
 http://www.mensfitness.com/,,,none
 http://www.mensfitness.com/training,,,none

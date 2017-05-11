@@ -1,7 +1,7 @@
 http://fontawesome.io/,,,none
 http://ghbtns.com,,,none
 http://www.kickstarter.com,c.ssl.global.fastly.net.,Fastly,cname
-http://platform.twitter.com,,,none
+http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
 http://fontawesome.io/,,,none
 http://fontawesome.io/whats-new/,,,none
 http://fontawesome.io/get-started/,,,none

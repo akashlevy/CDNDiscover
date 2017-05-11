@@ -8,7 +8,7 @@ http://www.foxnews.com/,www.foxnews.com.edgekey.net.,Akamai,cname
 http://www.foxnews.com/politics.html,www.foxnews.com.edgekey.net.,Akamai,cname
 http://www.foxnews.com/us.html,www.foxnews.com.edgekey.net.,Akamai,cname
 http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
-http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+http://platform.twitter.com,platform-eb.twitter.com.,,none
 http://www.foxnews.com/opinion.html,www.foxnews.com.edgekey.net.,Akamai,cname
 http://www.foxnews.com/entertainment.html,www.foxnews.com.edgekey.net.,Akamai,cname
 http://www.foxnews.com/tech.html,www.foxnews.com.edgekey.net.,Akamai,cname

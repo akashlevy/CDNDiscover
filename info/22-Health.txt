@@ -1,12 +1,12 @@
-http://www.bmj.com/,,,none
+http://www.bmj.com/,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
 http://w.soundcloud.com,d3qp7l4grgxdvb.cloudfront.net.,Amazon CloudFront,cname
-http://www.bmj.com,,,none
-http://www.bmj.com/#main-content,,,none
-http://www.bmj.com/subscribe,,,none
-http://www.bmj.com/,,,none
-http://www.bmj.com/user/password,,,none
-http://www.bmj.com/login/shibboleth?uri=http%3A%2F%2Fwww.bmj.com%2F&subcode=bmjjournals&env=prod,,,none
-http://www.bmj.com/bmj_countries/switch/uk?destination=/,,,none
-http://www.bmj.com/bmj_countries/switch/india?destination=/,,,none
-http://www.bmj.com/bmj_countries/switch/international?destination=/,,,none
-http://www.bmj.com/sitemap,,,none
+http://www.bmj.com,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/#main-content,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/subscribe,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/user/password,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/login/shibboleth?uri=http%3A%2F%2Fwww.bmj.com%2F&subcode=bmjjournals&env=prod,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/bmj_countries/switch/uk?destination=/,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/bmj_countries/switch/india?destination=/,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/bmj_countries/switch/international?destination=/,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.bmj.com/sitemap,www.bmj.com.cdn.cloudflare.net.,Cloudflare,cname

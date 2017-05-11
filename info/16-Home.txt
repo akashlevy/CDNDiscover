@@ -1,10 +1,10 @@
 http://www.food.com/,www.food.com.edgesuite.net.,Akamai,cname
 http://img.food.com,img.food.com.edgesuite.net.,Akamai,cname
 http://c.betrad.com,wildcard.betrad.com.edgekey.net.,Akamai,cname
-http://img-nonprod.sndimg.com,,,none
+http://img-nonprod.sndimg.com,img-nonprod.sndimg.com.dev-sniaws.com.,,none
 http://www.food.com/,www.food.com.edgesuite.net.,Akamai,cname
 http://www.food.com/ideas/quick-and-easy-spring-dinners-6553,www.food.com.edgesuite.net.,Akamai,cname
-http://img.sndimg.com,,,none
+http://img.sndimg.com,img.sndimg.com.sniaws.com.,,none
 http://www.food.com,www.food.com.edgesuite.net.,Akamai,cname
 http://www.food.com/recipe,www.food.com.edgesuite.net.,Akamai,cname
 http://www.food.com/photo-gallery,www.food.com.edgesuite.net.,Akamai,cname

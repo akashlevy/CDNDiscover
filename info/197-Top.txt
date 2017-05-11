@@ -9,4 +9,4 @@ http://www.wiley.com/WileyCDA/Section/id-301827.html,,,none
 http://www.wiley.com/WileyCDA/Section/id-301456.html,,,none
 http://www.wiley.com/WileyCDA/Section/id-302029.html,,,none
 http://www.wiley.com/WileyCDA/Section/id-350047.html,,,none
-http://images.news.wiley.com,,,none
+http://images.news.wiley.com,elqcdn.eloqua.com.,,none

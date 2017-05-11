@@ -1,0 +1,11 @@
+http://www.independent.co.uk/,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/us,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/news/uk,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/news/world,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/news/world/europe,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/news/business,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/voices,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/voices/comment,t.shared.global.fastly.net.,Fastly,cname
+http://www.independent.co.uk/author/robert-fisk,t.shared.global.fastly.net.,Fastly,cname
+http://static.independent.co.uk,prod.t.ssl.global.fastly.net.,Fastly,cname

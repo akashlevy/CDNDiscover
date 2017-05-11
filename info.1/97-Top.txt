@@ -1,0 +1,12 @@
+http://www.cricbuzz.com/,,,none
+http://i.cricketcb.com,,,none
+Javascript:void(0),,,none
+http://www.cricbuzz.com/,,,none
+http://www.cricbuzz.com/cricket-match/live-scores,,,none
+http://api.cricbuzz.com,,,none
+http://www.cricbuzz.com/cricket-schedule/series,,,none
+http://www.cricbuzz.com/cricket-scorecard-archives,,,none
+http://www.cricbuzz.com/cricket-news,,,none
+http://www.cricbuzz.com/cricket-news/latest-news,,,none
+http://www.cricbuzz.com/cricket-news/info/,,,none
+http://www.cricbuzz.com/cricket-news/editorial/spotlight,,,none

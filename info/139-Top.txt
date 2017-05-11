@@ -1,13 +1,13 @@
-http://www.telegraph.co.uk/,,,none
-http://www.telegraph.co.uk/,,,none
-http://www.telegraph.co.uk/premium/,,,none
-http://www.telegraph.co.uk/news/,,,none
-http://www.telegraph.co.uk/sport/,,,none
+http://www.telegraph.co.uk/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/premium/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/news/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/sport/,www.aws.telegraph.co.uk.,,none
 http://widgethost.barnebys.com,d30j3um0t7qbed.cloudfront.net.,Amazon CloudFront,cname
 http://www.dunhilltraveldeals.com,,,none
-http://www.telegraph.co.uk/business/,,,none
+http://www.telegraph.co.uk/business/,www.aws.telegraph.co.uk.,,none
 http://shares.telegraph.co.uk,,,none
-http://www.telegraph.co.uk/money/,,,none
-http://www.telegraph.co.uk/opinion/,,,none
-http://www.telegraph.co.uk/obituaries/,,,none
-http://www.telegraph.co.uk/travel/,,,none
+http://www.telegraph.co.uk/money/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/opinion/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/obituaries/,www.aws.telegraph.co.uk.,,none
+http://www.telegraph.co.uk/travel/,www.aws.telegraph.co.uk.,,none

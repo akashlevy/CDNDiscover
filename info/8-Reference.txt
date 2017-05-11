@@ -1,5 +1,5 @@
 http://www.urbandictionary.com/,d.global-ssl.fastly.net.,Fastly,cname
-http://cdn.shopify.com,,,none
+http://cdn.shopify.com,cdn.shopify.com.tm.shopifycdn.com.,,none
 http://d2gatte9o95jao.cloudfront.net,,Amazon CloudFront,name
 http://www.urbandictionary.com/,d.global-ssl.fastly.net.,Fastly,cname
 http://www.urbandictionary.com/popular.php?character=A,d.global-ssl.fastly.net.,Fastly,cname

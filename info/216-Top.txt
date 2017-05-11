@@ -1,5 +1,5 @@
 http://www.wowhead.com/,a005.zamnetwork.inscname.net.,Instart Logic,cname
-http://gslbeacon.lijit.com,,,none
+http://gslbeacon.lijit.com,vap.lijit.com.,,none
 http://wow.zamimg.com,san.zamimg.com.edgekey.net.,Akamai,cname
 http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
 http://us-u.openx.net,,,none

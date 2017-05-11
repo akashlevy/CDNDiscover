@@ -1,7 +1,7 @@
 http://www.ebay.com.au/,slot11847.ebay.com.edgekey.net.,Akamai,cname
 http://ir.ebaystatic.com,slot11847.ebay.com.edgekey.net.,Akamai,cname
-http://rover.ebay.com,,,none
-http://svcs.ebay.com,,,none
+http://rover.ebay.com,rover.g.ebay.com.,,none
+http://svcs.ebay.com,svcs.g.ebay.com.,,none
 http://www.ebay.com.au/#mainContent,slot11847.ebay.com.edgekey.net.,Akamai,cname
 http://pages.ebay.com.au,slot11847.ebay.com.edgekey.net.,Akamai,cname
 http://www.ebay.com.au,slot11847.ebay.com.edgekey.net.,Akamai,cname

@@ -1,0 +1,12 @@
+http://www.google.rs/,,Google,name
+http://www.gstatic.com,,Google,name
+http://www.google.rs/setprefs?suggon=2&prev=https://www.google.rs/?gws_rd%3Dssl&sig=0_sgTUyT0xp3c8HEURav8LWOqoKo8%3D,,Google,name
+https://www.google.rs/imghp?hl=sr&tab=wi&ei=BOMSWfCSPMTemAG787qoDQ&ved=0EKouCBMoAQ,,Google,name
+https://www.google.rs/intl/sr/options/,,Google,name
+http://lh3.googleusercontent.com,googlehosted.l.googleusercontent.com.,Google,cname
+https://www.google.rs/webhp?tab=ww&ei=BOMSWfCSPMTemAG787qoDQ&ved=0EKkuCAIoAQ,,Google,name
+https://www.google.rs/webhp?hl=sr&sa=X&ved=0ahUKEwjTvqmEh-XTAhVCQiYKHZ6oB74QPAgD,,Google,name
+http://www.google.rs/,,Google,name
+https://www.google.rs/setprefs?sig=0_sgTUyT0xp3c8HEURav8LWOqoKo8%3D&hl=sr-Latn&source=homepage,,Google,name
+https://www.google.rs/setprefs?sig=0_sgTUyT0xp3c8HEURav8LWOqoKo8%3D&hl=en&source=homepage,,Google,name
+http://www.google.rs/intl/sr/policies/privacy/?fg=1,,Google,name

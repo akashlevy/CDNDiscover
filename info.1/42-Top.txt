@@ -1,0 +1,11 @@
+http://soundcloud.com/,,,none
+http://a-v2.sndcdn.com,d15wdfb2rw9n2y.cloudfront.net.,Amazon CloudFront,cname
+http://soundcloud.com/,,,none
+http://soundcloud.com/explore,,,none
+http://soundcloud.com/upload,,,none
+http://soundcloud.com/people/directory,,,none
+http://soundcloud.com/pro?ref=t201,,,none
+http://soundcloud.com/popular/searches,,,none
+http://soundcloud.com/charts/top?genre=all-music,,,none
+http://soundcloud.com/charts/new?genre=all-music,,,none
+http://soundcloud.com/charts/top?genre=all-audio,,,none

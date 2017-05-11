@@ -1,7 +1,7 @@
 http://www.berkeley.edu/,www.w3.berkeley.edu.,,none
 http://news.berkeley.edu,newscenter.wpengine.com.,,none
 http://6492375.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
-http://pbs.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
+http://pbs.twimg.com,wildcard.twimg.com.,Twitter,cname
 http://www.berkeley.edu,www.w3.berkeley.edu.,,none
 http://www.berkeley.edu/#content,www.w3.berkeley.edu.,,none
 http://www.berkeley.edu/students,www.w3.berkeley.edu.,,none

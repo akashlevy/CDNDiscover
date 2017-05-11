@@ -1,5 +1,5 @@
 http://www.thekitchn.com/,g2.shared.global.fastly.net.,Fastly,cname
-http://ct.pinterest.com,,,none
+http://ct.pinterest.com,www.pinterest.com.,,none
 http://atmedia.imgix.net,global.imgix.map.fastly.net.,Fastly,cname
 http://www.thekitchn.com/,g2.shared.global.fastly.net.,Fastly,cname
 http://www.thekitchn.com/sign-in?return_to=http%3A%2F%2Fwww.thekitchn.com%2F,g2.shared.global.fastly.net.,Fastly,cname

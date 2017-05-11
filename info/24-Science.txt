@@ -1,6 +1,6 @@
 http://www.pcworld.com/index.rss,prod.idgns.map.fastly.net.,Fastly,cname
 http://images.techhive.com,prod.idgns.map.fastly.net.,Fastly,cname
-http://goathttp://www.pcworld.com/article/3195776/streaming-services/this-is-how-the-bloated-tv-bundle-collapses.html#tk.rss_all,prod.idgns.map.fastly.net.,Fastly,cname
+http://goathttp://www.pcworld.com/article/3195776/streaming-services/this-is-how-the-bloated-tv-bundle-collapses.html#tk.rss_all,,,none
 http://idge.staticworld.net,prod.idgns.map.fastly.net.,Fastly,cname
 http://core5.staticworld.net,prod.idgns.map.fastly.net.,Fastly,cname
 http://csmb.staticworld.net,prod.idgns.map.fastly.net.,Fastly,cname

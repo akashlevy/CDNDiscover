@@ -15,5 +15,5 @@ https://www.theguardian.com/us/culture,guardian.map.fastly.net.,Fastly,cname
 https://www.theguardian.com/us/lifeandstyle,guardian.map.fastly.net.,Fastly,cname
 https://www.theguardian.com/us-news,guardian.map.fastly.net.,Fastly,cname
 https://www.theguardian.com/world,guardian.map.fastly.net.,Fastly,cname
-http://multimedia.guardianapis.com,,,none
+http://multimedia.guardianapis.com,mmendpointlb-811421595.eu-west-1.elb.amazonaws.com.,,none
 https://www.theguardian.com/science,guardian.map.fastly.net.,Fastly,cname

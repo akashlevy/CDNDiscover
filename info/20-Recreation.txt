@@ -7,6 +7,6 @@ http://www.hilton.com/en/index.html,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
 http://www.hilton.com/en/offers/index.htm,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
 http://www.hilton.com/en/events/meetings/index.html,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
 http://www.hilton.com/en/resorts/index.html,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
-http://www.hilton.com/en/about/index.html?cid=OM,HH,defaultA4,BrandNav,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
+http://www.hilton.com/en/about/index.html?cid=OM,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
 http://www.hilton.com/#searchWidgetOptionalFields,wwwcn.hilton.com.edgesuite.net.,Akamai,cname
 http://www.hilton.com/en/offers/100027670.htm,wwwcn.hilton.com.edgesuite.net.,Akamai,cname

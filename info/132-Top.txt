@@ -1,5 +1,5 @@
 http://www.oracle.com/,ds-www.oracle.com.edgekey.net.,Akamai,cname
-http://20754664p.rfihub.com,,,none
+http://20754664p.rfihub.com,a.rfihub.com.,,none
 https://www.oracle.com/index.html,ds-www.oracle.com.edgekey.net.,Akamai,cname
 http://www.oracle.com/us/mosaicmenu/index.html#otn-menu-countryselect,ds-www.oracle.com.edgekey.net.,Akamai,cname
 http://www.oracle.com,ds-www.oracle.com.edgekey.net.,Akamai,cname

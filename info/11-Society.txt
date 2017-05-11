@@ -1,6 +1,6 @@
 http://www.slate.com/,www.slate.com.edgesuite.net.,Akamai,cname
 http://b.scorecardresearch.com,b.scorecardresearch.com.edgesuite.net.,Akamai,cname
-http://tracker.samplicio.ushttp://www.slate.com,www.slate.com.edgesuite.net.,Akamai,cname
+http://tracker.samplicio.ushttp://www.slate.com,,,none
 http://www.slate.com/,www.slate.com.edgesuite.net.,Akamai,cname
 http://www.slate.com/articles/news_and_politics/politics/2017/05/comey_s_gone_and_the_gop_doesn_t_care_is_there_anything_trump_could_do_to.html,www.slate.com.edgesuite.net.,Akamai,cname
 http://link.slate.com,cb.sailthru.com.,,none

@@ -1,13 +1,13 @@
-http://www.amazon.co.uk/,,,none
+http://www.amazon.co.uk/,www.cdn.amazon.co.uk.,,none
 http://images-eu.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
-http://fls-eu.amazon.co.uk,,,none
-http://www.amazon.co.uk/ref=nav_logo/258-5203140-0028356,,,none
-http://www.amazon.co.uk/gp/prime/ref=nav_logo_prime_join/258-5203140-0028356,,,none
+http://fls-eu.amazon.co.uk,fls-eu.amazon.com.,,none
+http://www.amazon.co.uk/ref=nav_logo/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/prime/ref=nav_logo_prime_join/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
 http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
-http://www.amazon.co.uk/gp/site-directory/ref=nav_shopall_btn/258-5203140-0028356,,,none
-http://www.amazon.co.uk/gp/navigation/redirector.html/ref=sign-in-redirect/258-5203140-0028356?ie=UTF8&associationHandle=gbflex&currentPageURL=https%3A%2F%2Fwww.amazon.co.uk%2F%3Fref_%3Dnav_ya_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin,,,none
-http://www.amazon.co.uk/gp/prime/pipeline/landing/ref=nav_prime_try_btn/258-5203140-0028356,,,none
-http://www.amazon.co.uk/gp/registry/wishlist/ref=nav_wishlist_btn/258-5203140-0028356,,,none
-http://www.amazon.co.uk/gp/cart/view.html/ref=nav_cart/258-5203140-0028356,,,none
-http://www.amazon.co.uk/gp/yourstore/home/ref=nav_cs_ys/258-5203140-0028356,,,none
-http://www.amazon.co.uk/gp/deals/ref=nav_cs_gb/258-5203140-0028356,,,none
+http://www.amazon.co.uk/gp/site-directory/ref=nav_shopall_btn/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/navigation/redirector.html/ref=sign-in-redirect/258-5203140-0028356?ie=UTF8&associationHandle=gbflex&currentPageURL=https%3A%2F%2Fwww.amazon.co.uk%2F%3Fref_%3Dnav_ya_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/prime/pipeline/landing/ref=nav_prime_try_btn/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/registry/wishlist/ref=nav_wishlist_btn/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/cart/view.html/ref=nav_cart/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/yourstore/home/ref=nav_cs_ys/258-5203140-0028356,www.cdn.amazon.co.uk.,,none
+http://www.amazon.co.uk/gp/deals/ref=nav_cs_gb/258-5203140-0028356,www.cdn.amazon.co.uk.,,none

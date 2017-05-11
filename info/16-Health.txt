@@ -15,5 +15,5 @@ http://www.mercola.com/#mm-1,www.mercola.com.edgekey.net.,Akamai,cname
 http://www.mercola.com/downloads/bonus/free-reports.htm,www.mercola.com.edgekey.net.,Akamai,cname
 http://www.mercola.com/infographics.htm,www.mercola.com.edgekey.net.,Akamai,cname
 http://media2.mercola.com,,,none
-http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+http://platform.twitter.com,platform-eb.twitter.com.,,none
 http://www.mercola.com/nutritionplan/index.htm,www.mercola.com.edgekey.net.,Akamai,cname

@@ -1,6 +1,6 @@
 http://www.xbox.com/,www.xbox.com.akadns.net.,Akamai,cname
 http://assets.onestore.ms,assets.onestore.ms.akadns.net.,Akamai,cname
-http://compass.xbox.com,,,none
+http://compass.xbox.com,compass.xbox.com.nsatc.net.,,none
 http://placehold.it,,,none
 https://www.xbox.com/,www.xbox.com.akadns.net.,Akamai,cname
 http://www.xbox.com/en-US/?xr=mebarnav,www.xbox.com.akadns.net.,Akamai,cname

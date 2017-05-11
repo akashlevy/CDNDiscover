@@ -1,0 +1,13 @@
+http://www.expedia.com/,www.expedia.com.edgekey.net.,Akamai,cname
+http://images.trvl-media.com,images.trvl-media.com.edgekey.net.,Akamai,cname
+http://www.expedia.com,www.expedia.com.edgekey.net.,Akamai,cname
+http://a.travel-assets.com,a.travel-assets.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/#locatemePopupContent,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/user/createaccount?rfrr=Header.Rewards.Join&fromLoyaltyBanner=true,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/#skip-nav-anchor,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/user/travelarranger/end,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/rewards/color?rfrr=Header.Rewards.BadgeTier,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/user/RegRewards,www.expedia.com.edgekey.net.,Akamai,cname
+http://www.expedia.com/user/account,www.expedia.com.edgekey.net.,Akamai,cname

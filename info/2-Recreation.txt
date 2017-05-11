@@ -1,5 +1,5 @@
 https://www.tripadvisor.com/,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
-http://www.tamgrt.com,,,none
+http://www.tamgrt.com,origin-tamgrt.tripadvisor.com.,,none
 http://static.tacdn.com,static.tacdn.com.edgekey.net.,Akamai,cname
 https://www.tripadvisor.com/,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
 https://www.tripadvisor.com/Hotels,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
@@ -7,7 +7,7 @@ https://www.tripadvisor.com/Rentals,ev-www.tripadvisor.com.edgekey.net.,Akamai,c
 https://www.tripadvisor.com/Restaurants,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
 https://www.tripadvisor.com/Attractions,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
 https://www.tripadvisor.com/CheapFlightsHome,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
-http://media-cdn.tripadvisor.com,,,none
+http://media-cdn.tripadvisor.com,media-cdn.tripadvisor.com.edge.tacdn.com.,,none
 https://www.tripadvisor.com/ForumHome,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
 https://www.tripadvisor.com/Airlines,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname
 https://www.tripadvisor.com/TravelersChoice,ev-www.tripadvisor.com.edgekey.net.,Akamai,cname

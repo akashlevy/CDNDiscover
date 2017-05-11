@@ -1,0 +1,14 @@
+http://www.biblegateway.com/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://static6-a.akamaihd.net,static6-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://static6-a.akamaihd.net,static6-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://s3.amazonaws.com,s3-1.amazonaws.com.,,none
+http://g.christianbook.com,g.christianbook.com.edgekey.net.,Akamai,cname
+http://www.biblegateway.com/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/passage/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/keyword/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/versions/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/resources/audio/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/resources/scripture-engagement/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/topical/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/devotionals/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none
+http://www.biblegateway.com/reading-plans/,bg-lb-p-ext-1-2100956602.us-east-1.elb.amazonaws.com.,,none

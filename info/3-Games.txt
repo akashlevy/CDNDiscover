@@ -4,10 +4,14 @@ http://cdn.akamai.steamstatic.com,cdn.akamai.steamstatic.com.edgesuite.net.,Akam
 https://store.steampowered.com//login/?redir=,,,none
 http://steamstore-a.akamaihd.net,steamstore-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://steamstore-a.akamaihd.net,steamstore-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://steamstore-a.akamaihd.net,steamstore-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://steamstore-a.akamaihd.net,steamstore-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://store.steampowered.com/,,,none
 http://store.steampowered.com/explore/,,,none
 http://store.steampowered.com/curators/,,,none
 http://store.steampowered.com/news/,,,none
+http://steamcdn-a.akamaihd.net,steamcdn-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://steamcdn-a.akamaihd.net,steamcdn-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://steamcdn-a.akamaihd.net,steamcdn-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://steamcdn-a.akamaihd.net,steamcdn-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://store.steampowered.com/stats/,,,none

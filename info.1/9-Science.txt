@@ -1,0 +1,11 @@
+http://www.timeanddate.com/,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://c.tadst.com,e.global-ssl.fastly.net.,Fastly,cname
+http://www.timeanddate.com/,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/custom/,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/custom/location.html,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/custom/site.html,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/calendar/events/,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/worldclock/personal.html,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/custom/login.html,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/custom/create.html,a001.timeanddate.inscname.net.,Instart Logic,cname
+http://www.timeanddate.com/newsletter/,a001.timeanddate.inscname.net.,Instart Logic,cname

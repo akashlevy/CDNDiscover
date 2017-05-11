@@ -6,7 +6,7 @@ http://www.drudgereport.com,,,none
 http://widget.quantcast.com,wildcard.quantcast.com.edgekey.net.,Akamai,cname
 http://www.drudgereport.com/,,,none
 http://www.drudgereport.com/wx.htm,,,none
-http://www.goes.noaa.gov,,,none
+http://www.goes.noaa.gov,edge-nesdis.woc.noaa.gov.,,none
 http://www.drudgereport.com/quake.htm,,,none
 http://www.data.scec.org,,,none
 mailto:drudge@drudgereport.com,,,none

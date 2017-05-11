@@ -1,11 +1,11 @@
 http://www.ebay.co.uk/,slot11847.ebay.com.edgekey.net.,Akamai,cname
-http://rover.ebay.com,,,none
+http://rover.ebay.com,rover.g.ebay.com.,,none
 http://i2.ebayimg.com,slot5842.ebay.com.edgekey.net.,Akamai,cname
 http://i.ebayimg.com,slot5842.ebay.com.edgekey.net.,Akamai,cname
 http://i1.ebayimg.com,slot5842.ebay.com.edgekey.net.,Akamai,cname
 http://ir.ebaystatic.com,slot11847.ebay.com.edgekey.net.,Akamai,cname
 http://rover.ebay.co.uk,slot9428.ebay.com.edgekey.net.,Akamai,cname
-http://svcs.ebay.com,,,none
+http://svcs.ebay.com,svcs.g.ebay.com.,,none
 http://www.ebay.co.uk/#mainContent,slot11847.ebay.com.edgekey.net.,Akamai,cname
 http://www.ebay.co.uk,slot11847.ebay.com.edgekey.net.,Akamai,cname
 http://www.ebay.co.uk/rpp/collectables-antiques,slot11847.ebay.com.edgekey.net.,Akamai,cname

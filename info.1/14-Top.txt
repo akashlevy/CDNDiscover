@@ -1,0 +1,6 @@
+http://mail.yahoo.com/,,,none
+http://s1.yimg.com,,,none
+http://mg.mail.yahoo.com,,,none
+http://mail.yahoo.com/,,,none
+http://s.yimg.com,,,none
+http://mail.yahoo.com/#country-codes-menu,,,none

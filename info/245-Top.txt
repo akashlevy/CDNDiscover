@@ -5,6 +5,8 @@ https://www.humblebundle.com/books,ghs.googlehosted.com.,Google,cname
 https://www.humblebundle.com/monthly,ghs.googlehosted.com.,Google,cname
 http://humblebundle-a.akamaihd.net,humblebundle-a.akamaihd.net.edgesuite.net.,Akamai,cname
 http://humblebundle-a.akamaihd.net,humblebundle-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://humblebundle-a.akamaihd.net,humblebundle-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://humblebundle-a.akamaihd.net,humblebundle-a.akamaihd.net.edgesuite.net.,Akamai,cname
 https://www.humblebundle.com/store,ghs.googlehosted.com.,Google,cname
 https://www.humblebundle.com/#heading-logo,ghs.googlehosted.com.,Google,cname
 https://www.humblebundle.com/very-positive-bundle,ghs.googlehosted.com.,Google,cname

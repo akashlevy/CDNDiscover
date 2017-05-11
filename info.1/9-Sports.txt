@@ -1,0 +1,11 @@
+http://www.iplt20.com/,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://iplplatform-static-files.s3.amazonaws.com,s3-1-w.amazonaws.com.,,none
+http://www.iplt20.com/,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/news,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/schedule,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/results,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/video,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/stats,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/teams,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/social/ipl-on-social,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname
+http://www.iplt20.com/stats/all-time,d44i1d115flhr.cloudfront.net.,Amazon CloudFront,cname

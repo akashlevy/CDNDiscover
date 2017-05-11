@@ -2,7 +2,7 @@ http://www.hentai-foundry.com/,,,none
 http://img.hentai-foundry.com,,,none
 http://www.hentai-foundry.com/?enterAgree=1&size=1250,,,none
 http://s27.pixxxels.org,,,none
-http://s32.postimg.org,,,none
+http://s32.postimg.org,cdn81831004.ahacdn.me.,,none
 http://avatars.hentai-foundry.com,,,none
 http://s16.pixxxels.org,,,none
 http://v5j7s7h5.ssl.hwcdn.net,,Highwinds,name

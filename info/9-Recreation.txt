@@ -1,14 +1,14 @@
-http://www.uber.com/,,,none
+http://www.uber.com/,frontends.uber.com.,,none
 http://maps.gstatic.com,,Google,name
 http://d1a3f4spazzrp4.cloudfront.net,,Amazon CloudFront,name
 http://play.google.com,play.l.google.com.,Google,cname
 http://assets.windowsphone.com,assets.windowsphone.com.edgekey.net.,Akamai,cname
-http://www.uber.com/#maincontent,,,none
-http://www.uber.com/,,,none
-http://www.uber.com/ride/,,,none
-http://www.uber.com/drive/,,,none
-http://www.uber.com/cities/,,,none
-http://www.uber.com/sign-in/,,,none
-https://www.uber.com/signup/drive/,,,none
-http://www.uber.com/#location,,,none
-http://www.uber.com/business?mainSite=true,,,none
+http://www.uber.com/#maincontent,frontends.uber.com.,,none
+http://www.uber.com/,frontends.uber.com.,,none
+http://www.uber.com/ride/,frontends.uber.com.,,none
+http://www.uber.com/drive/,frontends.uber.com.,,none
+http://www.uber.com/cities/,frontends.uber.com.,,none
+http://www.uber.com/sign-in/,frontends.uber.com.,,none
+https://www.uber.com/signup/drive/,frontends.uber.com.,,none
+http://www.uber.com/#location,frontends.uber.com.,,none
+http://www.uber.com/business?mainSite=true,frontends.uber.com.,,none

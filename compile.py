@@ -22,7 +22,14 @@ def run():
                 # Read each line in the file
                 for line in infile.readlines():
                     # Get the CDN and increment
-                    cdn = line.strip().split(',')[-2]
+                    try:
+                        cdn = line.strip().split(',')[-2]
+                    except IndexError as e:
+                        print e
+                        print url
+                        print i
+                        print line
+                        exit()
                     foundurl = line.strip().split(',')[0]
 
                     # NetDNA is now MaxCDN

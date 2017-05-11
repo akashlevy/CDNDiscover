@@ -3,7 +3,7 @@ http://static.pcgamer.futurecdn.net,mos.futurenet.com.c.footprint.net.,Level 3,c
 http://cdn.mos.cms.futurecdn.net,cdn.futureplc.com.c.footprint.net.,Level 3,cname
 http://pcgamer.com/,,,none
 http://pcgamer.com/about-pc-gamer/,,,none
-mailto:?subject=I%20found%20this%20webpage&body=Hi,%20I%20found%20this%20webpage%20and%20thought%20you%20might%20like%20it%20http://www.pcgamer.com/about-pc-gamer/,,,none
+mailto:?subject=I%20found%20this%20webpage&body=Hi,,,none
 mailto:editors@pcgamer.com/,,,none
 mailto:advertising@futureus.com,,,none
 mailto:andrew.church@futurenet.com,,,none

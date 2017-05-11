@@ -1,0 +1,6 @@
+http://www.digg.com/http://static.digg.com,d1ld5yzzwsuv6i.cloudfront.net.,Amazon CloudFront,cname
+http://www.digg.com/#content-mainhttp://www.digg.com/#header-searchhttp://www.digg.com/http://www.digg.com/videohttp://www.digg.com/editions/todayhttp://www.digg.com/searchhttp://www.digg.com/welcome?next=%2Fhttp://www.digg.com/channel/technologyhttp://tctechcrunch2011.files.wordpress.comhttp://o.aolcdn.com,cs629.wpc.lambdacdn.net.,,none
+http://s4.reutersmedia.net,static.reutersmedia.net.,,none
+http://9to5mac.files.wordpress.comhttp://venturebeat.comhttp://www.androidcentral.comhttp://cdn0.vox-cdn.com,z.vox-cdn.com.,,none
+http://fortunedotcom.files.wordpress.com,s8.files.wordpress.com.,,none
+http://www.digg.com/channel/longreadshttp://longreadsblog.files.wordpress.com,s7.files.wordpress.com.,,none

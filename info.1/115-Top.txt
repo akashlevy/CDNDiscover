@@ -1,0 +1,16 @@
+http://www.aol.com/,portal.aol.akadns.net.,Akamai,cname
+http://cdn.at.atwola.com,,,none
+http://o.aolcdn.com,,,none
+http://s.aolcdn.com,,,none
+http://www.aol.com/,portal.aol.akadns.net.,Akamai,cname
+http://www.aol.com?icid=aolcomlogorefresh5,portal.aol.akadns.net.,Akamai,cname
+https://www.aol.com/games/,portal.aol.akadns.net.,Akamai,cname
+http://www.blogsmithmedia.com,www.blogsmithmedia-ds.com.edgesuite.net.,Akamai,cname
+https://www.aol.com/favorites/,portal.aol.akadns.net.,Akamai,cname
+http://s.blogsmithmedia.com,s.blogsmithmedia.com.edgekey.net.,Akamai,cname
+https://www.aol.com/article/news/2017/05/09/why-did-trump-fire-fbi-director-james-comey-russia-coverup/22078544/,portal.aol.akadns.net.,Akamai,cname
+https://www.aol.com/article/news/2017/05/09/thousands-of-dead-bodies-found-buried-under-the-university-of-mi/22077705/,portal.aol.akadns.net.,Akamai,cname
+https://www.aol.com/article/news/2017/05/09/us-state-could-become-first-to-enact-blanket-ban-on-child-marria/22078586/,portal.aol.akadns.net.,Akamai,cname
+http://aol-releases-assets-production.s3.amazonaws.com,,,none
+https://www.aol.com/article/news/2017/05/09/california-man-found-guilty-in-murder-of-missing-teen/22078565/,portal.aol.akadns.net.,Akamai,cname
+https://www.aol.com/article/news/2017/05/09/united-threatened-with-another-lawsuit-after-allegedly-burning-g/22078607/,portal.aol.akadns.net.,Akamai,cname

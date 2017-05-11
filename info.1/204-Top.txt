@@ -1,0 +1,14 @@
+http://www.filehippo.com/,,,none
+http://0.gravatar.com,,,none
+http://news.filehippo.com,global.prod.fastly.net.,Fastly,cname
+http://2.gravatar.com,,,none
+http://cache.filehippo.com,filehippocache.lmgmedialtd.netdna-cdn.com.,NetDNA,cname
+http://1.gravatar.com,,,none
+http://www.filehippo.com/,,,none
+http://www.filehippo.com/de/mac/,,,none
+http://www.filehippo.com/es/mac/,,,none
+http://www.filehippo.com/fr/mac/,,,none
+http://www.filehippo.com/it/mac/,,,none
+http://www.filehippo.com/pl/mac/,,,none
+http://www.filehippo.com/jp/mac/,,,none
+http://www.filehippo.com/zh/mac/,,,none

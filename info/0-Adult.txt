@@ -1,11 +1,11 @@
-http://www.xvideos.com/,,,none
+http://www.xvideos.com/,xvideos.com.,,none
 http://img-hw.xvideos.com,cds.g9c9c3d5.hwcdn.net.,Highwinds,cname
 http://static-hw.xvideos.com,cds.q8q4g4t6.hwcdn.net.,Highwinds,cname
-http://www.xvideos.com/switch-theme,,,none
-http://www.xvideos.com/,,,none
-http://www.xvideos.com/rss/rss.xml,,,none
-http://www.xvideos.com/porn,,,none
-http://www.xvideos.com/pornstars,,,none
+http://www.xvideos.com/switch-theme,xvideos.com.,,none
+http://www.xvideos.com/,xvideos.com.,,none
+http://www.xvideos.com/rss/rss.xml,xvideos.com.,,none
+http://www.xvideos.com/porn,xvideos.com.,,none
+http://www.xvideos.com/pornstars,xvideos.com.,,none
 http://img100-349.xvideos.com,img100-349.xvideos.vo.llnwd.net.,Limelight,cname
 http://img100-773.xvideos.com,img100-773.xvideos.vo.llnwd.net.,Limelight,cname
 http://img100-633.xvideos.com,img100-633.xvideos.vo.llnwd.net.,Limelight,cname
@@ -91,9 +91,9 @@ http://img100-010.xvideos.com,img100-010.xvideos.vo.llnwd.net.,Limelight,cname
 http://img100-875.xvideos.com,img100-875.xvideos.vo.llnwd.net.,Limelight,cname
 http://img100-525.xvideos.com,img100-525.xvideos.vo.llnwd.net.,Limelight,cname
 http://img100-973.xvideos.com,img100-973.xvideos.vo.llnwd.net.,Limelight,cname
-http://www.xvideos.com/channels,,,none
+http://www.xvideos.com/channels,xvideos.com.,,none
 http://img-egc.xvideos.com,cs235.wpc.systemcdn.net.,Edgecast,cname
-http://www.xvideos.com/verified/videos,,,none
-http://www.xvideos.com/profileslist,,,none
+http://www.xvideos.com/verified/videos,xvideos.com.,,none
+http://www.xvideos.com/profileslist,xvideos.com.,,none
 http://img-l3.xvideos.com,img-l3.xvideos.com.fpbns.net.,Level 3,cname
-http://www.xvideos.com/tags,,,none
+http://www.xvideos.com/tags,xvideos.com.,,none

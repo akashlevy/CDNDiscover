@@ -15,5 +15,5 @@ http://d3qdfnco3bamip.cloudfront.net,,Amazon CloudFront,name
 http://dpstvy7p9whsy.cloudfront.net,,Amazon CloudFront,name
 http://dist.timeout.com,i.global-ssl.fastly.net.,Fastly,cname
 https://www.timeout.com/newyork/music/best-feminist-songs-for-a-fierce-playlist,i.global-ssl.fastly.net.,Fastly,cname
-http://embed.spotify.com,,,none
+http://embed.spotify.com,weblb-wg.dual-gslb.spotify.com.,,none
 https://www.timeout.com/los-angeles/comedy/l-a-comedians-to-watch-in-2017,i.global-ssl.fastly.net.,Fastly,cname

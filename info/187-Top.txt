@@ -10,7 +10,7 @@ http://www.webmd.com/signout.asp,4wqaf.x.incapdns.net.,Incapsula,cname
 http://www.webmd.com,4wqaf.x.incapdns.net.,Incapsula,cname
 http://www.webmd.com/a-to-z-guides/common-topics/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname
 http://bi.medscape.com,bi.medscape.com.edgekey.net.,Akamai,cname
-http://pn1.adserver.yahoo.com,,,none
+http://pn1.adserver.yahoo.com,global1.adserver.gysm.yahoodns.net.,,none
 http://www.webmd.com/add-adhd/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname
 http://www.webmd.com/allergies/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname
 http://www.webmd.com/arthritis/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname

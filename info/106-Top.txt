@@ -11,7 +11,7 @@ http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFron
 http://ads.forbes.com,,,none
 http://i.forbesimg.com,i.forbesimg.com.edgekey.net.,Akamai,cname
 http://images.forbes.com,images.forbes.com.edgekey.net.,Akamai,cname
-http://www.forbesmagazine.com,,,none
+http://www.forbesmagazine.com,forbesmagazine.com.,,none
 http://www.forbes.com/terms,g2.shared.global.fastly.net.,Fastly,cname
 http://forbesbooks.com,,,none
 http://www.forbes.com/fdc/contact.html,g2.shared.global.fastly.net.,Fastly,cname

@@ -12,5 +12,5 @@ https://sports.yahoo.com/fantasy/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
 https://sports.yahoo.com/nfl/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
 https://sports.yahoo.com/nba/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
 https://sports.yahoo.com/thevertical/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
-http://art19.comhttp://embed.scribblelive.com,d3mi3dispi6388.cloudfront.net.,Amazon CloudFront,cname
+http://art19.comhttp://embed.scribblelive.com,,,none
 http://media.zenfs.com,ue45uw45.aa.zenfs.com.,,none

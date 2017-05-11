@@ -1,0 +1,13 @@
+http://www.fedex.com/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/us/,www.fedex.com.akadns.net.,Akamai,cname
+http://images.fedex.com,san.fedex.com.edgekey.net.,Akamai,cname
+http://www.fedex.com,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/ca_english/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/ca_french/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/mx/,www.fedex.com.akadns.net.,Akamai,cname
+http://ads.networkhm.com,,,none
+http://www.fedex.com/ar/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/br/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/cl/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/co/,www.fedex.com.akadns.net.,Akamai,cname
+http://www.fedex.com/cr/,www.fedex.com.akadns.net.,Akamai,cname

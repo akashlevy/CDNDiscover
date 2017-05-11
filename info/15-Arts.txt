@@ -9,5 +9,5 @@ http://www.pandora.com/profile,,,none
 http://www.pandora.com/help,,,none
 http://www.pandora.com/advertise,,,none
 http://s0.wp.com,,WordPress,name
-http://pandoraadvertising.files.wordpress.com,,,none
+http://pandoraadvertising.files.wordpress.com,s8.files.wordpress.com.,,none
 http://www.pandora.com/everywhere/mobile,,,none

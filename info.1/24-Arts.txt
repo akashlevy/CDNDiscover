@@ -1,0 +1,1 @@
+http://www.npr.org/,wildcard.npr.org.edgekey.net.,Akamai,cname

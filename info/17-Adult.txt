@@ -1,5 +1,5 @@
 http://planetsuzy.org/,,,none
-http://twitter-badges.s3.amazonaws.com,,,none
+http://twitter-badges.s3.amazonaws.com,s3-directional-w.amazonaws.com.,,none
 http://ps.fscache.com,,,none
 http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
 http://theporndude.com,,,none

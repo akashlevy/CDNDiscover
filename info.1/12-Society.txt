@@ -1,0 +1,14 @@
+https://www.change.org/,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://assets.change.org,wildcard.change.org.cdn.cloudflare.net.,Cloudflare,cname
+http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+https://www.change.org/,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.change.org/start-a-petition?step=ask,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+http://www.google.com,,Google,name
+https://www.change.org/petitions,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.change.org/member?source_location=member_link_header,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+http://changedotorgcontent.comhttps://www.change.org/search,,,none
+https://www.change.org/u/me?source_location=my_petitions_dropdown,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.change.org/account_settings,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.change.org/logout?redirect_to=%2F,www.change.org.cdn.cloudflare.net.,Cloudflare,cname
+https://www.change.org/login_or_join,www.change.org.cdn.cloudflare.net.,Cloudflare,cname

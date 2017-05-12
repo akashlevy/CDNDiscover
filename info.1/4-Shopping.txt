@@ -1,0 +1,15 @@
+https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
+http://www.etsystudio.com,etsy.map.fastly.net.,Fastly,cname
+http://img1.etsystatic.com,img1.etsystatic.com.edgekey.net.,Akamai,cname
+http://img0.etsystatic.com,img0.etsystatic.com.edgekey.net.,Akamai,cname
+http://www.etsy.com,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/r?dest=https%3A%2F%2Fwww.etsystudio.com%2F%3Fref%3Dhp_etsy_studio_launch_banner,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/terms_of_use.php?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/help/article/480?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname
+http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+https://www.etsy.com/forgot_password.php?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/help/article/18?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/reopen_account.php?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/?ref=lgo,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/#content,dsd.etsy.com.edgekey.net.,Akamai,cname

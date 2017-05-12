@@ -1,0 +1,13 @@
+http://search.yahoo.com/,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://l.yimg.com,l.gycs.b.yahoodns.net.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAUiCl87UF,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAbSCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=San+Antonio+Spurs&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAbCCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=San+Antonio+Spurs&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAbyCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=Prince+Harry&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+http://sp.yimg.com,s.gycs.b.yahoodns.net.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAbiCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=Prince+Harry&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAcSCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=Gianni+Versace&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAcCCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=Gianni+Versace&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAcyCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=Ashley+Graham&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVyLvshJZ_TwAciCl87UF;_ylu=X3oDMTEyMGNyNTJ0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5NzRfMQRzZWMDc2M-?p=Ashley+Graham&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none

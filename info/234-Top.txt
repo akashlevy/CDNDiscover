@@ -7,6 +7,6 @@ http://uploaded.net/affiliate,,,none
 http://uploaded.net/corporate,,,none
 http://uploaded.net/help,,,none
 http://uploaded.net/takedown/notice,,,none
-http://www.google.com,,Google,name
+http://www.google.com,,,none
 http://uploaded.net/about,,,none
 http://megastock.com,,,none

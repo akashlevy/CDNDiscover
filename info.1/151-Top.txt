@@ -1,0 +1,14 @@
+http://www.shopify.com/,origin.www.shopify.com.,,none
+http://sp.analytics.yahoo.com,spdc-global.pbp.gysm.yahoodns.net.,,none
+http://bat.bing.com,bat-bing-com.a-0001.a-msedge.net.,,none
+http://www.shopify.com/pos/credit-card-reader?itcat=brochure&itterm=chip_swipe_announcement_bar,origin.www.shopify.com.,,none
+http://www.shopify.com/#Main,origin.www.shopify.com.,,none
+http://www.shopify.com/,origin.www.shopify.com.,,none
+http://www.shopify.com/online,origin.www.shopify.com.,,none
+http://www.shopify.com/pos,origin.www.shopify.com.,,none
+http://cdn.shopify.com,cdn.shopify.com.tm.shopifycdn.com.,,none
+http://www.shopify.com/pos/retail,origin.www.shopify.com.,,none
+http://www.shopify.com/buy-button,origin.www.shopify.com.,,none
+http://www.shopify.com/pinterest,origin.www.shopify.com.,,none
+http://ct.pinterest.com,www.pinterest.com.,,none
+http://www.shopify.com/facebook,origin.www.shopify.com.,,none

@@ -1,0 +1,10 @@
+http://www.skype.com/,livecms.trafficmanager.net.,,none
+http://www.skype.com/en/,livecms.trafficmanager.net.,,none
+http://www.skype.com/#endNavigation,livecms.trafficmanager.net.,,none
+http://www.skype.com/,livecms.trafficmanager.net.,,none
+http://www.skype.com/en/download-skype/,livecms.trafficmanager.net.,,none
+http://secure.skypeassets.com,secure.skypeassets.com.edgekey.net.,Akamai,cname
+http://www.skype.com/en/business/,livecms.trafficmanager.net.,,none
+http://www.skype.com/en/features/skype-to-skype-calls,livecms.trafficmanager.net.,,none
+http://www.skype.com/en/features/group-video-chat,livecms.trafficmanager.net.,,none
+http://www.skype.com/en/features/mojis-and-emoticons,livecms.trafficmanager.net.,,none

@@ -1,1 +1,2 @@
+http://www.goal.com/,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://www.goal.com/,www.goal.com.edgesuite.net.,Akamai,cname

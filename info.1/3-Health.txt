@@ -1,0 +1,10 @@
+http://www.mayoclinic.org/,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/#header,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/#main,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/appointments,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/appointments/find-a-doctor,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/jobs,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/es-es,www.mayoclinic.org.edgekey.net.,Akamai,cname
+http://www.mayoclinic.org/portugues,www.mayoclinic.org.edgekey.net.,Akamai,cname

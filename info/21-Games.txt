@@ -1,13 +1,13 @@
-http://www.miniclip.com/,,,none
-http://static2.miniclipcdn.com,,,none
-http://static3.miniclipcdn.com,,,none
-http://static.miniclipcdn.com,,,none
-http://www.miniclip.com/games/en/,,,none
-http://www.miniclip.com/,,,none
-http://www.miniclip.com/games/es/?force_language,,,none
-http://www.miniclip.com/games/fr/?force_language,,,none
-http://www.miniclip.com/games/in/?force_language,,,none
-http://www.miniclip.com/games/de/?force_language,,,none
-http://www.miniclip.com/games/ro/?force_language,,,none
-http://www.miniclip.com/games/br/?force_language,,,none
-http://www.miniclip.com/games/tr/?force_language,,,none
+http://www.miniclip.com/,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://static2.miniclipcdn.com,server-54-192-48-16.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://static3.miniclipcdn.com,server-54-192-48-110.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://static.miniclipcdn.com,server-54-192-48-16.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/en/,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/es/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/fr/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/in/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/de/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/ro/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/br/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.miniclip.com/games/tr/?force_language,server-54-192-48-121.jfk5.r.cloudfront.net,Amazon CloudFront,revdns

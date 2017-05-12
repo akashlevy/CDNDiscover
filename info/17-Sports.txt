@@ -1,16 +1,32 @@
+http://www.skysports.com/,,Level 3,whois
 http://www.skysports.com/,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com,,Level 3,whois
 http://www.skysports.com,www.skysports.com.c.footprint.net.,Level 3,cname
+http://e3.365dm.com,,Level 3,whois
 http://e3.365dm.com,ssl-level3.cdn-365dm.com.c.footprint.net.,Level 3,cname
+http://e0.365dm.com,,Level 3,whois
 http://e0.365dm.com,ssl-level3.cdn-365dm.com.c.footprint.net.,Level 3,cname
+http://news.sky.com,a23-65-230-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://news.sky.com,news.sky.com.edgekey.net.,Akamai,cname
+http://e2.365dm.com,,Level 3,whois
 http://e2.365dm.com,ssl-level3.cdn-365dm.com.c.footprint.net.,Level 3,cname
+http://e1.365dm.com,,Level 3,whois
 http://e1.365dm.com,ssl-level3.cdn-365dm.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/,,Level 3,whois
 http://www.skysports.com/,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/#no-js-nav,,Level 3,whois
 http://www.skysports.com/#no-js-nav,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/football,,Level 3,whois
 http://www.skysports.com/football,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/f1,,Level 3,whois
 http://www.skysports.com/f1,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/cricket,,Level 3,whois
 http://www.skysports.com/cricket,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/rugby-union,,Level 3,whois
 http://www.skysports.com/rugby-union,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/rugby-league,,Level 3,whois
 http://www.skysports.com/rugby-league,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/golf,,Level 3,whois
 http://www.skysports.com/golf,www.skysports.com.c.footprint.net.,Level 3,cname
+http://www.skysports.com/boxing,,Level 3,whois
 http://www.skysports.com/boxing,www.skysports.com.c.footprint.net.,Level 3,cname

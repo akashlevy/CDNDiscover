@@ -1,5 +1,5 @@
 http://www.netflix.com/,www.geo.netflix.com.,,none
-http://assets.nflxext.com,sha2.san.akam.nflximg.net.,,none
+http://assets.nflxext.com,a23-195-144-36.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.netflix.com/,www.geo.netflix.com.,,none
 http://www.netflix.com/login,www.geo.netflix.com.,,none
 tel:1-866-579-7172http://www.netflix.com/yourAccount,,,none
@@ -9,4 +9,5 @@ http://www.netflix.com/originals,www.geo.netflix.com.,,none
 http://www.netflix.com/LoginHelp,www.geo.netflix.com.,,none
 http://www.netflix.com/giftterms,www.geo.netflix.com.,,none
 http://api-global.netflix.com,api-global.geo.netflix.com.,,none
+http://secure.netflix.com,a184-29-131-75.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://secure.netflix.com,sha2.secure.netflix.edgekey.net.,Akamai,cname

@@ -1,0 +1,15 @@
+http://www.instructables.com/,instructables.map.fastly.net.,Fastly,cname
+http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://cdn.instructables.com,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/tag/type-id/,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/contest/,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/classes/,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/about/create.jsp,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/account/login/,instructables.map.fastly.net.,Fastly,cname
+http://www.instructables.com/account/gopro,instructables.map.fastly.net.,Fastly,cname
+http://ct.pinterest.com,www.pinterest.com.,,none
+http://www.instructables.com/class/Robots-Class/,instructables.map.fastly.net.,Fastly,cname
+http://player.vimeo.com,,,none
+http://www.instructables.com/howto/gardening/,instructables.map.fastly.net.,Fastly,cname

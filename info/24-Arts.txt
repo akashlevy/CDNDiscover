@@ -1,1 +1,2 @@
+http://www.npr.org/,a23-195-144-42.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.npr.org/,wildcard.npr.org.edgekey.net.,Akamai,cname

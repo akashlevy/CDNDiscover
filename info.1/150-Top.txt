@@ -1,0 +1,11 @@
+http://www.utorrent.com/,bittorrent.hs.llnwd.net.,Limelight,cname
+http://ssum.casalemedia.com,ssum.casalemedia.com.edgesuite.net.,Akamai,cname
+http://www.utorrent.com/,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/downloads/complete/os/osx/track/stable,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/desktop/,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/mobile/,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/remote/,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/index/setLocale/locale/en,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/index/setLocale/locale/zh_cn,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/index/setLocale/locale/zh_tw,bittorrent.hs.llnwd.net.,Limelight,cname
+http://www.utorrent.com/index/setLocale/locale/de,bittorrent.hs.llnwd.net.,Limelight,cname

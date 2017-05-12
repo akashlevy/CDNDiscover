@@ -1,1 +1,1 @@
-http://www.feedly.com/,,,none
+http://www.feedly.com/,,Cloudflare,whois

@@ -1,0 +1,12 @@
+http://www.alexa.com/,,,none
+http://try.alexa.com,d25j8su7gwc00.cloudfront.net.,Amazon CloudFront,cname
+http://www.alexa.com/find-similar-sites,,,none
+http://pcache.alexa.com,,,none
+http://www.alexa.com/topsites,,,none
+http://www.alexa.com/,,,none
+https://www.alexa.com/secure/login,,,none
+http://d1uki75gjpelap.cloudfront.net,,Amazon CloudFront,name
+http://www.alexa.com/#tab-84620fe00efbbdccf65,,,none
+http://www.alexa.com/#tab-fbcc0b137eafc9b3a37,,,none
+http://www.alexa.com/#tab-eee007d6ab735553746,,,none
+http://www.alexa.com/#tab-cc625e8073276e1ffad,,,none

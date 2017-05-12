@@ -1,7 +1,8 @@
 http://health.com/,,,none
-http://cdn-img.health.com,delivery.health.com.,,none
+http://cdn-img.health.com,server-54-192-48-240.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.health.com,server-54-192-48-202.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.health.com,d27uc26nhlq8uv.cloudfront.net.,Amazon CloudFront,cname
-http://www.google.com,,Google,name
+http://www.google.com,,,none
 http://health.com/#main-content,,,none
 http://health.com/,,,none
 http://health.com/fitness,,,none

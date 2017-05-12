@@ -6,9 +6,9 @@ http://www.gsmarena.com/search.php3,,,none
 http://www.gsmarena.com/tipus.php3,,,none
 http://www.gsmarena.com/rss-news-reviews.php3,,,none
 http://www.gsmarena.com/login-facebook.php3?rdr=MA%3D%3D,,,none
-http://cs.atdmt.com,star.c10r.facebook.com.,Facebook,cname
+http://cs.atdmt.com,star.c10r.facebook.com.,,none
 http://www.gsmarena.com/login-google.php3?rdr=MA%3D%3D,,,none
 http://www.gsmarena.com/nickname.php3?sSource=MA%3D%3D,,,none
 http://www.gsmarena.com/news.php3,,,none
-http://maps.gstatic.com,,Google,name
+http://maps.gstatic.com,,,none
 http://www.gsmarena.com/reviews.php3,,,none

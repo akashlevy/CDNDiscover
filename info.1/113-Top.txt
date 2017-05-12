@@ -1,0 +1,14 @@
+http://msdn.microsoft.com/,msdn.microsoft.akadns.net.,Akamai,cname
+http://i-msdn.sec.s-msft.com,wildcard.sec.s-msft.com.edgekey.net.,Akamai,cname
+https://msdn.microsoft.com/en-us,msdn.microsoft.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/microsoft-sdks-msdn,msdn.microsoft.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/evalcenter,msdn.microsoft.akadns.net.,Akamai,cname
+http://assets.onestore.ms,assets.onestore.ms.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/officeevaluationresources,msdn.microsoft.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/sharepoint2013resources,msdn.microsoft.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/sqlserver2014expressresources,msdn.microsoft.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/windowsserver2012r2resources,msdn.microsoft.akadns.net.,Akamai,cname
+https://msdn.microsoft.com/msdn-subscriptions-overview,msdn.microsoft.akadns.net.,Akamai,cname
+http://www.visualstudio.com,wildcard.visualstudio.com.edgekey.net.,Akamai,cname
+https://msdn.microsoft.com/msdn-subscriptions-administration,msdn.microsoft.akadns.net.,Akamai,cname
+http://channel9.msdn.com,channel9.trafficmanager.net.,,none

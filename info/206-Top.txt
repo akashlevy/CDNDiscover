@@ -1,5 +1,5 @@
 http://www.thefreedictionary.com/,,,none
-http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com,youtube-ui.l.google.com.,,none
 http://img.tfd.com,,,none
 http://www.thefreedictionary.com,,,none
 http://www.thefreedictionary.com/_/hp/Controls/printer-friendly.aspx?985,,,none

@@ -1,3 +1,6 @@
+http://www.target.com/,a23-66-164-52.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.target.com/,www.target.com.edgekey.net.,Akamai,cname
+http://www.target.com/,a23-66-164-52.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.target.com/,www.target.com.edgekey.net.,Akamai,cname
+http://www.target.com/co-cart,a23-66-164-52.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.target.com/co-cart,www.target.com.edgekey.net.,Akamai,cname

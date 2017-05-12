@@ -1,1 +1,2 @@
+http://www.mit.edu/,a23-33-136-39.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.mit.edu/,www.mit.edu.edgekey.net.,Akamai,cname

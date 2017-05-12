@@ -1,5 +1,7 @@
 http://pcgamer.com/,,,none
+http://static.pcgamer.futurecdn.net,,Level 3,whois
 http://static.pcgamer.futurecdn.net,mos.futurenet.com.c.footprint.net.,Level 3,cname
+http://cdn.mos.cms.futurecdn.net,,Level 3,whois
 http://cdn.mos.cms.futurecdn.net,cdn.futureplc.com.c.footprint.net.,Level 3,cname
 http://pcgamer.com/,,,none
 http://pcgamer.com/about-pc-gamer/,,,none

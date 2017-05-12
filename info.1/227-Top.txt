@@ -1,0 +1,16 @@
+http://www.discogs.com/,,,none
+http://s.discogs.com,f.global-ssl.fastly.net.,Fastly,cname
+http://b1img.com,,,none
+http://img.discogs.com,f.global-ssl.fastly.net.,Fastly,cname
+http://www.discogs.com/,,,none
+http://www.discogs.com/search/,,,none
+http://www.discogs.com/sell/list,,,none
+http://www.discogs.com/group/,,,none
+http://www.discogs.com/forum/,,,none
+http://www.discogs.com/blog,,,none
+http://secure.gravatar.com,,,none
+http://blog.discogs.com,discogs.wpengine.com.,,none
+http://www.discogs.com/users/friends,,,none
+http://www.discogs.com/help/doc/forums,,,none
+http://s3.amazonaws.com,s3-1.amazonaws.com.,,none
+http://www.discogs.com/users/create,,,none

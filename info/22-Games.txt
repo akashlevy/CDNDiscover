@@ -1,11 +1,12 @@
-https://minecraft.net/,,,none
+https://minecraft.net/,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://community-content-assets.minecraft.net,server-54-230-51-120.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://community-content-assets.minecraft.net,d5fy3qovux4be.cloudfront.net.,Amazon CloudFront,cname
-https://minecraft.net/en-us/help/?ref=gm,,,none
-https://minecraft.net/en-us/store/minecraft/?ref=m,,,none
-https://minecraft.net/en-us/realms/?ref=m,,,none
-https://minecraft.net/?ref=m,,,none
-https://minecraft.net/en-us/store/?ref=m,,,none
-https://minecraft.net/en-us/store/minecraft/?ref=fm,,,none
-https://minecraft.net/en-us/realms/?ref=fm,,,none
-https://minecraft.net/en-us/store/?ref=fm,,,none
-https://minecraft.net/en-us/profile/?ref=bm,,,none
+https://minecraft.net/en-us/help/?ref=gm,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/store/minecraft/?ref=m,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/realms/?ref=m,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/?ref=m,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/store/?ref=m,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/store/minecraft/?ref=fm,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/realms/?ref=fm,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/store/?ref=fm,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://minecraft.net/en-us/profile/?ref=bm,server-54-192-48-168.jfk5.r.cloudfront.net,Amazon CloudFront,revdns

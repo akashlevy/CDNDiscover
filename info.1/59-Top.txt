@@ -1,0 +1,11 @@
+https://www.chase.com/,wwwbcchase.gslb.bankone.com.,,none
+http://mfasa.chase.com,mfasa-chase.gslb.bankone.com.,,none
+https://www.chase.com/#main,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/digital/resources/privacy-security/security/system-requirements,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/news,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/espanol,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/personal/checking,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/savings,wwwbcchase.gslb.bankone.com.,,none
+https://www.chase.com/debit-reloadable-cards/liquid-prepaid-card,wwwbcchase.gslb.bankone.com.,,none

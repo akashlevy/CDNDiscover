@@ -1,4 +1,5 @@
 http://sourceforge.net/,,,none
+http://a.fsdn.com,a23-33-111-49.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://a.fsdn.com,a.fsdn.com.edgekey.net.,Akamai,cname
 http://sourceforge.net/,,,none
 http://sourceforge.net/directory/,,,none

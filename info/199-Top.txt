@@ -1,18 +1,21 @@
 http://www.xda-developers.com/,,,none
-http://static.swappa.com,,,none
+http://static.swappa.com,,Cloudflare,whois
+http://forum.xda-cdn.com,,LeaseWeb CDN,whois
 http://forum.xda-cdn.com,af3791432a9aef7513083f95e7a227ee.lswcdn.net.,LeaseWeb CDN,cname
+http://forum-lw-1.xda-cdn.com,,LeaseWeb CDN,whois
 http://forum-lw-1.xda-cdn.com,af3791432a9aef7513083f95e7a227ee.lswcdn.net.,LeaseWeb CDN,cname
 http://nop.xpanama.net,,,none
+http://www1-lw.xda-cdn.com,,LeaseWeb CDN,whois
 http://www1-lw.xda-cdn.com,26692e8c60aba4340d2c913eb9baf22e.lswcdn.net.,LeaseWeb CDN,cname
 http://www.xda-developers.com/,,,none
 https://www.xda-developers.com/category/analysis/,,,none
 https://www.xda-developers.com/android-dev-weekly-03-whats-new-in-the-world-of-themes-roms-and-mods/,,,none
-http://disqus.com,,,none
-http://cdnp0.stackassets.com,,,none
-http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
-http://cdnp3.stackassets.com,,,none
+http://disqus.com,,Fastly,whois
+http://cdnp0.stackassets.com,server-54-192-48-61.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.youtube.com,youtube-ui.l.google.com.,,none
+http://cdnp3.stackassets.com,server-54-192-48-13.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://secure.gravatar.com,,,none
-http://cdnp2.stackassets.com,,,none
+http://cdnp2.stackassets.com,server-54-192-48-53.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 https://www.xda-developers.com/samsung-using-facial-recognition-for-mobile-payments-is-years-away/,,,none
 https://www.xda-developers.com/xda-takes-on-ryzen-in-depth-look-of-amds-new-processors-on-the-linux-side/,,,none
 https://www.xda-developers.com/opinion-oxygenos-exemplary-oem-rom/,,,none

@@ -1,5 +1,6 @@
 http://www.ncbi.nlm.nih.gov/,www.wip.ncbi.nlm.nih.gov.,,none
 http://pixel.wp.com,,WordPress,name
+http://pixel.wp.com,,WordPress,name
 http://www.ncbi.nlm.nih.gov,www.wip.ncbi.nlm.nih.gov.,,none
 http://www.ncbi.nlm.nih.gov/,www.wip.ncbi.nlm.nih.gov.,,none
 http://www.ncbi.nlm.nih.gov/#maincontent,www.wip.ncbi.nlm.nih.gov.,,none

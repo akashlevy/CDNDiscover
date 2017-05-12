@@ -1,1 +1,2 @@
+http://www.delta.com/,a23-203-24-172.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.delta.com/,cn-www.delta.com.edgekey.net.,Akamai,cname

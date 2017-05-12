@@ -1,0 +1,16 @@
+http://www.reuters.com/,www.reutersmedia.net.,,none
+http://s4.reutersmedia.net,static.reutersmedia.net.,,none
+http://charts.reuters.com,www.reuters.wallst.com.,,none
+http://static.reuters.com,static.reutersmedia.net.,,none
+http://s1.reutersmedia.net,static.reutersmedia.net.,,none
+http://s2.reutersmedia.net,static.reutersmedia.net.,,none
+http://s3.reutersmedia.net,static.reutersmedia.net.,,none
+http://www.reuters.com/,www.reutersmedia.net.,,none
+http://www.reuters.com/home,www.reutersmedia.net.,,none
+http://www.reuters.com/finance,www.reutersmedia.net.,,none
+http://www.reuters.com/legal,www.reutersmedia.net.,,none
+http://www.reuters.com/finance/deals,www.reutersmedia.net.,,none
+http://www.reuters.com/subjects/aerospace-and-defense,www.reutersmedia.net.,,none
+http://www.reuters.com/subjects/banks,www.reutersmedia.net.,,none
+http://www.reuters.com/subjects/autos,www.reutersmedia.net.,,none
+http://www.reuters.com/finance/summits,www.reutersmedia.net.,,none

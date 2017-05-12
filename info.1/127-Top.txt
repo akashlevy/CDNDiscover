@@ -1,0 +1,15 @@
+http://www.espncricinfo.com/,wwwakamai.espncricinfo.com.,,none
+http://i.imgci.com,img.cricinfo.com.edgesuite.net.,Akamai,cname
+http://a.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://p.imgci.com,cricinfo.com.edgesuite.net.,Akamai,cname
+http://www.espncricinfo.com/,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/engine/match/index.html?view=live,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/engine/match/index.html?view=week,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/engine/series/index.html?view=month,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/engine/series/index.html?view=season,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/engine/series/index.html,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/content/match/fixtures_futures.html,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/ci/engine/match/index.html?view=calendar,wwwakamai.espncricinfo.com.,,none
+http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html,wwwakamai.espncricinfo.com.,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.espncricinfo.com,wwwakamai.espncricinfo.com.,,none

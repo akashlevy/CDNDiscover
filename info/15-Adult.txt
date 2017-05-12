@@ -1,6 +1,6 @@
 http://adultfriendfinder.com/,,,none
 http://secureimage.securedataimages.com,cs77.wac.chicdn.net.,,none
-http://www.google.com,,Google,name
+http://www.google.com,,,none
 http://adultfriendfinder.com/,,,none
 http://adultfriendfinder.com/go/page/forgot_login.html?&who=r,,,none
 http://adultfriendfinder.com/p/register.cgi?&who=r,,,none

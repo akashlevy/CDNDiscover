@@ -3,6 +3,7 @@
 # Standard library imports
 import glob
 import json
+import socket
 import time
 from Queue import Empty, Queue
 from urlparse import urljoin, urlparse
@@ -10,6 +11,7 @@ from urlparse import urljoin, urlparse
 # Custom library imports
 import dns.resolver
 from bs4 import BeautifulSoup
+from ipwhois import IPWhois, IPDefinedError
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 
@@ -114,8 +116,51 @@ def getcdn(url, outfile):
     # Check whether at least one CDN has been written to file
     wrote = False
 
-    # Check CNAME
+    # Get host from URL
     host = urlparse(url).netloc
+
+    # Do reverse DNS lookup
+    try:
+        addr = socket.gethostbyname(host)
+        name = socket.gethostbyaddr(addr)[0]
+        for match in CDN['vendors'].keys():
+            if match in name:
+                print url + ',',
+                print CDN['vendors'][match] + ': Found in rev-DNS hostname!'
+                outfile.write(url + ',' + name + ',' +
+                              CDN['vendors'][match] + ',revdns\n')
+                wrote = True
+    except (socket.herror, socket.gaierror):
+        for match in CDN['vendors'].keys():
+            if match in url:
+                print url + ',',
+                print CDN['vendors'][match] + ': Found in name!'
+                outfile.write(url + ',,' + CDN['vendors'][match] +
+                              ',name\n')
+                wrote = True
+
+    # Do WHOIS lookup
+    try:
+        who = IPWhois(addr)
+        for obj in who.lookup_rdap(depth=1)['objects'].values():
+            try:
+                contactname = obj['contact']['name']
+                for match in CDN['vendors'].values():
+                    if match in contactname:
+                        print url + ',',
+                        print match + ': Found in WHOIS!'
+                        outfile.write(url + ',,' + match + ',whois\n')
+                        wrote = True
+                        break
+                # Only get first match
+                if wrote:
+                    break
+            except KeyError:
+                pass
+    except (UnboundLocalError, IPDefinedError):
+        pass
+
+    # Check CNAME
     try:
         cname = str(dns.resolver.query(host, 'CNAME')[0])
         print cname,
@@ -164,4 +209,4 @@ def reprocess():
 
 # Run the CDN finder
 if __name__ == '__main__':
-    run()
+    reprocess()

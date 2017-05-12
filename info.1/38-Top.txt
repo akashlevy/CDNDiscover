@@ -1,0 +1,14 @@
+https://www.dropbox.com/,www.dropbox-dns.com.,,none
+http://dropbox.com,,,none
+http://marketing.dropbox.com,,,none
+http://cfl.dropboxstatic.com,cfl.dropboxstatic.com.cdn.cloudflare.net.,Cloudflare,cname
+https://www.dropbox.com/,www.dropbox-dns.com.,,none
+https://www.dropbox.com/forgot,www.dropbox-dns.com.,,none
+https://www.dropbox.com/lost_phone,www.dropbox-dns.com.,,none
+https://www.dropbox.com/terms,www.dropbox-dns.com.,,none
+https://www.dropbox.com/business,www.dropbox-dns.com.,,none
+http://snapengage.dropbox.com,,,none
+https://www.dropbox.com/downloading?src=index,www.dropbox-dns.com.,,none
+https://www.dropbox.com/register,www.dropbox-dns.com.,,none
+https://www.dropbox.com/login,www.dropbox-dns.com.,,none
+https://www.dropbox.com/paper,www.dropbox-dns.com.,,none

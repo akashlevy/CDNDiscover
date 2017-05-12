@@ -1,0 +1,11 @@
+https://duckduckgo.com/,,,none
+https://duckduckgo.com/about,,,none
+https://duckduckgo.com/,,,none
+https://duckduckgo.com/privacy,,,none
+https://duckduckgo.com/about#getinvolved,,,none
+https://duckduckgo.com/tour,,,none
+https://duckduckgo.com/spread,,,none
+https://duckduckgo.com/hiring/,,,none
+http://app.jazz.co,prod-east-elb-484312297.us-east-1.elb.amazonaws.com.,,none
+https://duckduckgo.com/traffic,,,none
+https://duckduckgo.com,,,none

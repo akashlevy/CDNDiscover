@@ -1,2 +1,3 @@
-https://tweetdeck.twitter.com/,td.twitter.com.,,none
-http://ton.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
+https://tweetdeck.twitter.com/,,Twitter,whois
+http://ton.twimg.com,,Twitter,name
+http://ton.twimg.com,wildcard.twimg.com.,Twitter,cname

@@ -6,9 +6,9 @@ http://www.shopify.com/#Main,origin.www.shopify.com.,,none
 http://www.shopify.com/,origin.www.shopify.com.,,none
 http://www.shopify.com/online,origin.www.shopify.com.,,none
 http://www.shopify.com/pos,origin.www.shopify.com.,,none
-http://cdn.shopify.com,cdn.shopify.com.tm.shopifycdn.com.,,none
+http://cdn.shopify.com,,Fastly,whois
 http://www.shopify.com/pos/retail,origin.www.shopify.com.,,none
 http://www.shopify.com/buy-button,origin.www.shopify.com.,,none
 http://www.shopify.com/pinterest,origin.www.shopify.com.,,none
-http://ct.pinterest.com,www.pinterest.com.,,none
+http://ct.pinterest.com,,Fastly,whois
 http://www.shopify.com/facebook,origin.www.shopify.com.,,none

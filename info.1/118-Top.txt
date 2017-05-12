@@ -1,0 +1,17 @@
+http://www.businessinsider.com/,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://static3.businessinsider.com,f.global-ssl.fastly.net.,Fastly,cname
+http://static5.businessinsider.com,f.global-ssl.fastly.net.,Fastly,cname
+http://static1.businessinsider.com,f.global-ssl.fastly.net.,Fastly,cname
+http://static4.businessinsider.com,ustbistatic.edgekey.net.,Akamai,cname
+http://static6.businessinsider.com,ustbistatic.edgekey.net.,Akamai,cname
+http://static2.businessinsider.com,ustbistatic.edgekey.net.,Akamai,cname
+http://www.businessinsider.com/,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/events,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/trending,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/sai,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/clusterstock,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/politics,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/warroom,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/thelife,prod.f.ssl.global.fastly.net.,Fastly,cname
+http://www.businessinsider.com/sportspage,prod.f.ssl.global.fastly.net.,Fastly,cname

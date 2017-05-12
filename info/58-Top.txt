@@ -1,4 +1,5 @@
 http://www.slideshare.net/,any-na.www.slideshare.net.,,none
+http://public.slidesharecdn.com,a23-195-144-146.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://public.slidesharecdn.com,wildcard.slidesharecdn.com.edgekey.net.,Akamai,cname
 http://www.slideshare.net/,any-na.www.slideshare.net.,,none
 http://www.slideshare.net/explore,any-na.www.slideshare.net.,,none

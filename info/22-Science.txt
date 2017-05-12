@@ -1,1 +1,1 @@
-http://coinmarketcap.com/,,,none
+http://coinmarketcap.com/,,Cloudflare,whois

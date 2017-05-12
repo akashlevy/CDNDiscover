@@ -1,11 +1,11 @@
 http://www.spankwire.com/,spankwire.com.,,none
-http://cdn1-static-spankwire.spankcdn.net,cdn1-static-spankwire.spankcdn.net.sds.rncdn7.com.,,none
-http://cdn4-image-spankwire.spankcdn.net,cdn4-image-spankwire.spankcdn.net.sds.rncdn7.com.,,none
+http://cdn1-static-spankwire.spankcdn.net,cdn1-static-spankwire.spankcdn.net.sds.rncdn7.com.,Reflected Networks,cname
+http://cdn4-image-spankwire.spankcdn.net,cdn4-image-spankwire.spankcdn.net.sds.rncdn7.com.,Reflected Networks,cname
 http://www.spankwire.com/home/Gay,spankwire.com.,,none
-http://api.reon.club,ads.traffichaus.com.,,none
+http://api.reon.club,,Reflected Networks,whois
 http://www.spankwire.com/Register,spankwire.com.,,none
 http://ads.ibtracking.com,,,none
-http://www.google.com,,Google,name
+http://www.google.com,,,none
 http://www.spankwire.com/forgot,spankwire.com.,,none
 http://www.spankwire.com/,spankwire.com.,,none
 http://www.spankwire.com/upload,spankwire.com.,,none

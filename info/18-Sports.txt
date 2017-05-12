@@ -1,8 +1,13 @@
 http://www.espn.com/nfl/,www.geo.hosted.espn.com.,,none
+http://a1.espncdn.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://a1.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a4.espncdn.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://a4.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a3.espncdn.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://a3.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a.espncdn.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://a.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
+http://a2.espncdn.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://a2.espncdn.com,a.espncdn.com.edgesuite.net.,Akamai,cname
 http://www.espn.com/nfl/,www.geo.hosted.espn.com.,,none
 http://www.espn.com/,www.geo.hosted.espn.com.,,none

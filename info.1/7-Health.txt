@@ -1,0 +1,11 @@
+http://www.psychologytoday.com/,,,none
+http://cdn.psychologytoday.com,d7psychologytoday.sussexpublishers.netdna-cdn.com.,NetDNA,cname
+http://www.psychologytoday.com/,,,none
+http://www.psychologytoday.com/#sidr-main,,,none
+http://www.psychologytoday.com/topics/addiction,,,none
+http://www.psychologytoday.com/topics/aging,,,none
+http://www.psychologytoday.com/topics/animal-behavior,,,none
+http://www.psychologytoday.com/topics/anxiety,,,none
+http://www.psychologytoday.com/topics/autism,,,none
+http://www.psychologytoday.com/topics/behavioral-economics,,,none
+http://www.psychologytoday.com/topics/child-development,,,none

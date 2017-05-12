@@ -1,4 +1,5 @@
 http://onlinelibrary.wiley.com/,,,none
+http://onlinelibrarystatic.wiley.com,a172-229-229-145.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://onlinelibrarystatic.wiley.com,onlinelibrarystatic.wiley1.com.akadns.net.,Akamai,cname
 http://onlinelibrary.wiley.com/#content,,,none
 http://onlinelibrary.wiley.com/,,,none

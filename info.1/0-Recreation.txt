@@ -1,0 +1,12 @@
+https://www.booking.com/,www.c.booking.com.,,none
+http://t-ec.bstatic.com,cs716.wac.edgecastcdn.net.,Edgecast,cname
+http://s-ec.bstatic.com,cs715.wac.edgecastcdn.net.,Edgecast,cname
+https://www.booking.com/,www.c.booking.com.,,none
+https://www.booking.com/index.en-us.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=en-us;lang_click=top;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=en-gb;lang_click=top;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.es.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=es;lang_click=top;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.zh-cn.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=zh-cn;lang_click=top;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.fr.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=fr;lang_click=top;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.de.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=de;lang_click=top;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=en-gb;lang_click=other;cdl=en-us,www.c.booking.com.,,none
+https://www.booking.com/index.en-us.html?label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmcgV1c19uaogBAZgBMcIBA3gxMcgBD9gBAegBAfgBApICAXmoAgM;sid=9f0c030e8c3c4649cffab299de726f9c;sb_price_type=total;=;lang=en-us;lang_click=other;cdl=en-us,www.c.booking.com.,,none

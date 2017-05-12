@@ -1,4 +1,5 @@
 http://finance.yahoo.com/,fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net.,,none
+http://p.bankrate.com,,Fastly,whois
 http://p.bankrate.com,a2.shared.global.fastly.net.,Fastly,cname
 http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
 http://finance.yahoo.com/,fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net.,,none

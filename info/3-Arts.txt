@@ -1,9 +1,11 @@
 http://www.imdb.com/,us.dd.imdb.com.,,none
 http://s.amazon-adsystem.com,,,none
-http://ia.media-imdb.com,iaa.media-imdb.com.,,none
+http://ia.media-imdb.com,a23-206-229-148.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://images-na.ssl-images-amazon.com,server-54-230-49-62.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
 http://www.imdb.com/?ref_=nv_home,us.dd.imdb.com.,,none
 http://www.imdb.com/search/,us.dd.imdb.com.,,none
+http://i.media-imdb.com,server-54-192-48-243.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://i.media-imdb.com,d3k42v5me62qu0.cloudfront.net.,Amazon CloudFront,cname
 http://www.imdb.com/movies-in-theaters/?ref_=nv_tp_inth_1,us.dd.imdb.com.,,none
 http://www.imdb.com/chart/toptv/?ref_=nv_tp_tv250_2,us.dd.imdb.com.,,none

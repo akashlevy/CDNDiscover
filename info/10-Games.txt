@@ -1,4 +1,5 @@
 http://www.gamespot.com/,gamespot-www-vip1.phx2.cbsig.net.,,none
+http://static.gamespot.com,a23-33-97-196.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://static.gamespot.com,static.gamespot.com.edgekey.net.,Akamai,cname
 https://www.gamespot.com/,gamespot-www-vip1.phx2.cbsig.net.,,none
 http://www.gamespot.com/pc/,gamespot-www-vip1.phx2.cbsig.net.,,none

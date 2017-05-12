@@ -1,0 +1,14 @@
+http://www.accuweather.com/,www.accuweather.com.edgekey.net.,Akamai,cname
+http://sirocco.accuweather.com,sirocco.accuweather.com.edgekey.net.,Akamai,cname
+http://vortex.accuweather.com,vortex.accuweather.com.edgekey.net.,Akamai,cname
+http://accuweather.brightspotcdn.com,cdn.accuweather.psdops.com.,,none
+http://www.accuweather.com/en/us/princeton-nj/08544/weather-forecast/339523,www.accuweather.com.edgekey.net.,Akamai,cname
+http://ec.c.ooyala.com,d38me01vvwrazi.cloudfront.net.,Amazon CloudFront,cname
+http://www.accuweather.com/en/us/new-york-ny/10017/weather-forecast/349727,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/miami-fl/33128/weather-forecast/347936,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/los-angeles-ca/90012/weather-forecast/347625,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/browse-locations,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/#menu-country,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/united-states-weather,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/cn/china-weather,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/gb/united-kingdom-weather,www.accuweather.com.edgekey.net.,Akamai,cname

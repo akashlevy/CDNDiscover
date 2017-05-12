@@ -1,0 +1,11 @@
+http://badoo.com/,,,none
+http://badoocdn.com,,,none
+http://badoo.com/,,,none
+https://badoo.com/en-us/,,,none
+https://badoo.com/en/,,,none
+https://badoo.com/de/,,,none
+https://badoo.com/fr/,,,none
+https://badoo.com/es/,,,none
+https://badoo.com/es-ar/,,,none
+https://badoo.com/es-co/,,,none
+https://badoo.com/es-mx/,,,none

@@ -1,0 +1,12 @@
+http://authoritynutrition.com/,,,none
+http://cdn.authoritynutrition.com,21259-presscdn.pagely.netdna-cdn.com.,NetDNA,cname
+https://authoritynutrition.com/,,,none
+http://authoritynutrition.com/,,,none
+https://authoritynutrition.com/articles/,,,none
+https://authoritynutrition.com/weekly-meal-plans/,,,none
+https://authoritynutrition.com/foods/,,,none
+https://authoritynutrition.com/science-of-diet/,,,none
+http://my.authoritynutrition.com,,,none
+https://authoritynutrition.com/contact/,,,none
+https://authoritynutrition.com/about/,,,none
+https://authoritynutrition.com/subscribe/,,,none

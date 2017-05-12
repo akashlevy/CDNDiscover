@@ -1,0 +1,14 @@
+http://www.zoho.com/,zoho.com.,,none
+http://www.zoho.com,zoho.com.,,none
+https://www.zoho.com/index.html#,zoho.com.,,none
+https://www.zoho.com/login.html,zoho.com.,,none
+http://accounts.zoho.com,,,none
+https://www.zoho.com/signup.html,zoho.com.,,none
+https://www.zoho.com/books/,zoho.com.,,none
+http://www.zoho.com/crm/?src=zoho,zoho.com.,,none
+http://iz.zohostatic.com,zstatic.zohostatic.com.,,none
+https://www.zoho.com/mail/,zoho.com.,,none
+http://css.zohostatic.com,zohostatic.com.,,none
+http://www.zoho.com/creator/?src=zhome,zoho.com.,,none
+https://www.zoho.com/desk/,zoho.com.,,none
+https://www.zoho.com/crm/crmplus/?src=zoho-home,zoho.com.,,none

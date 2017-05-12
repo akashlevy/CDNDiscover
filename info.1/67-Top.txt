@@ -1,0 +1,14 @@
+http://www.flipkart.com/,flipkart.com.,,none
+http://rukminim1.flixcart.com,pmdssl.flixkart.com.edgekey.net.,Akamai,cname
+http://img1a.flixcart.com,pmdssl.flixkart.com.edgekey.net.,Akamai,cname
+http://www.flipkart.com/buy-gift-voucher?otracker=ch_vn_gift-voucher,flipkart.com.,,none
+http://img6a.flixcart.com,pmd.flixkart.com.edgesuite.net.,Akamai,cname
+http://www.flipkart.com/helpcentre,flipkart.com.,,none
+http://img5a.flixcart.com,pmd.flixkart.com.edgesuite.net.,Akamai,cname
+http://www.flipkart.com/account/orders,flipkart.com.,,none
+http://www.flipkart.com/notifications?otracker=Notifications_view_all,flipkart.com.,,none
+http://www.flipkart.com/account/login?signup=true,flipkart.com.,,none
+http://www.flipkart.com/account/login?ret=/,flipkart.com.,,none
+http://www.flipkart.com/,flipkart.com.,,none
+http://www.flipkart.com/viewcart?otracker=Cart_Icon_Click,flipkart.com.,,none
+http://www.flipkart.com/offers-list/deals-of-the-day?screen=dynamic&pk=themeViews%3DDOTD%3AdesktopDefaultDealCard~widgetType%3DdealCard&wid=2.dealCard.OMU&otracker=hp_omu_Deals+of+the+Day_0,flipkart.com.,,none

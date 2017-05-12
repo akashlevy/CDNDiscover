@@ -8,4 +8,4 @@ http://www.ecollege.com/improving-achievement.php,ecollege.com.,,none
 http://www.ecollege.com/delivering-value-and-affordability.php,ecollege.com.,,none
 http://www.ecollege.com/careers.php,ecollege.com.,,none
 http://www.ecollege.com/location-directions.php,ecollege.com.,,none
-http://maps.google.com,,Google,name
+http://maps.google.com,,,none

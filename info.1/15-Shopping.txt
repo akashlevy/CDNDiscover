@@ -1,0 +1,11 @@
+http://www.hm.com/,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=eg&lang=ar&name=Egypt&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=ma&lang=ar&name=Morocco&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=za&lang=en&name=South+Africa&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=cn&lang=en&name=China&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://lp2.hm.com,lp2.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=cn&lang=zh&name=China&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=hk&lang=en&name=Hong+Kong+SAR&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=hk&lang=zh&name=Hong+Kong+SAR&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=in&lang=en&name=India&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname
+http://www.hm.com/setcountry?country=id&lang=in&name=Indonesia&orguri=%2F,www.hm.com.edgekey.net.,Akamai,cname

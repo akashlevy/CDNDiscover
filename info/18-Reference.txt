@@ -1,11 +1,12 @@
-https://www.coursera.org/,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://d3njjcbhbojbot.cloudfront.net,server-54-192-48-63.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d3njjcbhbojbot.cloudfront.net,,Amazon CloudFront,name
-https://www.coursera.org/,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/browse,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/courses,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/partners,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/enterprise,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/?authMode=login,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/?authMode=signup,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/featured/top_specializations_locale_en_os_web,www-cloudfront-alias.coursera.org.,,none
-https://www.coursera.org/specializations/jhu-data-science,www-cloudfront-alias.coursera.org.,,none
+https://www.coursera.org/,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/browse,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/courses,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/partners,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/enterprise,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/?authMode=login,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/?authMode=signup,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/featured/top_specializations_locale_en_os_web,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://www.coursera.org/specializations/jhu-data-science,server-54-192-48-106.jfk5.r.cloudfront.net,Amazon CloudFront,revdns

@@ -1,0 +1,23 @@
+http://www.marketwatch.com/,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://assets.vidora.com,d21fobsail520z.cloudfront.net.,Amazon CloudFront,cname
+http://cdn.newsapi.com.au,wildcardsan.news.com.au.edgekey.net.,Akamai,cname
+http://sts3.wsj.net,sts3.wsj.net.edgekey.net.,Akamai,cname
+http://s.marketwatch.com,s.wsj.net.,,none
+http://www.marketwatch.com/watchlist,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://tags.bluekai.com,tags.wdc.bluekai.com.,,none
+http://mw4.wsj.net,i.mktw.net.edgesuite.net.,Akamai,cname
+http://s.wsj.net,s.wsj.net.edgekey.net.,Akamai,cname
+http://mw2.wsj.net,i.mktw.net.edgesuite.net.,Akamai,cname
+http://i.marketwatch.com,i.mktw.net.,,none
+http://www.marketwatch.com/,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://www.marketwatch.com/newsviewer,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://mw1.wsj.net,i.mktw.net.edgesuite.net.,Akamai,cname
+http://m.wsj.net,m.wsj.net.edgekey.net.,Akamai,cname
+http://www.marketwatch.com/markets,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://i1.marketwatch.com,i.mktw.net.,,none
+http://platform.twitter.com,platform-eb.twitter.com.,,none
+http://www.marketwatch.com/personal-finance,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://www.marketwatch.com/retirement,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://www.marketwatch.com/investing,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://www.marketwatch.com/section/financial-adviser-center,www.marketwatch.com.edgesuite.net.,Akamai,cname
+http://www.marketwatch.com/economy-politics,www.marketwatch.com.edgesuite.net.,Akamai,cname

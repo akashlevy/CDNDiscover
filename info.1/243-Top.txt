@@ -1,0 +1,13 @@
+http://www.att.com/,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/gen/general?pid=11627,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/smallbusiness/content/shop.page,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://view.atdmt.com,ad.atdmt.com.,,none
+http://www.att.com/gen/general?pid=11624,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/gen/general?pid=11625,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/gen/landing-pages?pid=3309,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://www.att.com/gen/landing-pages?pid=5718,prod-www.zr-att.com.akadns.net.,Akamai,cname
+http://feedaggregator-att.centralcast.net,,,none
+http://www.att.com/#wrapper,prod-www.zr-att.com.akadns.net.,Akamai,cname

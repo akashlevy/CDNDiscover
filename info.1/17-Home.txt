@@ -1,0 +1,13 @@
+http://www.babycenter.com/,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://tag.researchnow.com,wildcard.researchnow.edgekey.net.,Akamai,cname
+http://assets.babycenter.com,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+https://www.babycenter.com/?PageSpeed=noscript,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/baby-products-and-gear,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/mission-motherhood,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/newsletters,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/mobile-apps,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/bookmarks.htm,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/login.htm?siteSource=classic-loginTop&brandChannel=expert&pageName=BC Homepage,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/register.htm?siteSource=classic-signUpTop&brandChannel=expert&pageName=BC Homepage,san-ion.babycenter.com.edgekey.net.,Akamai,cname

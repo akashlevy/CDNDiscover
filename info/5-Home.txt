@@ -6,6 +6,7 @@ https://www.engadget.com/user/login,silo-14-pub-live.amp-aws.public.aol.com.,,no
 http://www.engadget.com/#search-box,silo-14-pub-live.amp-aws.public.aol.com.,,none
 http://www.engadget.com/gear/,silo-14-pub-live.amp-aws.public.aol.com.,,none
 http://www.engadget.com/gaming/,silo-14-pub-live.amp-aws.public.aol.com.,,none
+http://s.blogsmithmedia.com,a23-195-146-243.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://s.blogsmithmedia.com,s.blogsmithmedia.com.edgekey.net.,Akamai,cname
 http://www.engadget.com/entertainment/,silo-14-pub-live.amp-aws.public.aol.com.,,none
 http://www.engadget.com/videos/,silo-14-pub-live.amp-aws.public.aol.com.,,none

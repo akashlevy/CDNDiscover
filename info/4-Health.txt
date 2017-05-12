@@ -1,11 +1,12 @@
-https://www.drugs.com/,,,none
-https://www.drugs.com/#content,,,none
-https://www.drugs.com/,,,none
-https://www.drugs.com/alpha/a1.html,,,none
+https://www.drugs.com/,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/#content,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/alpha/a1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://privacy-policy.truste.com,server-54-192-49-31.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
-https://www.drugs.com/alpha/b1.html,,,none
-https://www.drugs.com/alpha/c1.html,,,none
-https://www.drugs.com/alpha/d1.html,,,none
-https://www.drugs.com/alpha/e1.html,,,none
-https://www.drugs.com/alpha/f1.html,,,none
-https://www.drugs.com/alpha/g1.html,,,none
+https://www.drugs.com/alpha/b1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/alpha/c1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/alpha/d1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/alpha/e1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/alpha/f1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.drugs.com/alpha/g1.html,a23-66-190-44.deploy.static.akamaitechnologies.com,Akamai,revdns

@@ -1,4 +1,5 @@
 http://www.gamefaqs.com/,gamefaqs.com.,,none
+http://gamefaqs.akamaized.net,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://gamefaqs.akamaized.net,a1981.d.akamai.net.,Akamai,cname
 http://www.gamefaqs.com/3ds,gamefaqs.com.,,none
 http://www.gamefaqs.com/ds,gamefaqs.com.,,none

@@ -1,7 +1,7 @@
 http://www.wordreference.com/,,,none
 http://www.wordreference.com/,,,none
 http://www.wordreference.com/es/translation.asp,,,none
-http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,Google,cname
+http://googleads.g.doubleclick.net,pagead46.l.doubleclick.net.,,none
 http://www.wordreference.com/enfr/welcome,,,none
 http://www.wordreference.com/enit/welcome,,,none
 http://www.wordreference.com/enpt/,,,none

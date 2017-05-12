@@ -1,13 +1,16 @@
-http://www.rottentomatoes.com/,rtv2-production-2-6.rottentomatoes.com.,,none
+http://www.rottentomatoes.com/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://resizing.flixster.com,server-54-192-48-65.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://resizing.flixster.com,d11sv4epw55kpp.cloudfront.net.,Amazon CloudFront,cname
+http://staticv2-4.rottentomatoes.com,server-54-192-48-115.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://staticv2-4.rottentomatoes.com,d2q8sx37q947ja.cloudfront.net.,Amazon CloudFront,cname
-http://www.rottentomatoes.com/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/lists/theater/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/theaters/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/lists/dvd/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/lists/tv/,rtv2-production-2-6.rottentomatoes.com.,,none
+http://www.rottentomatoes.com/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/lists/theater/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/theaters/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/lists/dvd/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/lists/tv/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://d2a5cgar23scu2.cloudfront.net,server-54-192-48-9.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d2a5cgar23scu2.cloudfront.net,,Amazon CloudFront,name
-http://www.rottentomatoes.com/about/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/critics/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/browse/opening/,rtv2-production-2-6.rottentomatoes.com.,,none
-http://www.rottentomatoes.com/browse/in-theaters/,rtv2-production-2-6.rottentomatoes.com.,,none
+http://www.rottentomatoes.com/about/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/critics/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/browse/opening/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.rottentomatoes.com/browse/in-theaters/,server-54-192-48-84.jfk5.r.cloudfront.net,Amazon CloudFront,revdns

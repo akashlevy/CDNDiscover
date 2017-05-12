@@ -1,8 +1,13 @@
 http://www.xvideos.com/,xvideos.com.,,none
+http://img-hw.xvideos.com,vip0x054.map2.ssl.hwcdn.net,Highwinds,revdns
+http://img-hw.xvideos.com,,Highwinds,whois
 http://img-hw.xvideos.com,cds.g9c9c3d5.hwcdn.net.,Highwinds,cname
+http://static-hw.xvideos.com,vip0x054.map2.ssl.hwcdn.net,Highwinds,revdns
+http://static-hw.xvideos.com,,Highwinds,whois
 http://static-hw.xvideos.com,cds.q8q4g4t6.hwcdn.net.,Highwinds,cname
 http://www.xvideos.com/switch-theme,xvideos.com.,,none
 http://www.xvideos.com/,xvideos.com.,,none
+http://img-l3.xvideos.com,,Level 3,whois
 http://img-l3.xvideos.com,img-l3.xvideos.com.fpbns.net.,Level 3,cname
 http://www.xvideos.com/rss/rss.xml,xvideos.com.,,none
 http://www.xvideos.com/porn,xvideos.com.,,none

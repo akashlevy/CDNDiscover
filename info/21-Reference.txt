@@ -1,5 +1,5 @@
 http://www.psu.edu/,www.cac.psu.edu.,,none
-http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com,youtube-ui.l.google.com.,,none
 http://www.psu.edu,www.cac.psu.edu.,,none
 http://www.psu.edu/#main-content,www.cac.psu.edu.,,none
 http://www.psu.edu/academics/campuses,www.cac.psu.edu.,,none

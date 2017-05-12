@@ -1,4 +1,5 @@
 http://www.strava.com/,haproxy-s-haproxyb-dq766wd9c4iz-878722870.us-east-1.elb.amazonaws.com.,,none
+http://d3nn82uaxijpm6.cloudfront.net,server-54-230-51-15.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d3nn82uaxijpm6.cloudfront.net,,Amazon CloudFront,name
 http://www.strava.com/#footer,haproxy-s-haproxyb-dq766wd9c4iz-878722870.us-east-1.elb.amazonaws.com.,,none
 http://www.strava.com/,haproxy-s-haproxyb-dq766wd9c4iz-878722870.us-east-1.elb.amazonaws.com.,,none

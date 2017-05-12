@@ -1,0 +1,17 @@
+http://sports.yahoo.com/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://s3.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://sp.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://sports.yahoo.com/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://sports.yahoo.com/#Navigation,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://sports.yahoo.com/#Main,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://sports.yahoo.com/#Aside,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://sports.yahoo.com,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+https://sports.yahoo.com/fantasy/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://s1.yimg.com,s.gycs.b.yahoodns.net.,,none
+https://sports.yahoo.com/nfl/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+https://sports.yahoo.com/nba/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+https://sports.yahoo.com/thevertical/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
+http://art19.com,,,none
+http://embed.scribblelive.com,d3mi3dispi6388.cloudfront.net.,Amazon CloudFront,cname
+http://media.zenfs.com,ue45uw45.aa.zenfs.com.,,none

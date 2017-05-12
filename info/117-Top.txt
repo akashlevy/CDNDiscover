@@ -1,19 +1,38 @@
+http://www.ign.com/,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://oystatic.ignimgs.com,,Fastly,whois
 http://oystatic.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://privacy-policy.truste.com,server-54-192-49-134.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+http://assets14.ign.com,,Fastly,whois
 http://assets14.ign.com,ign.map.fastly.net.,Fastly,cname
+http://assets1.ignimgs.com,,Fastly,whois
 http://assets1.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://assets2.ignimgs.com,,Fastly,whois
 http://assets2.ignimgs.com,ign.map.fastly.net.,Fastly,cname
-http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://ad.doubleclick.net,dart.l.doubleclick.net.,,none
+http://0914.global.ssl.fastly.net,,Fastly,name
+http://0914.global.ssl.fastly.net,,Fastly,whois
 http://0914.global.ssl.fastly.net,global-ssl.fastly.net.,Fastly,cname
+http://cdn.ziffstatic.com,a23-33-97-79.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://cdn.ziffstatic.com,www.ziffdavis.com.edgekey.net.,Akamai,cname
+http://www.ign.com/,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/articles/2017/05/09/guillermo-del-toros-hellboy-3-that-never-was,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/articles/2017/05/09/guillermo-del-toros-hellboy-3-that-never-was,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/videos/2017/05/09/top-10-rpgs-of-all-time,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/videos/2017/05/09/top-10-rpgs-of-all-time,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/articles/2017/05/10/the-flash-cause-and-effect-review,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/articles/2017/05/10/the-flash-cause-and-effect-review,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://oyster.ignimgs.com,,Fastly,whois
 http://oyster.ignimgs.com,ign.map.fastly.net.,Fastly,cname
+http://www.ign.com/articles/2017/05/10/marvels-agents-of-shield-the-return-review,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/articles/2017/05/10/marvels-agents-of-shield-the-return-review,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/articles/2017/05/09/alien-covenant-untangling-aliens-complicated-timeline,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/articles/2017/05/09/alien-covenant-untangling-aliens-complicated-timeline,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/xbox-one,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/xbox-one,a009.ziffdavis.inscname.net.,Instart Logic,cname
+http://www.ign.com/xbox-360,a-sg01sl04.insnw.net,Instart Logic,revdns
 http://www.ign.com/xbox-360,a009.ziffdavis.inscname.net.,Instart Logic,cname

@@ -1,0 +1,13 @@
+http://fontawesome.io/,,,none
+http://ghbtns.com,,,none
+http://www.kickstarter.com,c.ssl.global.fastly.net.,Fastly,cname
+http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
+http://fontawesome.io/,,,none
+http://fontawesome.io/whats-new/,,,none
+http://fontawesome.io/get-started/,,,none
+http://fontawesome.io/icons/,,,none
+http://fontawesome.io/icons/#new,,,none
+http://fontawesome.io/icons/#web-application,,,none
+http://fontawesome.io/icons/#accessibility,,,none
+http://fontawesome.io/icons/#hand,,,none
+http://fontawesome.io/icons/#transportation,,,none

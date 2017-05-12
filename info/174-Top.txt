@@ -1,4 +1,5 @@
 https://www.box.com/,,,none
+http://cdn03.boxcdn.net,,Cloudflare,whois
 http://cdn03.boxcdn.net,cdn03.boxcdn.net.cdn.cloudflare.net.,Cloudflare,cname
 https://www.box.com/home,,,none
 https://www.box.com/,,,none

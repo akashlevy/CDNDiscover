@@ -1,13 +1,15 @@
-http://www.indeed.com/,us.dyn.indeed.com.,,none
-http://www.indeed.com/,us.dyn.indeed.com.,,none
-http://www.indeed.com/salaries,us.dyn.indeed.com.,,none
-http://www.indeed.com/Best-Places-to-Work,us.dyn.indeed.com.,,none
+http://www.indeed.com/,,Rackspace,whois
+http://www.indeed.com/,,Rackspace,whois
+http://www.indeed.com/salaries,,Rackspace,whois
+http://www.indeed.com/Best-Places-to-Work,,Rackspace,whois
+http://d2q79iu7y748jz.cloudfront.net,server-54-230-51-132.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d2q79iu7y748jz.cloudfront.net,,Amazon CloudFront,name
 http://platform.twitter.com,cs472.wac.edgecastcdn.net.,Edgecast,cname
-http://www.indeed.com/resumes?isid=find-resumes&ikw=hometop&co=US&hl=en,us.dyn.indeed.com.,,none
-http://www.indeed.com/hire?hl=en&cc=US,us.dyn.indeed.com.,,none
+http://www.indeed.com/resumes?isid=find-resumes&ikw=hometop&co=US&hl=en,,Rackspace,whois
+http://www.indeed.com/hire?hl=en&cc=US,,Rackspace,whois
+http://d3fw5vlhllyvee.cloudfront.net,server-54-230-51-104.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d3fw5vlhllyvee.cloudfront.net,,Amazon CloudFront,name
-http://www.indeed.com/promo/resume,us.dyn.indeed.com.,,none
-https://www.indeed.com/account/login?dest=%2F,us.dyn.indeed.com.,,none
-http://www.indeed.com/advanced_search?l=Princeton%2C+NJ,us.dyn.indeed.com.,,none
-http://www.indeed.com/jobs,us.dyn.indeed.com.,,none
+http://www.indeed.com/promo/resume,,Rackspace,whois
+https://www.indeed.com/account/login?dest=%2F,,Rackspace,whois
+http://www.indeed.com/advanced_search?l=Princeton%2C+NJ,,Rackspace,whois
+http://www.indeed.com/jobs,,Rackspace,whois

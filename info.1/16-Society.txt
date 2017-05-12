@@ -1,0 +1,14 @@
+http://match.com/http://pixel.33across.comhttp://r.turn.com,,,none
+http://cp.match.com,cp.match.com.edgesuite.net.,Akamai,cname
+http://leadback.advertising.com,ns.leadback.ace.advertising.com.adcom.akadns.net.,Akamai,cname
+http://secure.adnxs.com,g.geogslb.com.,,none
+http://secure.leadback.advertising.com,ns.leadback.ace.advertising.com.adcom.akadns.net.,Akamai,cname
+http://pubads.g.doubleclick.net,partnerad.l.doubleclick.net.,Google,cname
+http://s.amazon-adsystem.comhttp://stags.bluekai.com,,,none
+http://sp.analytics.yahoo.com,spdc-global.pbp.gysm.yahoodns.net.,,none
+http://view.atdmt.com,ad.atdmt.com.,,none
+http://match.com/login/login.aspxhttp://secureimages.match.com,,,none
+http://match.com/cp/index/domestic/49977/nl.htmlhttp://match.com/qsearch/qsearchdl.aspx?cl=1&po=1&gc=1&tr=2&lage=25&uage=45&r2s=1&cpp=floatingreg/index/defaulttest.htmlhttp://images.match.com,,,none
+http://securepictures.match.com,securepictures.match.com.edgekey.net.,Akamai,cname
+http://match.com/qsearch/qsearchdl.aspx?cl=1&po=1&gc=2&tr=1&lage=25&uage=45&r2s=1&cpp=floatingreg/index/defaulttest.htmlhttp://match.com/registration/privacystatement.aspx?lid=4#jumpAdChoiceshttp://match.com/cmbstudy/http://match.com/magazine/index.aspx?lid=446&lid=0http://match.com/online-dating/singles.htmlhttp://pictures.match.com,,,none
+http://match.com/2011-relationship-dating-statistics,,,none

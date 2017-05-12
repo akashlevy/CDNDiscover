@@ -1,0 +1,11 @@
+http://www.nih.gov/,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/#main-content,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/health-information,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/health-information/health-info-lines,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/health-information/nih-clinical-research-trials-you,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/talking-your-doctor,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/research-training/science-education,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/health-information/science-based-health-wellness-resources-your-community,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none
+http://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/clear-health-nih,dualstack.mc-5845-368179030.us-east-1.elb.amazonaws.com.,,none

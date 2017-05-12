@@ -1,16 +1,28 @@
+http://www.wowhead.com/,,Instart Logic,whois
 http://www.wowhead.com/,a005.zamnetwork.inscname.net.,Instart Logic,cname
 http://gslbeacon.lijit.com,vap.lijit.com.,,none
+http://wow.zamimg.com,a23-33-102-24.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://wow.zamimg.com,san.zamimg.com.edgekey.net.,Akamai,cname
-http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,,none
 http://us-u.openx.net,,,none
+http://acdn.adnxs.com,,Fastly,whois
 http://acdn.adnxs.com,prod.appnexus.map.fastly.net.,Fastly,cname
+http://www.wowhead.com/,,Instart Logic,whois
 http://www.wowhead.com/,a005.zamnetwork.inscname.net.,Instart Logic,cname
+https://www.wowhead.com/account=battlenet?r=1,,Instart Logic,whois
 https://www.wowhead.com/account=battlenet?r=1,a005.zamnetwork.inscname.net.,Instart Logic,cname
+http://www.wowhead.com/account=signin,,Instart Logic,whois
 http://www.wowhead.com/account=signin,a005.zamnetwork.inscname.net.,Instart Logic,cname
+https://www.wowhead.com/account=signup,,Instart Logic,whois
 https://www.wowhead.com/account=signup,a005.zamnetwork.inscname.net.,Instart Logic,cname
-http://www.google.com,,Google,name
+http://www.google.com,,,none
+http://www.wowhead.com/premium,,Instart Logic,whois
 http://www.wowhead.com/premium,a005.zamnetwork.inscname.net.,Instart Logic,cname
+http://www.wowhead.com/news&rss,,Instart Logic,whois
 http://www.wowhead.com/news&rss,a005.zamnetwork.inscname.net.,Instart Logic,cname
+http://www.wowhead.com/database,,Instart Logic,whois
 http://www.wowhead.com/database,a005.zamnetwork.inscname.net.,Instart Logic,cname
+http://www.wowhead.com/bluetracker,,Instart Logic,whois
 http://www.wowhead.com/bluetracker,a005.zamnetwork.inscname.net.,Instart Logic,cname
+http://www.wowhead.com/guides,,Instart Logic,whois
 http://www.wowhead.com/guides,a005.zamnetwork.inscname.net.,Instart Logic,cname

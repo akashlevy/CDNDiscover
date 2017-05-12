@@ -1,6 +1,6 @@
-https://translate.google.com/,www3.l.google.com.,Google,cname
-https://translate.google.com/?hl=en&tab=TT,www3.l.google.com.,Google,cname
-https://translate.google.com/,www3.l.google.com.,Google,cname
-https://translate.google.com/?hl=en&eotf=0,www3.l.google.com.,Google,cname
-https://translate.google.com/?tr=f&hl=en,www3.l.google.com.,Google,cname
-https://translate.google.com/?tr=t&hl=en,www3.l.google.com.,Google,cname
+https://translate.google.com/,www3.l.google.com.,,none
+https://translate.google.com/?hl=en&tab=TT,www3.l.google.com.,,none
+https://translate.google.com/,www3.l.google.com.,,none
+https://translate.google.com/?hl=en&eotf=0,www3.l.google.com.,,none
+https://translate.google.com/?tr=f&hl=en,www3.l.google.com.,,none
+https://translate.google.com/?tr=t&hl=en,www3.l.google.com.,,none

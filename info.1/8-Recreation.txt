@@ -1,0 +1,14 @@
+http://www.agoda.com/,e7851.x.akamaiedge.net.,Akamai,cname
+http://cdn6.agoda.net,e7852.x.akamaiedge.net.,Akamai,cname
+http://pix6.agoda.net,e7852.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/?cid=-1,e7851.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/info/agoda-faq.html?ckuid=85deffd4-33a1-419f-9ec4-21c0089a108f,e7851.x.akamaiedge.net.,Akamai,cname
+http://cdn0.agoda.net,e7852.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/,e7851.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/account/profile.html?ckuid=85deffd4-33a1-419f-9ec4-21c0089a108f,e7851.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/#tab-hotel,e7851.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/#tab-flight,e7851.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/pages/agoda/default/DestinationSearchResult.aspx?znrid=fe6502e5-f9a1-47c6-8152-5d8f1dee6c1c&city=9590&recommendedIndex=1&pageType=1&panel=recommendedcities,e7851.x.akamaiedge.net.,Akamai,cname
+http://maps.googleapis.com,googleapis.l.google.com.,Google,cname
+http://www.agoda.com/pages/agoda/default/DestinationSearchResult.aspx?znrid=fe6502e5-f9a1-47c6-8152-5d8f1dee6c1c&city=13170&recommendedIndex=2&pageType=1&panel=recommendedcities,e7851.x.akamaiedge.net.,Akamai,cname
+http://www.agoda.com/pages/agoda/default/DestinationSearchResult.aspx?znrid=fe6502e5-f9a1-47c6-8152-5d8f1dee6c1c&city=233&recommendedIndex=3&pageType=1&panel=recommendedcities,e7851.x.akamaiedge.net.,Akamai,cname

@@ -1,0 +1,15 @@
+http://www.npr.org/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://6635101.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://media.npr.org,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/#mainContent,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/music/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/books/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/sections/750000/about-npr/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://player.vimeo.com,,,none
+http://www.npr.org,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://platform.twitter.com,platform-eb.twitter.com.,,none
+http://www.npr.org/podcasts/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/sections/news/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/sections/arts/,wildcard.npr.org.edgekey.net.,Akamai,cname
+http://www.npr.org/programs,wildcard.npr.org.edgekey.net.,Akamai,cname

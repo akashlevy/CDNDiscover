@@ -1,9 +1,15 @@
 http://money.cnn.com/,,,none
 http://markets.money.cnn.com,markets.money.cnn.wallst.com.,,none
+http://offers.lendingtree.com,199.83.128.89.ip.incapdns.net,Incapsula,revdns
+http://offers.lendingtree.com,,Incapsula,whois
 http://offers.lendingtree.com,vmc7u.x.incapdns.net.,Incapsula,cname
-http://www.dianomi.com,,,none
+http://www.dianomi.com,,Cloudflare,whois
+http://i2.cdn.turner.com,a23-33-107-174.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://i2.cdn.turner.com,cdn.turner.com.edgekey.net.,Akamai,cname
+http://i.cdn.turner.com,a23-33-107-174.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://i.cdn.turner.com,cdn.turner.com.edgekey.net.,Akamai,cname
+http://widgets.lendingtree.com,107.154.102.180.ip.incapdns.net,Incapsula,revdns
+http://widgets.lendingtree.com,,Incapsula,whois
 http://widgets.lendingtree.com,9p9c8.x.incapdns.net.,Incapsula,cname
 http://money.cnn.com/services/privacy/,,,none
 http://money.cnn.com/services/terms.html,,,none

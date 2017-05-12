@@ -1,13 +1,26 @@
+http://www.babycenter.com/,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://tag.researchnow.com,a23-59-235-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://tag.researchnow.com,wildcard.researchnow.edgekey.net.,Akamai,cname
+http://assets.babycenter.com,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://assets.babycenter.com,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+https://www.babycenter.com/?PageSpeed=noscript,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.babycenter.com/?PageSpeed=noscript,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/baby-products-and-gear,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/baby-products-and-gear,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/mission-motherhood,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/mission-motherhood,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/newsletters,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/newsletters,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/mobile-apps,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/mobile-apps,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/bookmarks.htm,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/bookmarks.htm,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/login.htm?siteSource=classic-loginTop&brandChannel=expert&pageName=BC Homepage,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/login.htm?siteSource=classic-loginTop&brandChannel=expert&pageName=BC Homepage,san-ion.babycenter.com.edgekey.net.,Akamai,cname
+http://www.babycenter.com/register.htm?siteSource=classic-signUpTop&brandChannel=expert&pageName=BC Homepage,a23-65-242-67.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.babycenter.com/register.htm?siteSource=classic-signUpTop&brandChannel=expert&pageName=BC Homepage,san-ion.babycenter.com.edgekey.net.,Akamai,cname

@@ -1,16 +1,40 @@
+http://www.webmd.com/,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/,,Incapsula,whois
 http://www.webmd.com/,4wqaf.x.incapdns.net.,Incapsula,cname
+http://privacy-policy.truste.com,server-54-192-49-53.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
 http://www.honcode.ch,,,none
+http://img.webmd.com,,Akamai,whois
 http://img.webmd.com,i.wbmdstatic.com.edgekey.net.,Akamai,cname
+http://www.webmd.com/#main-content,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/#main-content,,Incapsula,whois
 http://www.webmd.com/#main-content,4wqaf.x.incapdns.net.,Incapsula,cname
+http://www.webmd.com/rx,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/rx,,Incapsula,whois
 http://www.webmd.com/rx,4wqaf.x.incapdns.net.,Incapsula,cname
+http://choices.truste.com,server-54-192-49-31.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://choices.truste.com,d361oi6ppvq2ym.cloudfront.net.,Amazon CloudFront,cname
+http://www.webmd.com/,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/,,Incapsula,whois
 http://www.webmd.com/,4wqaf.x.incapdns.net.,Incapsula,cname
+http://www.webmd.com/signout.asp,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/signout.asp,,Incapsula,whois
 http://www.webmd.com/signout.asp,4wqaf.x.incapdns.net.,Incapsula,cname
+http://www.webmd.com,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com,,Incapsula,whois
 http://www.webmd.com,4wqaf.x.incapdns.net.,Incapsula,cname
+http://www.webmd.com/a-to-z-guides/common-topics/default.htm,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/a-to-z-guides/common-topics/default.htm,,Incapsula,whois
 http://www.webmd.com/a-to-z-guides/common-topics/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname
+http://bi.medscape.com,a23-59-217-187.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://bi.medscape.com,bi.medscape.com.edgekey.net.,Akamai,cname
 http://pn1.adserver.yahoo.com,global1.adserver.gysm.yahoodns.net.,,none
+http://www.webmd.com/add-adhd/default.htm,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/add-adhd/default.htm,,Incapsula,whois
 http://www.webmd.com/add-adhd/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname
+http://www.webmd.com/allergies/default.htm,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/allergies/default.htm,,Incapsula,whois
 http://www.webmd.com/allergies/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname
+http://www.webmd.com/arthritis/default.htm,199.83.128.133.ip.incapdns.net,Incapsula,revdns
+http://www.webmd.com/arthritis/default.htm,,Incapsula,whois
 http://www.webmd.com/arthritis/default.htm,4wqaf.x.incapdns.net.,Incapsula,cname

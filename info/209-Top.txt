@@ -3,8 +3,9 @@ http://cdn.pixabay.com,,,none
 http://www.pixabay.com/en/editors_choice/,,,none
 http://www.pixabay.com/en/photos/?order=popular,,,none
 http://www.pixabay.com/en/videos/,,,none
-http://player.vimeo.com,,,none
+http://player.vimeo.com,,Fastly,whois
 http://pagewizz.com,,,none
+http://i.vimeocdn.com,,Fastly,whois
 http://i.vimeocdn.com,prod.vimeo-video.map.fastly.net.,Fastly,cname
 http://www.pixabay.com/en/users/,,,none
 http://www.pixabay.com/en/cameras/,,,none

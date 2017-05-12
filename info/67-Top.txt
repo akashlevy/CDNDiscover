@@ -1,9 +1,13 @@
 http://www.flipkart.com/,flipkart.com.,,none
+http://rukminim1.flixcart.com,a23-206-229-157.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://rukminim1.flixcart.com,pmdssl.flixkart.com.edgekey.net.,Akamai,cname
+http://img1a.flixcart.com,a23-206-229-157.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://img1a.flixcart.com,pmdssl.flixkart.com.edgekey.net.,Akamai,cname
 http://www.flipkart.com/buy-gift-voucher?otracker=ch_vn_gift-voucher,flipkart.com.,,none
+http://img6a.flixcart.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://img6a.flixcart.com,pmd.flixkart.com.edgesuite.net.,Akamai,cname
 http://www.flipkart.com/helpcentre,flipkart.com.,,none
+http://img5a.flixcart.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://img5a.flixcart.com,pmd.flixkart.com.edgesuite.net.,Akamai,cname
 http://www.flipkart.com/account/orders,flipkart.com.,,none
 http://www.flipkart.com/notifications?otracker=Notifications_view_all,flipkart.com.,,none

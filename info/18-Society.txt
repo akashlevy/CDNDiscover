@@ -1,12 +1,24 @@
+http://www.collegeboard.org/,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://privacy-policy.truste.com,server-54-192-49-31.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+http://www.collegeboard.org/#menu,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/#menu,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://www.collegeboard.org/?navId=www-cb,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/?navId=www-cb,www.collegeboard.org.edgekey.net.,Akamai,cname
+https://www.collegeboard.org/powerfaids,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.collegeboard.org/powerfaids,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://www.collegeboard.org,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://www.collegeboard.org/about,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/about,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://www.collegeboard.org/membership,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/membership,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://www.collegeboard.org/press,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/press,www.collegeboard.org.edgekey.net.,Akamai,cname
+http://www.collegeboard.org/#cb-global-header,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.collegeboard.org/#cb-global-header,www.collegeboard.org.edgekey.net.,Akamai,cname
+https://www.collegeboard.org/powerfaids?navId=gf-pfaid,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.collegeboard.org/powerfaids?navId=gf-pfaid,www.collegeboard.org.edgekey.net.,Akamai,cname
+https://www.collegeboard.org/about?navId=gf-abt,a23-65-242-113.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.collegeboard.org/about?navId=gf-abt,www.collegeboard.org.edgekey.net.,Akamai,cname

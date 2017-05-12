@@ -1,0 +1,14 @@
+http://www.healthgrades.com/,,,none
+http://d26ua9paks4zq.cloudfront.net,,Amazon CloudFront,name
+http://d1ffafozi03i4l.cloudfront.net,,Amazon CloudFront,name
+http://www.healthgrades.com,,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.healthgrades.com/,,,none
+http://www.healthgrades.com/usearch?what=Family Medicine&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Pediatrics&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Internal Medicine&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Dentistry&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Cardiology&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Obstetrics & Gynecology&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Orthopedic Surgery&where=Princeton,,,none
+http://www.healthgrades.com/usearch?what=Ophthalmology&where=Princeton,,,none

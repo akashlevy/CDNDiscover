@@ -1,6 +1,6 @@
 http://www.azlyrics.com/,,,none
 http://www.azlyrics.com,,,none
-http://www.facebook.com,star-mini.c10r.facebook.com.,Facebook,cname
+http://www.facebook.com,star-mini.c10r.facebook.com.,,none
 http://images.azlyrics.com,,,none
 http://www.azlyrics.com,,,none
 http://www.azlyrics.com/a.html,,,none

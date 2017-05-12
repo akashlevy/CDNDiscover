@@ -1,14 +1,27 @@
+http://www.accuweather.com/,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/,www.accuweather.com.edgekey.net.,Akamai,cname
+http://sirocco.accuweather.com,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://sirocco.accuweather.com,sirocco.accuweather.com.edgekey.net.,Akamai,cname
+http://vortex.accuweather.com,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://vortex.accuweather.com,vortex.accuweather.com.edgekey.net.,Akamai,cname
-http://accuweather.brightspotcdn.com,cdn.accuweather.psdops.com.,,none
+http://accuweather.brightspotcdn.com,server-54-192-48-254.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.accuweather.com/en/us/princeton-nj/08544/weather-forecast/339523,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/us/princeton-nj/08544/weather-forecast/339523,www.accuweather.com.edgekey.net.,Akamai,cname
+http://ec.c.ooyala.com,server-54-192-48-205.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://ec.c.ooyala.com,d38me01vvwrazi.cloudfront.net.,Amazon CloudFront,cname
+http://www.accuweather.com/en/us/new-york-ny/10017/weather-forecast/349727,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/us/new-york-ny/10017/weather-forecast/349727,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/miami-fl/33128/weather-forecast/347936,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/us/miami-fl/33128/weather-forecast/347936,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/los-angeles-ca/90012/weather-forecast/347625,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/us/los-angeles-ca/90012/weather-forecast/347625,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/browse-locations,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/browse-locations,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/#menu-country,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/#menu-country,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/us/united-states-weather,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/us/united-states-weather,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/cn/china-weather,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/cn/china-weather,www.accuweather.com.edgekey.net.,Akamai,cname
+http://www.accuweather.com/en/gb/united-kingdom-weather,a23-65-236-98.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.accuweather.com/en/gb/united-kingdom-weather,www.accuweather.com.edgekey.net.,Akamai,cname

@@ -1,0 +1,15 @@
+http://luscious.net/,,,none
+http://cdna.luscious.net,1654771672.rsc.cdn77.org.,CDN77,cname
+http://cdnvo.luscious.net,1516334968.rsc.cdn77.org.,CDN77,cname
+http://assets.luscious.net,1964890999.rsc.cdn77.org.,CDN77,cname
+http://cdnio.luscious.net,1637725328.rsc.cdn77.org.,CDN77,cname
+http://luscious.net/,,,none
+http://luscious.net/manga/,,,none
+http://luscious.net/c/futanari_manga/,,,none
+http://luscious.net/c/hentai_manga/,,,none
+http://luscious.net/c/incest_manga/,,,none
+http://luscious.net/c/trap_manga/,,,none
+http://luscious.net/c/western_manga/,,,none
+http://luscious.net/community/page/1/#manga,,,none
+http://cdni.luscious.net,1637725328.rsc.cdn77.org.,CDN77,cname
+http://luscious.net/pictures/,,,none

@@ -1,12 +1,24 @@
+http://www.weather.com/,a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://dsx.weather.com,a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://dsx.weather.com,dsx.weather.com.edgekey.net.,Akamai,cname
+http://s.w-x.co,,Fastly,whois
 http://s.w-x.co,prod.weather.map.fastly.net.,Fastly,cname
+http://www.weather.com/news/trending/video/long-long-beach-suddenly-is-back,a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/news/trending/video/long-long-beach-suddenly-is-back,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/{{::gcmVm.settings.template_config.see_more_link}},a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/{{::gcmVm.settings.template_config.see_more_link}},pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/{{::(gcmVm.dsxCorsicans[key].link ? gcmVm.dsxCorsicans[key].link.url : gcmVm.dsxCorsicans[key].url)}},a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/{{::(gcmVm.dsxCorsicans[key].link ? gcmVm.dsxCorsicans[key].link.url : gcmVm.dsxCorsicans[key].url)}},pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/{{::gcmVm.dsxCorsicans[key].category_link}},a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/{{::gcmVm.dsxCorsicans[key].category_link}},pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/{{::(gcmVm.dsxCorsicans[key].link ? gcmVm.dsxCorsicans[key].link.url : '')}},a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/{{::(gcmVm.dsxCorsicans[key].link ? gcmVm.dsxCorsicans[key].link.url : '')}},pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/{{gcmVm.firstCorsican.category_link}},a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/{{gcmVm.firstCorsican.category_link}},pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/{{(gcmVm.firstCorsican.link ? gcmVm.firstCorsican.link.url : '')}},a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/{{(gcmVm.firstCorsican.link ? gcmVm.firstCorsican.link.url : '')}},pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/life/local-advertise-self-serve,a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/life/local-advertise-self-serve,pmd-www.weather.com.edgekey.net.,Akamai,cname
+http://www.weather.com/tv,a23-33-142-15.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.weather.com/tv,pmd-www.weather.com.edgekey.net.,Akamai,cname

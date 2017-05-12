@@ -7,7 +7,7 @@ CATEGORIES = 'Adult Arts Business Computers Games Health Home Kids_and_Teens \
               Sports'
 
 
-def run(categ='Top'):
+def run(categ='Top', num=250):
     '''Compiles the information into a CSV'''
     # Get top URLs
     topurls = open('rankings/%s.txt' % categ).read().splitlines()
@@ -16,7 +16,7 @@ def run(categ='Top'):
     # Open output file
     with open('out/out_%s.csv' % categ, 'w') as outfile:
         # Iterate through files
-        for i, url in enumerate(topurls[:25]):
+        for i, url in enumerate(topurls[:num]):
             outfile.write(url + ',')
             filename = 'info/%d-%s.txt' % (i, categ)
             # Open file
@@ -47,7 +47,7 @@ def run(categ='Top'):
 
                 # Remove Google/Facebook and CDNs where counts are too low
                 for cdn, count in counts.items():
-                    if count < 3 or cdn in ['Google', 'Facebook']:
+                    if count < 4 or cdn == 'Twitter':
                         del counts[cdn]
 
                 # Get maximum CDN counts
@@ -61,5 +61,6 @@ def run(categ='Top'):
 
 # Run the CDN finder
 if __name__ == '__main__':
+    run()
     for cat in CATEGORIES.split():
-        run(cat)
+        run(cat, 25)

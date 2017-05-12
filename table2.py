@@ -14,7 +14,7 @@ def run(categ='Top'):
     total = float(sum(freq.values()))
 
     # Generate LaTeX tables
-    with open('table2.tex', 'w') as texfile:
+    with open('out/table2.tex', 'w') as texfile:
         # Table header
         texfile.write('\\begin{table}[tbp]\n')
         texfile.write('\\centering\n')

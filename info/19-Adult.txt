@@ -1,4 +1,5 @@
 http://www.ebaumsworld.com/,ebaumsworld.com.,,none
+http://cdn.ebaumsworld.com,,Level 3,whois
 http://cdn.ebaumsworld.com,cdn.best-tv.com.c.footprint.net.,Level 3,cname
 http://www.ebaumsworld.com/,ebaumsworld.com.,,none
 http://www.ebaumsworld.com/videos/,ebaumsworld.com.,,none

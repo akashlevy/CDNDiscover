@@ -1,0 +1,4 @@
+http://mail.aol.com/,cs441.adn.betacdn.net.,,none
+http://sns-login-screen.comet.aol.com,,,none
+http://sns-static.aolcdn.com,sns-static.aolcdn.com.aol.akadns.net.,Akamai,cname
+http://s.aolcdn.com,cs629.wpc.lambdacdn.net.,,none

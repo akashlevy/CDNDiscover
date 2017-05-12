@@ -1,1 +1,1 @@
-http://www.curse.com/,,,none
+http://www.curse.com/,,Cloudflare,whois

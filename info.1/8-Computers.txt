@@ -1,0 +1,13 @@
+http://search.yahoo.com/,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
+http://l.yimg.com,l.gycs.b.yahoodns.net.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMA7cCl87UF,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMACMGl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Besty+DeVos&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+http://sp.yimg.com,s.gycs.b.yahoodns.net.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMAB8Gl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Besty+DeVos&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMACsGl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Jared+Kushner&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMACcGl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Jared+Kushner&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMADMGl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Jennifer+Beals&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMAC8Gl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Jennifer+Beals&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMADsGl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Bonner+Bolton&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none
+https://search.yahoo.com/search;_ylt=A0LEVzrD_RNZyGMADcGl87UF;_ylu=X3oDMTEyZ3VuZ2w0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjM5MTBfMQRzZWMDc2M-?p=Bonner+Bolton&fr2=p:s,ds2-global.l7.search.ystg1.b.yahoo.com.,,none

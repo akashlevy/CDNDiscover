@@ -6,7 +6,7 @@ https://www.porn.com/#drop,porn.com.,,none
 https://www.porn.com/#login,porn.com.,,none
 https://www.porn.com/#join,porn.com.,,none
 https://www.porn.com/blog,porn.com.,,none
-http://delivery.porn.com,,,none
+http://delivery.porn.com,,Reflected Networks,whois
 http://www.porn.com,porn.com.,,none
 https://www.porn.com/account/videos,porn.com.,,none
 https://www.porn.com/account/likes,porn.com.,,none

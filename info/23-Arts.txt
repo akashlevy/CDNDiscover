@@ -1,6 +1,8 @@
 http://www.discogs.com/,,,none
+http://s.discogs.com,,Fastly,whois
 http://s.discogs.com,f.global-ssl.fastly.net.,Fastly,cname
 http://b1img.com,,,none
+http://img.discogs.com,,Fastly,whois
 http://img.discogs.com,f.global-ssl.fastly.net.,Fastly,cname
 http://www.discogs.com/,,,none
 http://www.discogs.com/search/,,,none

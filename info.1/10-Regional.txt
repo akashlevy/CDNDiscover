@@ -1,0 +1,11 @@
+http://www.google.com.au/,,Google,name
+http://www.google.com.au/setprefs?suggon=2&prev=https://www.google.com.au/?gws_rd%3Dssl&sig=0_CZKKXMZNnZl-3dkq5C53Re3GSXg%3D,,Google,name
+https://www.google.com.au/imghp?hl=en&tab=wi&ei=WDEUWdXQK8TymAGErpFA&ved=0EKouCBYoAQ,,Google,name
+https://www.google.com.au/intl/en/options/,,Google,name
+http://lh3.googleusercontent.com,googlehosted.l.googleusercontent.com.,Google,cname
+https://www.google.com.au/webhp?hl=en&sa=X&ved=0ahUKEwi7r97vxefTAhVD0iYKHakMC0EQPAgD,,Google,name
+http://www.google.com.au/,,Google,name
+http://www.google.com.au/intl/en/policies/privacy/?fg=1,,Google,name
+http://www.google.com.au/intl/en/policies/terms/?fg=1,,Google,name
+https://www.google.com.au/preferences?hl=en,,Google,name
+https://www.google.com.au/preferences?hl=en-AU&fg=1,,Google,name

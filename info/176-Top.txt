@@ -1,2 +1,4 @@
+https://www.ups.com/,a23-65-241-79.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.ups.com/,ev.ups.com.akadns.net.,Akamai,cname
+https://www.ups.com/#skip_link_content,a23-65-241-79.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.ups.com/#skip_link_content,ev.ups.com.akadns.net.,Akamai,cname

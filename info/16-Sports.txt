@@ -1,5 +1,5 @@
 http://www.flashscore.com/,flashscore.com.,,none
-http://4898337.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://4898337.fls.doubleclick.net,dart.l.doubleclick.net.,,none
 http://www.flashscore.com/mobile/#android,flashscore.com.,,none
 http://www.flashscore.com/,flashscore.com.,,none
 http://www.flashscore.com/terms/,flashscore.com.,,none

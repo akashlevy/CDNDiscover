@@ -1,4 +1,6 @@
 http://spanishdict.com/,,,none
+http://n1.global.ssl.fastly.net,,Fastly,name
+http://n1.global.ssl.fastly.net,,Fastly,whois
 http://n1.global.ssl.fastly.net,global-ssl.fastly.net.,Fastly,cname
 http://spanishdict.com/,,,none
 http://spanishdict.com/blog,,,none
@@ -8,9 +10,12 @@ http://spanishdict.com/conjugation,,,none
 http://spanishdict.com/learn,,,none
 http://spanishdict.com/flashcards,,,none
 http://spanishdict.com/guide,,,none
+http://d25rq8gxcq0p71.cloudfront.net,server-54-230-51-145.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d25rq8gxcq0p71.cloudfront.net,,Amazon CloudFront,name
 http://spanishdict.com/answers,,,none
+http://d3a0qgi8zn57a2.cloudfront.net,server-54-230-51-55.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d3a0qgi8zn57a2.cloudfront.net,,Amazon CloudFront,name
 http://spanishdict.com/wordoftheday,,,none
 http://sd-wotd.s3.amazonaws.com,s3-1-w.amazonaws.com.,,none
+http://d2bgidt1746k98.cloudfront.net,server-54-230-51-48.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d2bgidt1746k98.cloudfront.net,,Amazon CloudFront,name

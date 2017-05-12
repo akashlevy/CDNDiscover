@@ -1,0 +1,16 @@
+http://allrecipes.com/,,,none
+http://pubads.g.doubleclick.net,partnerad.l.doubleclick.net.,Google,cname
+http://images.media-allrecipes.com,images.mediaallrecipes.com.edgesuite.net.,Akamai,cname
+http://images.allrecipes.com,images.mediaallrecipes.com.edgesuite.net.,Akamai,cname
+http://cdn.betrad.com,wildcard.betrad.com.edgekey.net.,Akamai,cname
+http://secureimages.allrecipes.com,,,none
+http://allrecipes.com/new-this-month/,,,none
+http://allrecipes.com/,,,none
+http://allrecipes.com/cook/my/favorites/,,,none
+http://a248.e.akamai.net,,Akamai,name
+http://allrecipes.com/account/authenticationwelcome/,,,none
+http://allrecipes.com/recipes/76/appetizers-and-snacks/,,,none
+http://allrecipes.com/recipes/78/breakfast-and-brunch/,,,none
+http://allrecipes.com/recipes/79/desserts/,,,none
+http://allrecipes.com/recipes/17562/dinner/,,,none
+http://allrecipes.com/recipes/77/drinks/,,,none

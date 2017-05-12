@@ -1,5 +1,6 @@
 http://www.amazon.ca/,www.cdn.amazon.ca.,,none
 http://fls-na.amazon.ca,fls-na.amazon.com.,,none
+http://images-na.ssl-images-amazon.com,server-54-230-49-62.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
 http://www.amazon.ca/ref=nav_logo/140-0967362-6174254,www.cdn.amazon.ca.,,none
 http://www.amazon.ca/gp/prime/ref=nav_logo_prime_join/140-0967362-6174254,www.cdn.amazon.ca.,,none

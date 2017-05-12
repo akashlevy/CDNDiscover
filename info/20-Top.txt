@@ -4,7 +4,7 @@ http://customer.mediawallahscript.com,mwcustomer-prod.us-east-1.elasticbeanstalk
 https://wordpress.com/,,,none
 https://wordpress.com/learn-more/?v=site,,,none
 http://data.adxcel-ec2.com,,,none
-http://6355556.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://6355556.fls.doubleclick.net,dart.l.doubleclick.net.,,none
 https://wordpress.com/learn-more/?v=blog,,,none
 https://wordpress.com/features/,,,none
 http://s0.wp.com,,WordPress,name

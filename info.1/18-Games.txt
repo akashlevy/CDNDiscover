@@ -1,0 +1,15 @@
+http://www.teamliquid.net/,,,none
+http://www.teamliquid.net,,,none
+http://img.youtube.com,ytimg.l.google.com.,Google,cname
+http://www.teamliquid.net/mytlnet/login,,,none
+http://www.google.com,,Google,name
+http://www.teamliquid.net/mytlnet/register,,,none
+http://www.teamliquid.net/,,,none
+http://www.teamliquid.net/forum/,,,none
+http://www.teamliquid.net/calendar/,,,none
+http://www.teamliquid.net/video/streams/,,,none
+http://static-cdn.jtvnw.net,static-cdn-jtvnw-net.web-cdn.twitch.tv.,,none
+http://www.teamliquid.net/features/,,,none
+http://www.teamliquid.net/heroes/,,,none
+http://wiki.teamliquid.net,,,none
+http://www.teamliquid.net/plus/,,,none

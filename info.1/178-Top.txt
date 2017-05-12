@@ -1,0 +1,10 @@
+http://www.ultimate-guitar.com/,,,none
+http://cdn.ustatik.com,img.ustatik.com.,,none
+https://www.ultimate-guitar.com/,,,none
+https://www.ultimate-guitar.com/feed/,,,none
+https://www.ultimate-guitar.com/reviews/,,,none
+http://secure.adnxs.com,g.geogslb.com.,,none
+https://www.ultimate-guitar.com/lessons/,,,none
+https://www.ultimate-guitar.com/forum/,,,none
+https://www.ultimate-guitar.com/en/wiki/,,,none
+http://www.ultimate-guitar.com/updates/?filter=tabs,,,none

@@ -1,0 +1,21 @@
+http://www.premierleague.com/,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+http://resources-pl.pulselive.com,d1dl8fof0t29xj.cloudfront.net.,Amazon CloudFront,cname
+http://cdn.pulselive.com,d3ax0r1e1vfrne.cloudfront.net.,Amazon CloudFront,cname
+http://platform-static-files.s3.amazonaws.com,s3-1-w.amazonaws.com.,,none
+http://premierleague-static-files.s3.amazonaws.com,s3-1-w.amazonaws.com.,,none
+http://www.premierleague.com/#mainNav,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+http://www.premierleague.com/#mainContent,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+http://www.premierleague.com/        http://www.afcb.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none
+http://www.premierleague.com/        http://www.arsenal.com?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none
+http://www.premierleague.com/        http://www.burnleyfootballclub.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none
+http://www.premierleague.com/        https://www.chelseafc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none
+http://www.premierleague.com/        http://www.cpfc.co.uk/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none
+http://www.premierleague.com/        http://www.evertonfc.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none
+http://www.premierleague.com/        http://www.hullcitytigers.com/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link,dyuqfo86kvakg.cloudfront.net.,Amazon CloudFront,cname
+,,,none

@@ -1,0 +1,16 @@
+http://www.youtube.com/,youtube-ui.l.google.com.,Google,cname
+http://pubads.g.doubleclick.net,partnerad.l.doubleclick.net.,Google,cname
+http://i.ytimg.com,ytimg.l.google.com.,Google,cname
+http://yt3.ggpht.com,photos-ugc.l.googleusercontent.com.,Google,cname
+http://www.youtube.com/,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com/upload,youtube-ui.l.google.com.,Google,cname
+http://accounts.youtube.com,www3.l.google.com.,Google,cname
+http://www.gstatic.com,,Google,name
+http://www.youtube.com/feed/trending,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com/feed/history,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com/red,youtube-ui.l.google.com.,Google,cname
+http://s.ytimg.com,ytstatic.l.google.com.,Google,cname
+http://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg,youtube-ui.l.google.com.,Google,cname
+http://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g,youtube-ui.l.google.com.,Google,cname

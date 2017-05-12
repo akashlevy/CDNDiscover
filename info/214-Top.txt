@@ -1,15 +1,30 @@
+http://www.wsj.com/,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://si.wsj.net,a23-212-97-248.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://si.wsj.net,s.wsj.net.edgekey.net.,Akamai,cname
+http://art.wsj.net,a23-212-97-248.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://art.wsj.net,art.wsj.net.edgekey.net.,Akamai,cname
+http://m.wsj.net,a23-212-97-248.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://m.wsj.net,m.wsj.net.edgekey.net.,Akamai,cname
+http://www.wsj.com/,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+https://www.wsj.com/,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 https://www.wsj.com/,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com/itp,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/itp,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://vir.wsj.net,server-54-192-48-236.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://vir.wsj.net,d3r007o0al06ey.cloudfront.net.,Amazon CloudFront,cname
+https://www.wsj.com/news/world,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 https://www.wsj.com/news/world,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://s.wsj.net,a23-212-97-248.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://s.wsj.net,s.wsj.net.edgekey.net.,Akamai,cname
+http://www.wsj.com/news/world/africa,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/news/world/africa,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com/news/world/asia,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/news/world/asia,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com/news/world/canada,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/news/world/canada,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname
+http://www.wsj.com/news/world/china,server-54-192-48-17.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.wsj.com/news/world/china,d1ovj3n8pftarl.cloudfront.net.,Amazon CloudFront,cname

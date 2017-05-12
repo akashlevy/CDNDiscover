@@ -1,0 +1,14 @@
+http://www.wellsfargo.com/,,,none
+http://www20.wellsfargomedia.com,www20.wellsfargomedia.com.edgekey.net.,Akamai,cname
+http://www01.wellsfargomedia.com,www01.wellsfargomedia.com.edgekey.net.,Akamai,cname
+http://www04.wellsfargomedia.com,www04.wellsfargomedia.com.edgekey.net.,Akamai,cname
+http://www.wellsfargo.com/#skip,,,none
+http://www.wellsfargo.com/,,,none
+http://www.wellsfargo.com/help/,,,none
+http://adfarm.mediaplex.com,ad.mediaplex.com.,,none
+http://www.wellsfargo.com/locator/,,,none
+http://www.wellsfargo.com/spanish/,,,none
+http://www.wellsfargo.com/biz/,,,none
+http://www.wellsfargo.com/com/,,,none
+http://www.wellsfargo.com/financial-education/,,,none
+http://www.wellsfargo.com/about/,,,none

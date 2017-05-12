@@ -1,5 +1,5 @@
 http://aws.amazon.com/,,,none
-http://d0.awsstatic.com,,,none
+http://d0.awsstatic.com,server-54-192-48-114.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 https://aws.amazon.com/?nc2=h_lg,,,none
 https://aws.amazon.com/de/?nc1=h_ls,,,none
 https://aws.amazon.com/?nc1=h_ls,,,none

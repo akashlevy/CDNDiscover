@@ -1,13 +1,13 @@
-https://bongacams.com/,,,none
+https://bongacams.com/,,Reflected Networks,whois
 http://i2.bongacams.com,sobj.i7.bongacams.net.,,none
-https://bongacams.com/,,,none
-https://bongacams.com/all-models,,,none
-https://bongacams.com/top-models,,,none
-http://ius1.bongacams.com,i.bongacams.com.small.rncdn7.com.,,none
-https://bongacams.com/ /free-tokens/top-members,,,none
-https://bongacams.com/members/join,,,none
-https://bongacams.com/forgot-password,,,none
-https://bongacams.com/ajax-member-chat-faq?section=private,,,none
-http://ius.bongacams.com,ius.bongacams.com.small.rncdn7.com.,,none
-https://bongacams.com/ajax-member-chat-faq?section=fullprivate,,,none
-https://bongacams.com/ajax-member-chat-faq?section=group,,,none
+https://bongacams.com/,,Reflected Networks,whois
+https://bongacams.com/all-models,,Reflected Networks,whois
+https://bongacams.com/top-models,,Reflected Networks,whois
+http://ius1.bongacams.com,i.bongacams.com.small.rncdn7.com.,Reflected Networks,cname
+https://bongacams.com/ /free-tokens/top-members,,Reflected Networks,whois
+https://bongacams.com/members/join,,Reflected Networks,whois
+https://bongacams.com/forgot-password,,Reflected Networks,whois
+https://bongacams.com/ajax-member-chat-faq?section=private,,Reflected Networks,whois
+http://ius.bongacams.com,ius.bongacams.com.small.rncdn7.com.,Reflected Networks,cname
+https://bongacams.com/ajax-member-chat-faq?section=fullprivate,,Reflected Networks,whois
+https://bongacams.com/ajax-member-chat-faq?section=group,,Reflected Networks,whois

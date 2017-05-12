@@ -1,16 +1,19 @@
-https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/,cs34.adn.handmadecdn.net.,,none
+http://www.etsystudio.com,,Fastly,whois
 http://www.etsystudio.com,etsy.map.fastly.net.,Fastly,cname
+http://img1.etsystatic.com,a172-229-59-163.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://img1.etsystatic.com,img1.etsystatic.com.edgekey.net.,Akamai,cname
-http://img0.etsystatic.com,img0.etsystatic.com.edgekey.net.,Akamai,cname
-http://www.etsy.com,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/terms_of_use.php?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/help/article/480?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname
+http://img0.etsystatic.com,cs136.wac.handmadecdn.net.,,none
+http://www.etsy.com,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/terms_of_use.php?ref=reg,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/help/article/480?ref=reg,cs34.adn.handmadecdn.net.,,none
+http://privacy-policy.truste.com,server-54-192-49-31.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
-https://www.etsy.com/forgot_password.php?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/help/article/18?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/reopen_account.php?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/?ref=lgo,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/#content,dsd.etsy.com.edgekey.net.,Akamai,cname
-https://www.etsy.com/sell?ref=hdr&from_page=https%3A%2F%2Fwww.etsy.com%2F,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/forgot_password.php?ref=signin,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/help/article/18?ref=signin,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/reopen_account.php?ref=signin,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/?ref=lgo,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/#content,cs34.adn.handmadecdn.net.,,none
+https://www.etsy.com/sell?ref=hdr&from_page=https%3A%2F%2Fwww.etsy.com%2F,cs34.adn.handmadecdn.net.,,none
 http://blog.etsy.com,,,none

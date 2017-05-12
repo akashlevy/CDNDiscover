@@ -1,17 +1,23 @@
-http://dailymail.co.uk/,,,none
+http://dailymail.co.uk/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://i.dailymail.co.uk,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://i.dailymail.co.uk,i.dailymail.co.uk.edgesuite.net.,Akamai,cname
+http://f.mol.im,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
 http://f.mol.im,f.mol.im.edgesuite.net.,Akamai,cname
+http://i.mol.im,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
 http://i.mol.im,i.mol.im.edgesuite.net.,Akamai,cname
+http://video.dailymail.co.uk,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
 http://video.dailymail.co.uk,video.dailymail.co.uk.edgesuite.net.,Akamai,cname
-http://dailymail.co.uk/,,,none
-http://dailymail.co.uk/ushome/index.html,,,none
-http://dailymail.co.uk/home/index.html,,,none
+http://dailymail.co.uk/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://dailymail.co.uk/ushome/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://dailymail.co.uk/home/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://d3tsytm1wtjqo2.cloudfront.net,server-54-230-51-180.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://d3tsytm1wtjqo2.cloudfront.net,,Amazon CloudFront,name
-http://dailymail.co.uk/news/index.html,,,none
+http://dailymail.co.uk/news/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
 http://amch.questionmarket.com,,,none
-http://dailymail.co.uk/sport/index.html,,,none
-http://ad.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://dailymail.co.uk/sport/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://ad.doubleclick.net,dart.l.doubleclick.net.,,none
+http://nagme.dailymail.co.uk,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
 http://nagme.dailymail.co.uk,nagme.dailymail.co.uk.edgesuite.net.,Akamai,cname
-http://dailymail.co.uk/usshowbiz/index.html,,,none
-http://dailymail.co.uk/auhome/index.html,,,none
-http://dailymail.co.uk/health/index.html,,,none
+http://dailymail.co.uk/usshowbiz/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://dailymail.co.uk/auhome/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://dailymail.co.uk/health/index.html,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns

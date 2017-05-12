@@ -1,0 +1,11 @@
+http://www.gizmodo.com/,kinja.com.,,none
+http://i.kinja-img.com,kinja-img.com.,,none
+http://www.gizmodo.com/video,kinja.com.,,none
+http://www.gizmodo.com/tag/science,kinja.com.,,none
+http://www.gizmodo.com/tag/reviews,kinja.com.,,none
+http://www.gizmodo.com/,kinja.com.,,none
+http://www.gizmodo.com/?startTime=1494356854231,kinja.com.,,none
+http://www.gizmodo.com/about,kinja.com.,,none
+http://www.gizmodo.com/tag/science?startIndex=20,kinja.com.,,none
+http://www.gizmodo.com/tag/reviews?startIndex=20,kinja.com.,,none
+http://www.gizmodo.com/?startTime=1494337502534,kinja.com.,,none

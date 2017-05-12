@@ -1,6 +1,9 @@
 http://www.wellsfargo.com/,,,none
+http://www20.wellsfargomedia.com,a23-66-223-24.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www20.wellsfargomedia.com,www20.wellsfargomedia.com.edgekey.net.,Akamai,cname
+http://www01.wellsfargomedia.com,a23-66-226-201.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www01.wellsfargomedia.com,www01.wellsfargomedia.com.edgekey.net.,Akamai,cname
+http://www04.wellsfargomedia.com,a23-66-226-201.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www04.wellsfargomedia.com,www04.wellsfargomedia.com.edgekey.net.,Akamai,cname
 http://www.wellsfargo.com/#skip,,,none
 http://www.wellsfargo.com/,,,none

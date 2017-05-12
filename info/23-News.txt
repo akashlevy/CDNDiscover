@@ -1,8 +1,12 @@
 http://www.drudgereport.com/,,,none
+http://www2.pictures.zimbio.com,,Fastly,whois
 http://www2.pictures.zimbio.com,w.ssl.global.fastly.net.,Fastly,cname
-http://pbs.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname
+http://pbs.twimg.com,,Twitter,name
+http://pbs.twimg.com,wildcard.twimg.com.,Twitter,cname
+http://static01.nyt.com,,Fastly,whois
 http://static01.nyt.com,nytimes.map.fastly.net.,Fastly,cname
 http://www.drudgereport.com,,,none
+http://widget.quantcast.com,a23-59-219-92.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://widget.quantcast.com,wildcard.quantcast.com.edgekey.net.,Akamai,cname
 http://www.drudgereport.com/,,,none
 http://www.drudgereport.com/wx.htm,,,none

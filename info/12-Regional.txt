@@ -1,13 +1,14 @@
 http://www.bbc.co.uk/,www.bbc.net.uk.,,none
-http://ichef.bbci.co.uk,ichef-bbci.bbc.net.uk.,,none
+http://ichef.bbci.co.uk,,Akamai,whois
 http://www.bbc.co.uk/#hp-bbc-homepage-content,www.bbc.net.uk.,,none
 http://www.bbc.co.uk/accessibility/,www.bbc.net.uk.,,none
 http://edigitalsurvey.com,,,none
 http://www.bbc.co.uk/,www.bbc.net.uk.,,none
 http://www.bbc.co.uk/tv/,www.bbc.net.uk.,,none
-http://static.bbci.co.uk,static-bbci.bbc.net.uk.,,none
+http://static.bbci.co.uk,,Akamai,whois
 http://www.bbc.co.uk/radio/,www.bbc.net.uk.,,none
 http://www.bbc.co.uk/cbbc,www.bbc.net.uk.,,none
+http://a.files.bbci.co.uk,,Akamai,whois
 http://a.files.bbci.co.uk,a.files.bbci.co.uk.edgekey.net.,Akamai,cname
 http://www.bbc.co.uk/cbeebies,www.bbc.net.uk.,,none
 http://www.bbc.co.uk/food/,www.bbc.net.uk.,,none

@@ -1,1 +1,2 @@
+http://www.nbcsports.com/,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
 http://www.nbcsports.com/,www.nbcsports.com.edgesuite.net.,Akamai,cname

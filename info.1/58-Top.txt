@@ -1,0 +1,11 @@
+http://www.slideshare.net/,any-na.www.slideshare.net.,,none
+http://public.slidesharecdn.com,wildcard.slidesharecdn.com.edgekey.net.,Akamai,cname
+http://www.slideshare.net/,any-na.www.slideshare.net.,,none
+http://www.slideshare.net/explore,any-na.www.slideshare.net.,,none
+https://www.slideshare.net/login,any-na.www.slideshare.net.,,none
+http://www.slideshare.net/upload,any-na.www.slideshare.net.,,none
+https://www.slideshare.net/w/signup,any-na.www.slideshare.net.,,none
+http://www.slideshare.net/featured/category/technology,any-na.www.slideshare.net.,,none
+http://www.slideshare.net/featured/category/education,any-na.www.slideshare.net.,,none
+http://www.slideshare.net/ss/creators?from=sub-nav,any-na.www.slideshare.net.,,none
+http://www.slideshare.net/ss/creators/get-started?from=sub-nav,any-na.www.slideshare.net.,,none

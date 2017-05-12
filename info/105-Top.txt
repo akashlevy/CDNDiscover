@@ -1,4 +1,5 @@
 http://www.weebly.com/,weebly.com.,,none
+http://cdn2.editmysite.com,,Fastly,whois
 http://cdn2.editmysite.com,weebly.map.fastly.net.,Fastly,cname
 http://www.weebly.com/features,weebly.com.,,none
 http://www.weebly.com/themes,weebly.com.,,none

@@ -1,0 +1,11 @@
+http://www.nlm.nih.gov/,www.wip.nlm.nih.gov.,,none
+http://www.nlm.nih.gov/#skip,www.wip.nlm.nih.gov.,,none
+http://www.nlm.nih.gov,www.wip.nlm.nih.gov.,,none
+https://www.nlm.nih.gov/listserv/rss_podcasts.html,www.wip.nlm.nih.gov.,,none
+http://www.nlm.nih.gov,www.wip.nlm.nih.gov.,,none
+http://www.nlm.nih.gov/research/umls/,www.wip.nlm.nih.gov.,,none
+http://www.nlm.nih.gov/hmd/ihm/,www.wip.nlm.nih.gov.,,none
+https://www.nlm.nih.gov/pubs/techbull/ma17/ma17_mla_invite.html,www.wip.nlm.nih.gov.,,none
+https://www.nlm.nih.gov/pubs/techbull/ma17/ma17_mla_invite.html?WT.mc_id=F120170505IMGPSDNLM%20@%20MLA%202017%20Presentations%20and%20Theater%20Schedule,www.wip.nlm.nih.gov.,,none
+https://www.nlm.nih.gov/pubs/techbull/ma17/ma17_mla_invite.html?WT.mc_id=F120170505LNKPSDNLM%20@%20MLA%202017%20Presentations%20and%20Theater%20Schedule,www.wip.nlm.nih.gov.,,none
+http://www.nlm.nih.gov/,www.wip.nlm.nih.gov.,,none

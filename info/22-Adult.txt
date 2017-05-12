@@ -1,5 +1,5 @@
 http://nhentai.net/,,,none
-http://ads2.contentabc.com,,,none
+http://ads2.contentabc.com,,Reflected Networks,whois
 http://static.nhentai.net,,,none
 http://nhentai.net/,,,none
 http://nhentai.net/random/,,,none

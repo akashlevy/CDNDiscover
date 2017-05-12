@@ -1,0 +1,2 @@
+https://tweetdeck.twitter.com/,td.twitter.com.,,none
+http://ton.twimg.com,cs196.wac.edgecastcdn.net.,Edgecast,cname

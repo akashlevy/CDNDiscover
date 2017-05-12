@@ -1,5 +1,5 @@
 http://www.bankofamerica.com/,wwwui.ecglb.bac.com.,,none
-http://1359940.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://1359940.fls.doubleclick.net,dart.l.doubleclick.net.,,none
 http://www2.bac-assets.com,cs677.wac.chicdn.net.,,none
 http://secure.bankofamerica.com,secure.ecglb.bac.com.,,none
 https://www.bankofamerica.com/information/supported-browsers/,wwwui.ecglb.bac.com.,,none

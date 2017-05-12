@@ -1,14 +1,28 @@
+http://www.mlb.com/,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.mlb.com/,www.mlb.com.edgekey.net.,Akamai,cname
+http://www.mlbstatic.com,server-54-192-48-91.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://www.mlbstatic.com,d3v50guqk1qmua.cloudfront.net.,Amazon CloudFront,cname
+http://securea.mlb.com,a23-206-126-101.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://securea.mlb.com,san.mlb.com.edgekey.net.,Akamai,cname
+http://www.mlb.com/,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.mlb.com/,www.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/scores,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/scores,www.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/all-star/ballot?tcid=ASG17_mlb_megamenu,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/all-star/ballot?tcid=ASG17_mlb_megamenu,www.mlb.com.edgekey.net.,Akamai,cname
+http://content.mlb.com,server-54-192-48-129.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://content.mlb.com,d9f4zbycsn9oo.cloudfront.net.,Amazon CloudFront,cname
+http://www.mlb.com/mlb/authentication/index.jsp,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://www.mlb.com/mlb/authentication/index.jsp,www.mlb.com.edgekey.net.,Akamai,cname
+http://mediadownloads.mlb.com,a23-206-161-75.deploy.static.akamaitechnologies.com,Akamai,revdns
 http://mediadownloads.mlb.com,mediadownloads.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/orioles,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/orioles,www.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/redsox,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/redsox,www.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/yankees,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/yankees,www.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/rays,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/rays,www.mlb.com.edgekey.net.,Akamai,cname
+https://www.mlb.com/bluejays,a23-33-103-166.deploy.static.akamaitechnologies.com,Akamai,revdns
 https://www.mlb.com/bluejays,www.mlb.com.edgekey.net.,Akamai,cname

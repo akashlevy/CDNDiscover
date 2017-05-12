@@ -1,8 +1,10 @@
 http://www.amazon.co.jp/,www.cdn.amazon.co.jp.,,none
+http://images-fe.ssl-images-amazon.com,server-54-230-49-184.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://images-fe.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
 http://fls-fe.amazon.co.jp,fls-fe.amazon.com.,,none
 http://www.amazon.co.jp/ref=nav_logo/355-6031016-4821258,www.cdn.amazon.co.jp.,,none
 http://www.amazon.co.jp/gp/prime/ref=nav_logo_prime_join/355-6031016-4821258,www.cdn.amazon.co.jp.,,none
+http://images-na.ssl-images-amazon.com,server-54-230-49-184.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
 http://www.amazon.co.jp/gp/site-directory/ref=nav_shopall_btn/355-6031016-4821258,www.cdn.amazon.co.jp.,,none
 http://www.amazon.co.jp/gp/customer-preferences/select-language/ref=topnav_lang/355-6031016-4821258?ie=UTF8&preferencesReturnUrl=%2F,www.cdn.amazon.co.jp.,,none

@@ -1,0 +1,13 @@
+http://emedicine.medscape.com/,www.medscape.com.,,none
+http://img.medscapestatic.com,sm376.x.incapdns.net.,Incapsula,cname
+http://d.turn.com,d.turn.com.akadns.net.,Akamai,cname
+http://emedicine.medscape.com/,www.medscape.com.,,none
+http://emedicine.medscape.com/allergy_immunology,www.medscape.com.,,none
+http://emedicine.medscape.com/cardiology,www.medscape.com.,,none
+http://emedicine.medscape.com/clinical_procedures,www.medscape.com.,,none
+http://emedicine.medscape.com/critical_care,www.medscape.com.,,none
+http://emedicine.medscape.com/dermatology,www.medscape.com.,,none
+http://emedicine.medscape.com/emergency_medicine,www.medscape.com.,,none
+http://emedicine.medscape.com/endocrinology,www.medscape.com.,,none
+http://emedicine.medscape.com/gastroenterology,www.medscape.com.,,none
+http://emedauth.medscape.com,emedauth.iad1.medscape.com.,,none

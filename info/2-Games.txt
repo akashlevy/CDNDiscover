@@ -1,14 +1,14 @@
-http://www.roblox.com/,,,none
-http://images.rbxcdn.com,imagesak.rbxcdn.com.,,none
-http://www.google.com,,Google,name
-http://www.roblox.com/#RollerContainer,,,none
-http://www.roblox.com/#WhatsRobloxContainer,,,none
-http://www.roblox.com/#RobloxDeviceText,,,none
-https://www.roblox.com/login/forgotPasswordOrUsername/,,,none
-http://static.rbxcdn.com,staticak.rbxcdn.com.,,none
-https://www.roblox.com/info/terms-of-service,,,none
-https://www.roblox.com/Info/privacy,,,none
-https://www.roblox.com/info/privacy,,,none
-https://www.roblox.com/,,,none
-https://www.roblox.com/games,,,none
-http://www.roblox.com,,,none
+http://www.roblox.com/,,Level 3,whois
+http://images.rbxcdn.com,a23-194-140-56.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.google.com,,,none
+http://www.roblox.com/#RollerContainer,,Level 3,whois
+http://www.roblox.com/#WhatsRobloxContainer,,Level 3,whois
+http://www.roblox.com/#RobloxDeviceText,,Level 3,whois
+https://www.roblox.com/login/forgotPasswordOrUsername/,,Level 3,whois
+http://static.rbxcdn.com,a23-194-140-56.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.roblox.com/info/terms-of-service,,Level 3,whois
+https://www.roblox.com/Info/privacy,,Level 3,whois
+https://www.roblox.com/info/privacy,,Level 3,whois
+https://www.roblox.com/,,Level 3,whois
+https://www.roblox.com/games,,Level 3,whois
+http://www.roblox.com,,Level 3,whois

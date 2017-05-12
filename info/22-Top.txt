@@ -1,2 +1,2 @@
-http://www.twitch.tv/,www-twitch-tv.web-cdn.twitch.tv.,,none
-http://www.twitch.tv/,www-twitch-tv.web-cdn.twitch.tv.,,none
+http://www.twitch.tv/,a172-229-232-41.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.twitch.tv/,a172-229-232-41.deploy.static.akamaitechnologies.com,Akamai,revdns

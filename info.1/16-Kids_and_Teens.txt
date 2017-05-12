@@ -1,0 +1,13 @@
+http://www.bbc.com/sport/football,www-bbc-com.bbc.net.uk.,,none
+http://static.bbci.co.uk,static-bbci.bbc.net.uk.,,none
+http://ichef.bbci.co.uk,ichef-bbci.bbc.net.uk.,,none
+http://www.bbc.com/,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/sport/football#page,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/accessibility/,www-bbc-com.bbc.net.uk.,,none
+http://edigitalsurvey.com,,,none
+http://www.bbc.com/sport/football,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/news/,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/sport/,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/weather/,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/earth/,www-bbc-com.bbc.net.uk.,,none
+http://www.bbc.com/travel/,www-bbc-com.bbc.net.uk.,,none

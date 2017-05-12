@@ -1,0 +1,14 @@
+https://www.mint.com/,www.mint.com.edgekey.net.,Akamai,cname
+http://4354787.fls.doubleclick.net,dart.l.doubleclick.net.,Google,cname
+http://www.mint.com,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/how-mint-works,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/how-mint-bills-works,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/credit-cards?v=1,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/support,www.mint.com.edgekey.net.,Akamai,cname
+http://my.nanorep.com,,,none
+https://www.mint.com/#login,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/#signup,www.mint.com.edgekey.net.,Akamai,cname
+https://www.mint.com/html/movetomint,www.mint.com.edgekey.net.,Akamai,cname
+http://www.youtube.com,youtube-ui.l.google.com.,Google,cname
+https://www.mint.com/how-mint-works/bills#toc,www.mint.com.edgekey.net.,Akamai,cname

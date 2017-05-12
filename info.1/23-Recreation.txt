@@ -1,0 +1,10 @@
+http://www.easyjet.com/,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en?link=meganav,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/#mainContent,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en/flight-tracker?link_megadrop1,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en/flight-tracker?link_megadrop2,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en/flight-tracker?link_megadrop3,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en/help/preparing-to-fly/latest-travel-information?link_megadrop,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en?link_megadrop,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en/routemap?link_megadrop,www.easyjet.com.edgekey.net.,Akamai,cname
+http://www.easyjet.com/en/cheap-flights/timetables?link_megadrop,www.easyjet.com.edgekey.net.,Akamai,cname

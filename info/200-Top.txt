@@ -12,6 +12,7 @@ http://s1.yimg.com,s.gycs.b.yahoodns.net.,,none
 https://sports.yahoo.com/nfl/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
 https://sports.yahoo.com/nba/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
 https://sports.yahoo.com/thevertical/,geoycpi-uno.gycpi.b.yahoodns.net.,,none
-http://art19.com,,,none
+http://art19.com,server-54-192-48-229.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://embed.scribblelive.com,server-54-230-50-249.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
 http://embed.scribblelive.com,d3mi3dispi6388.cloudfront.net.,Amazon CloudFront,cname
 http://media.zenfs.com,ue45uw45.aa.zenfs.com.,,none

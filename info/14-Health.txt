@@ -1,12 +1,12 @@
-http://www.menshealth.com/,,,none
-http://www.menshealth.com,,,none
-http://s.rodale.com,,,none
-http://www.menshealth.com/#main-menu,,,none
-http://www.menshealth.com/,,,none
-http://www.menshealth.com/fitness,,,none
-http://www.menshealth.com/workouts,,,none
-http://www.menshealth.com/sex-women,,,none
-http://www.menshealth.com/health,,,none
-http://www.menshealth.com/nutrition,,,none
-http://www.menshealth.com/tags/guy-gourmet,,,none
-http://www.menshealth.com/fitnesscouncil,,,none
+http://www.menshealth.com/,,Cloudflare,whois
+http://www.menshealth.com,,Cloudflare,whois
+http://s.rodale.com,server-54-192-48-184.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.menshealth.com/#main-menu,,Cloudflare,whois
+http://www.menshealth.com/,,Cloudflare,whois
+http://www.menshealth.com/fitness,,Cloudflare,whois
+http://www.menshealth.com/workouts,,Cloudflare,whois
+http://www.menshealth.com/sex-women,,Cloudflare,whois
+http://www.menshealth.com/health,,Cloudflare,whois
+http://www.menshealth.com/nutrition,,Cloudflare,whois
+http://www.menshealth.com/tags/guy-gourmet,,Cloudflare,whois
+http://www.menshealth.com/fitnesscouncil,,Cloudflare,whois

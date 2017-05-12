@@ -1,0 +1,2 @@
+http://www.practicefusion.com,a23-66-181-47.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.practicefusion.com,www.practicefusion.com.edgekey.net.,Akamai,cname

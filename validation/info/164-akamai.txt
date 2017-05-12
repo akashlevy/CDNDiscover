@@ -1,0 +1,11 @@
+http://www.westjet.com,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://2254206.fls.doubleclick.net,dart.l.doubleclick.net.,,none
+http://www.westjet.com/en-ca/travel-info/special-needs/accessible/visual-impairment?i_cid=wj:wj-hp:screen-reader-message1:other:screen-reader-guest-04042017,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/guest/en/help/technical.shtml#browser.,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/en-ca/travel-info/advisories,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/en-ca/index,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/en-ca/about-us/contact-us/index,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/fr-ca/index,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/en-ca/book-trip/flight,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.westjet.com/en-ca/book-trip/vacation/index,a23-66-169-18.deploy.static.akamaitechnologies.com,Akamai,revdns

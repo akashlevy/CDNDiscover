@@ -1,0 +1,13 @@
+https://www.zulily.com/,,Rackspace,whois
+http://view.atdmt.com,ad.atdmt.com.,,none
+http://a248.e.akamai.net,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://a248.e.akamai.net,,Akamai,name
+https://www.zulily.com/,,Rackspace,whois
+https://www.zulily.com/2/cart,,Rackspace,whois
+https://www.zulily.com/?ref=logo,,Rackspace,whois
+https://www.zulily.com/?ref=header,,Rackspace,whois
+https://www.zulily.com/last-chance?ref=header,,Rackspace,whois
+https://www.zulily.com/shop-by-category,,Rackspace,whois
+https://www.zulily.com/kids/?ref=header,,Rackspace,whois
+https://www.zulily.com/girls/?ref=header,,Rackspace,whois
+https://www.zulily.com/boys/?ref=header,,Rackspace,whois

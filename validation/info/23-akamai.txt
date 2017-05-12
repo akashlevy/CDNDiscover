@@ -1,0 +1,13 @@
+http://www.blueport.com,,,none
+http://blueport.com,,,none
+http://www.blueport.com,,,none
+http://scontent.cdninstagram.com,,,none
+http://www.blueport.com/,,,none
+http://www.blueport.com/ecommerce-platform/,,,none
+http://www.blueport.com/ecommerce-platform/implementation/,,,none
+http://www.blueport.com/ecommerce-platform/furniture-features/,,,none
+http://www.blueport.com/ecommerce-platform/seamless-ecommerce/,,,none
+http://www.blueport.com/ecommerce-platform/responsive-design/,,,none
+http://www.blueport.com/ecommerce-platform/local-optimization/,,,none
+http://www.blueport.com/ecommerce-platform/tools-for-salespeople/,,,none
+http://www.blueport.com/ecommerce-platform/continuous-improvement/,,,none

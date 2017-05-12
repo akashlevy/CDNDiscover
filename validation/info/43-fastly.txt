@@ -1,0 +1,29 @@
+https://www.etsy.com/,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
+http://www.etsystudio.com,,Fastly,whois
+http://www.etsystudio.com,etsy.map.fastly.net.,Fastly,cname
+http://img1.etsystatic.com,cs136.wac.handmadecdn.net.,,none
+http://img0.etsystatic.com,a23-192-15-87.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://img0.etsystatic.com,img0.etsystatic.com.edgekey.net.,Akamai,cname
+http://www.etsy.com,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.etsy.com,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/r?dest=https%3A%2F%2Fwww.etsystudio.com%2F%3Fref%3Dhp_etsy_studio_launch_banner,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/r?dest=https%3A%2F%2Fwww.etsystudio.com%2F%3Fref%3Dhp_etsy_studio_launch_banner,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/terms_of_use.php?ref=reg,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/terms_of_use.php?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/help/article/480?ref=reg,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/help/article/480?ref=reg,dsd.etsy.com.edgekey.net.,Akamai,cname
+http://privacy-policy.truste.com,server-54-192-49-134.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+https://www.etsy.com/forgot_password.php?ref=signin,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/forgot_password.php?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/help/article/18?ref=signin,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/help/article/18?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/reopen_account.php?ref=signin,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/reopen_account.php?ref=signin,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/?ref=lgo,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/?ref=lgo,dsd.etsy.com.edgekey.net.,Akamai,cname
+https://www.etsy.com/#content,a23-192-67-30.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.etsy.com/#content,dsd.etsy.com.edgekey.net.,Akamai,cname

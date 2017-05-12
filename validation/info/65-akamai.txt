@@ -1,0 +1,12 @@
+http://www.glowbl.com ,,,none
+http://d2mv4zoi2itdct.cloudfront.net,server-54-230-51-28.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://d2mv4zoi2itdct.cloudfront.net,,Amazon CloudFront,name
+http://www.glowbl.com ,,,none
+http://www.glowbl.com /web/en/login/,,,none
+http://www.glowbl.com /web/en/policy,,,none
+http://www.glowbl.com /web/en/,,,none
+http://www.glowbl.com /web/en/whatisglowbl,,,none
+http://www.glowbl.com /web/en/applications,,,none
+http://www.glowbl.com /web/en/usecases?nl=1,,,none
+http://www.glowbl.com /web/en/login/whoami,,,none
+http://www.glowbl.com /web/en/createlivestage,,,none

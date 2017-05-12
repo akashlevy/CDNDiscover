@@ -1,0 +1,2 @@
+https://www.upworthy.com/,,Fastly,whois
+https://www.upworthy.com/,upworthy.b.ssl.fastly.net.,Fastly,cname

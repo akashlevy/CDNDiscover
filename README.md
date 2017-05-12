@@ -5,6 +5,7 @@ Python/Bash scripts to get the CDNs for the top 250 Alexa websites
 - Python 2.7
     * beautifulsoup4
     * dnspython
+    * ipwhois
     * python-awis
     * selenium
 - Mozilla Firefox

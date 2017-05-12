@@ -1,0 +1,11 @@
+https://stripe.com/,,,none
+https://stripe.com/,,,none
+https://stripe.com/pricing,,,none
+https://stripe.com/payments,,,none
+https://stripe.com/subscriptions,,,none
+https://stripe.com/connect,,,none
+https://stripe.com/relay,,,none
+https://stripe.com/atlas,,,none
+https://stripe.com/radar,,,none
+http://stripe-images.s3.amazonaws.com,s3-us-west-1-w.amazonaws.com.,,none
+https://stripe.com/works-with,,,none

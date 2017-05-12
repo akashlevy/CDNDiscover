@@ -1,0 +1,1 @@
+http://www.starz.com,server-54-192-48-4.jfk5.r.cloudfront.net,Amazon CloudFront,revdns

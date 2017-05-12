@@ -1,0 +1,26 @@
+http://www.salon.com/,,Fastly,whois
+http://www.salon.com/,b.global-ssl.fastly.net.,Fastly,cname
+http://media.salon.com,,Fastly,whois
+http://media.salon.com,b.global-ssl.fastly.net.,Fastly,cname
+http://www.salon.com/,,Fastly,whois
+http://www.salon.com/,b.global-ssl.fastly.net.,Fastly,cname
+http://www.salon.com/category/video/,,Fastly,whois
+http://www.salon.com/category/video/,b.global-ssl.fastly.net.,Fastly,cname
+http://www.salon.com/2017/05/12/democrats-arent-hypocrites-on-comey-trumps-firing-of-the-fbi-director-is-cause-for-outrage/,,Fastly,whois
+http://www.salon.com/2017/05/12/democrats-arent-hypocrites-on-comey-trumps-firing-of-the-fbi-director-is-cause-for-outrage/,b.global-ssl.fastly.net.,Fastly,cname
+http://tu9srvbirvvtmtyky29udgvudc5qd3bsyxrmb3jtlmnvbq00.g00.realclearpolitics.com,a-sg09sl04.insnw.net,Instart Logic,revdns
+http://tu9srvbirvvtmtyky29udgvudc5qd3bsyxrmb3jtlmnvbq00.g00.realclearpolitics.com,a001.realclearpolitics.inscname.net.,Instart Logic,cname
+http://www.salon.com/2017/05/11/watch-kamau-bells-denzel-washington-wishlist/,,Fastly,whois
+http://www.salon.com/2017/05/11/watch-kamau-bells-denzel-washington-wishlist/,b.global-ssl.fastly.net.,Fastly,cname
+http://content.jwplatform.com,server-54-192-48-236.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.salon.com/2017/05/11/roger-stone-is-celebrating-james-comeys-firing-and-wont-deny-giving-trump-the-idea/,,Fastly,whois
+http://www.salon.com/2017/05/11/roger-stone-is-celebrating-james-comeys-firing-and-wont-deny-giving-trump-the-idea/,b.global-ssl.fastly.net.,Fastly,cname
+http://www.mediamatters.org,,,none
+http://www.salon.com/category/news/,,Fastly,whois
+http://www.salon.com/category/news/,b.global-ssl.fastly.net.,Fastly,cname
+http://www.salon.com/2017/05/12/president-trumps-federal-appointments-are-bonkers-but-thats-just-business-as-usual-for-republicans/,,Fastly,whois
+http://www.salon.com/2017/05/12/president-trumps-federal-appointments-are-bonkers-but-thats-just-business-as-usual-for-republicans/,b.global-ssl.fastly.net.,Fastly,cname
+http://www.salon.com/2017/05/12/the-american-way-of-war-is-a-budget-breaker_partner/,,Fastly,whois
+http://www.salon.com/2017/05/12/the-american-way-of-war-is-a-budget-breaker_partner/,b.global-ssl.fastly.net.,Fastly,cname
+http://www.salon.com/2017/05/12/did-trump-just-admit-to-obstruction-of-justice/,,Fastly,whois
+http://www.salon.com/2017/05/12/did-trump-just-admit-to-obstruction-of-justice/,b.global-ssl.fastly.net.,Fastly,cname

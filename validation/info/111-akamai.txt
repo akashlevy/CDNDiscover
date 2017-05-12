@@ -1,0 +1,2 @@
+http://www.ottawapolice.ca,a23-192-17-205.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.ottawapolice.ca,www.ottawapolice.ca.edgekey.net.,Akamai,cname

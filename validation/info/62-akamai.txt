@@ -1,0 +1,2 @@
+http://www.fubo.tv,,Fastly,whois
+http://www.fubo.tv,prod.fubo-tv.map.fastly.net.,Fastly,cname

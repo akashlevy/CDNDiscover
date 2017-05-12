@@ -1,0 +1,13 @@
+http://www.ubisoftgroup.com,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://ubistatic19-a.akamaihd.net,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://ubistatic19-a.akamaihd.net,ubistatic19-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://ubistatic19-a.akamaihd.net,ubistatic19-a.akamaihd.net.edgesuite.net.,Akamai,cname
+http://www.ubisoftgroup.com,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/company/overview.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/company/press.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/company/investor_center/index.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/careers/experience.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/careers/grads-and-interns.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/careers/search.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/en-US/careers/experience.aspx#world-map,lb-cms-ubisoftgroup.ubisoft.com.,,none
+http://www.ubisoftgroup.com/fr-FR/groupe/presentation.aspx,lb-cms-ubisoftgroup.ubisoft.com.,,none

@@ -1,0 +1,13 @@
+http://www.hearst.com/,www.ccomm.hearst.com.,,none
+http://www.youtube.com,youtube-ui.l.google.com.,,none
+http://cdn.ccomm.hearst.com,server-54-192-48-23.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.hearst.com/,www.ccomm.hearst.com.,,none
+http://www.hearst.com/about,www.ccomm.hearst.com.,,none
+http://scontent.cdninstagram.com,,,none
+http://www.hearst.com/newsroom,www.ccomm.hearst.com.,,none
+http://www.hearst.com/entertainment-syndication,www.ccomm.hearst.com.,,none
+http://www.hearst.com/magazines,www.ccomm.hearst.com.,,none
+http://www.hearst.com/business-media,www.ccomm.hearst.com.,,none
+http://www.hearst.com/broadcasting,www.ccomm.hearst.com.,,none
+http://www.hearst.com/newspapers,www.ccomm.hearst.com.,,none
+http://www.hearst.com/ventures,www.ccomm.hearst.com.,,none

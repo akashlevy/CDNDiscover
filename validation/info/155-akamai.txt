@@ -1,0 +1,23 @@
+http://www.urbn.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com,www.urbn.com.edgesuite.net.,Akamai,cname
+http://images.contentful.com,server-54-192-48-94.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://assets.contentful.com,server-54-192-48-79.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://assets.contentful.com,d28w8eepid7j1b.cloudfront.net.,Amazon CloudFront,cname
+http://www.urbn.com/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are/history,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are/history,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are/executive-officers,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are/executive-officers,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are/board-of-directors,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are/board-of-directors,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are/culture,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are/culture,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are/dogs,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are/dogs,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/who-we-are/the-yard,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/who-we-are/the-yard,www.urbn.com.edgesuite.net.,Akamai,cname
+http://www.urbn.com/our-brands,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.urbn.com/our-brands,www.urbn.com.edgesuite.net.,Akamai,cname

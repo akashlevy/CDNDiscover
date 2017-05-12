@@ -1,0 +1,26 @@
+http://www.mindbodyonline.com,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://privacy-policy.truste.com,server-54-192-49-53.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://privacy-policy.truste.com,d2pj9rkatqbt38.cloudfront.net.,Amazon CloudFront,cname
+http://www.mindbodyonline.com,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://cdn.ywxi.net,a23-192-2-193.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://cdn.ywxi.net,wildcard.ywxi.net.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/overview,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/overview,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com#start-tour,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com#start-tour,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/marketing,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/marketing,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/pricing,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/pricing,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/payments,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/payments,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/services-and-support,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/services-and-support,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname
+http://www.mindbodyonline.com/marketplace/mobile-apps,a23-192-38-204.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.mindbodyonline.com/marketplace/mobile-apps,wildcard.mindbodyonline.com.edgekey.net.,Akamai,cname

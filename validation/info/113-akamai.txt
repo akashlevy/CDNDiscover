@@ -1,0 +1,10 @@
+http://www.panera.com,,Akamai,whois
+http://www.panera.com/en-us/home.html,,Akamai,whois
+http://www.panera.com/pbdyn/user/logout,,Akamai,whois
+http://www.panera.com,,Akamai,whois
+http://www.panera.com/en-us/menu-categories/freshly-baked-breads.html,,Akamai,whois
+http://www.panera.com/en-us/menu-categories/pastries-and-sweets.html,,Akamai,whois
+http://www.panera.com/en-us/menu-categories/bagels-and-spreads.html,,Akamai,whois
+http://www.panera.com/en-us/menu-categories/breakfast-.html,,Akamai,whois
+http://www.panera.com/en-us/menu-categories/soups.html,,Akamai,whois
+http://www.panera.com/en-us/menu-categories/salads.html,,Akamai,whois

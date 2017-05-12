@@ -1,0 +1,14 @@
+https://www.sonatype.com/,1958393g43.secure0016.hubspot.net.,,none
+http://player.vimeo.com,,Fastly,whois
+http://www.sonatype.com,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/press-releases,1958393g43.secure0016.hubspot.net.,,none
+http://no-cache.hubspot.com,a23-66-170-197.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://no-cache.hubspot.com,hubspot.net.edgekey.net.,Akamai,cname
+https://www.sonatype.com/partners,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/products-overview,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/nexus-lifecycle,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/nexus-firewall,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/nexus-auditor,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/nexus-repository-sonatype,1958393g43.secure0016.hubspot.net.,,none
+https://www.sonatype.com/nexus-repository-oss,1958393g43.secure0016.hubspot.net.,,none

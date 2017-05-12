@@ -1,0 +1,15 @@
+https://www.wired.com/,,Fastly,whois
+http://assets.wired.com,,Fastly,whois
+http://assets.wired.com,condenast.map.fastly.net.,Fastly,cname
+http://www.wired.com,,Fastly,whois
+http://dwgyu36up6iuz.cloudfront.net,server-54-230-51-126.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://dwgyu36up6iuz.cloudfront.net,,Amazon CloudFront,name
+https://www.wired.com/#p1,,Fastly,whois
+https://www.wired.com/,,Fastly,whois
+https://www.wired.com/category/business/,,Fastly,whois
+https://www.wired.com/category/culture/,,Fastly,whois
+https://www.wired.com/category/design/,,Fastly,whois
+https://www.wired.com/category/gear/,,Fastly,whois
+https://www.wired.com/category/science/,,Fastly,whois
+https://www.wired.com/category/security/,,Fastly,whois
+https://www.wired.com/category/transportation/,,Fastly,whois

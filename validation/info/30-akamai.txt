@@ -1,0 +1,11 @@
+http://site.cashslide.co.kr,,,none
+http://site.cashslide.co.kr,,,none
+http://site.cashslide.co.kr#content,,,none
+http://site.cashslide.co.kr#aboutus,,,none
+http://site.cashslide.co.kr,,,none
+http://site.cashslide.co.kr#wrap,,,none
+http://site.cashslide.co.kr#news-slider,,,none
+http://site.cashslide.co.kr#news,,,none
+http://site.cashslide.co.kr#event,,,none
+http://site.cashslide.co.kr#faq,,,none
+http://site.cashslide.co.kr#advertisement,,,none

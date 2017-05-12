@@ -1,0 +1,12 @@
+http://www.lezhin.com,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://cdn.lezhin.com,a23-192-12-140.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://cdn.lezhin.com,cdn.lezhin.com.edgekey.net.,Akamai,cname
+http://www.lezhin.com/en,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://www.lezhin.com/en/scheduled,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://www.lezhin.com/en/top100,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://www.lezhin.com/en/sale,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://www.lezhin.com/en/bl,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://www.lezhin.com/en/login/forgot_password,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+http://www.lezhin.com/en/signup,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none
+mailto:help@lezhin.com,,,none
+http://www.lezhin.com/en/login,ghs-svc-https-c391.ghs-ssl.googlehosted.com.,,none

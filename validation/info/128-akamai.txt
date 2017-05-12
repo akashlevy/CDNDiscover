@@ -1,0 +1,10 @@
+http://www.satuit.com,,,none
+http://www.satuit.com/,,,none
+http://www.satuit.com,,,none
+http://www.satuit.com/home,,,none
+http://www.satuit.com/solutions,,,none
+http://www.satuit.com/solutions/private-equity,,,none
+http://www.satuit.com/solutions/hedge-fund,,,none
+http://www.satuit.com/solutions/wealth-management,,,none
+http://www.satuit.com/solutions/institutional-asset-management,,,none
+http://www.satuit.com/solutions/funds-distribution,,,none

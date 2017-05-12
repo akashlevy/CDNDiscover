@@ -1,0 +1,10 @@
+http://www.disa.mil ,,,none
+http://www.disa.mil /,,,none
+http://www.disa.mil /About,,,none
+http://www.disa.mil #subnavctl10_ctl01_rptMainNav1_hypItem1_0,,,none
+http://www.disa.mil /About/Our-Work,,,none
+http://www.disa.mil /About/Our-Leaders,,,none
+http://www.disa.mil /About/Our-Organization-Structure,,,none
+http://www.disa.mil /~/media/Files/DISA/About/Strategic-Plan.pdf,,,none
+http://www.disa.mil /About/Our-History,,,none
+http://www.disa.mil /About/DISA-Issuances,,,none

@@ -1,0 +1,24 @@
+http://www.hindustantimes.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://whatnowimg.hindustantimes.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://whatnowimg.hindustantimes.com,whatnowimg.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /india-news/,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /india-news/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /world-news/,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /world-news/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /opinion/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /opinion/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /cricket/ipl-2017/,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /cricket/ipl-2017/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /sports-news/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /sports-news/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /entertainment/,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /entertainment/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /lifestyle/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /lifestyle/,www.hindustantimes.com.edgesuite.net.,Akamai,cname
+http://www.hindustantimes.com/ /business-news/,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.hindustantimes.com/ /business-news/,www.hindustantimes.com.edgesuite.net.,Akamai,cname

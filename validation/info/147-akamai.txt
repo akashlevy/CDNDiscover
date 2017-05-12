@@ -1,0 +1,11 @@
+http://thomsonreuters.com/en.html,,,none
+http://www.google.com,,,none
+http://thomsonreuters.com/en.html#body,,,none
+http://thomsonreuters.com/en.html#okay-to-continue,,,none
+http://thomsonreuters.com/en/cookie-policy.html,,,none
+http://thomsonreuters.com/en.html#discover-thomson-reuters,,,none
+http://thomsonreuters.com/en/products-services/government-solutions.html,,,none
+http://thomsonreuters.com/en/products-services/legal.html,,,none
+http://thomsonreuters.com/en/products-services/tax-accounting.html,,,none
+http://thomsonreuters.com/en/global-gateway.html,,,none
+http://thomsonreuters.com/en/login.html,,,none

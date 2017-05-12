@@ -1,0 +1,12 @@
+http://www.ankama-games.com,lb10.ankama.com.,,none
+http://s.ankama.com,,Cloudflare,whois
+http://s.ankama.com,s.ankama.com.cdn.cloudflare.net.,Cloudflare,cname
+http://www.ankama-games.com,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr/games,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr/animations,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr/editions,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr/boardgames,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr/recrutement,lb10.ankama.com.,,none
+http://www.ankama-games.com/fr/a-propos,lb10.ankama.com.,,none
+http://www.ankama-games.com/en/games,lb10.ankama.com.,,none

@@ -1,0 +1,2 @@
+http://www.cntv.cn,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
+http://www.cntv.cn,www.cctvgeo.akadns.net.,Akamai,cname

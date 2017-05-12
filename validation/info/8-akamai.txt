@@ -1,0 +1,11 @@
+http://www.alliantcreditunion.org,,Cloudflare,whois
+http://www.alliantcreditunion.org,,Cloudflare,whois
+http://www.alliantcreditunion.org/help/,,Cloudflare,whois
+http://www.alliantcreditunion.org/group-banking-program/,,Cloudflare,whois
+http://www.alliantcreditunion.org/branches-and-atms/,,Cloudflare,whois
+http://www.alliantcreditunion.org/credit-union-business-loans/,,Cloudflare,whois
+http://www.alliantcreditunion.org/money-mentor/,,Cloudflare,whois
+http://www.alliantcreditunion.org/rates/,,Cloudflare,whois
+http://www.alliantcreditunion.org/,,Cloudflare,whois
+http://www.alliantcreditunion.org/bank/,,Cloudflare,whois
+http://www.alliantcreditunion.org/bank//#filter=savings,,Cloudflare,whois

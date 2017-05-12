@@ -1,0 +1,15 @@
+http://www.3plearning.com/ ,pppwebsitehttp.trafficmanager.net.,,none
+http://cdn.3plearning.com,a69-192-20-37.deploy.akamaitechnologies.com,Akamai,revdns
+http://cdn.3plearning.com,san.3plearning.com.edgekey.net.,Akamai,cname
+http://www.3plearning.com/,pppwebsitehttp.trafficmanager.net.,,none
+http://www.3plearning.com/hello/,pppwebsitehttp.trafficmanager.net.,,none
+http://player.vimeo.com,,Fastly,whois
+http://www.3plearning.com/unicef/,pppwebsitehttp.trafficmanager.net.,,none
+http://www.3plearning.com/investors/,pppwebsitehttp.trafficmanager.net.,,none
+http://www.3plearning.com,pppwebsitehttp.trafficmanager.net.,,none
+http://www.3plearning.com/spellodrome/,pppwebsitehttp.trafficmanager.net.,,none
+http://www.surveygizmo.com,server-54-192-48-61.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://www.surveygizmo.com,d3gvv5iecquak.cloudfront.net.,Amazon CloudFront,cname
+http://www.3plearning.com/readingeggs/,pppwebsitehttp.trafficmanager.net.,,none
+http://www.3plearning.com/tech/,pppwebsitehttp.trafficmanager.net.,,none
+http://www.3plearning.com/training/,pppwebsitehttp.trafficmanager.net.,,none

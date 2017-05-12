@@ -1,0 +1,4 @@
+http://www.evaair.com/,a23-66-120-60.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.evaair.com/,star.evaair.com.edgekey.net.,Akamai,cname
+http://www.evaair.com/,a23-66-120-60.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.evaair.com/,star.evaair.com.edgekey.net.,Akamai,cname

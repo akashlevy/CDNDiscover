@@ -1,0 +1,11 @@
+http://www.pharmiweb.com/,,Rackspace,whois
+http://www.feedburner.com,www3.l.google.com.,,none
+http://www.pharmiweb.com/#navigation,,Rackspace,whois
+http://www.pharmiweb.com/#content,,Rackspace,whois
+http://www.pharmiweb.com/#siteSearch,,Rackspace,whois
+http://www.pharmiweb.com/#readerLogin,,Rackspace,whois
+http://www.pharmiweb.com/#topOfPage,,Rackspace,whois
+http://www.pharmiweb.com/account/goto.asp?id=46,,Rackspace,whois
+http://www.pharmiweb.com/account/goto.asp?id=44,,Rackspace,whois
+http://www.pharmiweb.com/account/goto.asp?id=45,,Rackspace,whois
+http://www.pharmiweb.com/default.asp,,Rackspace,whois

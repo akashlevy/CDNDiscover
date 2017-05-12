@@ -1,0 +1,32 @@
+https://www.rakuten.com/,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+http://medals.bizrate.com,server-54-192-48-165.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://medals.bizrate.com,ds0nlt3rghzbn.cloudfront.net.,Amazon CloudFront,cname
+http://sealserver.trustkeeper.net,a23-192-57-95.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://sealserver.trustkeeper.net,login.trustwave.com.edgekey.net.,Akamai,cname
+http://ast1.r10.io,,Fastly,whois
+http://ast1.r10.io,ast1.r10.io.c.global-ssl.fastly.net.,Fastly,cname
+http://www.rakuten.com,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.rakuten.com,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+http://img1.r10.io,,Fastly,whois
+http://img1.r10.io,img1.r10.io.c.global-ssl.fastly.net.,Fastly,cname
+http://www.rakuten.com/loc/shop-smart-reward-yourself/82642.html?omadtrack=5x_headertextone,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.rakuten.com/loc/shop-smart-reward-yourself/82642.html?omadtrack=5x_headertextone,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+http://www.rakuten.com/loc/home-garden-sale/87320.html?promo-homegardensale-webpromobar2,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.rakuten.com/loc/home-garden-sale/87320.html?promo-homegardensale-webpromobar2,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+https://www.rakuten.com/ct/Rakutensuperpoint/default.aspx,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/ct/Rakutensuperpoint/default.aspx,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+http://www.youtube.com,youtube-ui.l.google.com.,,none
+http://traffic.buyservices.com,,,none
+https://www.rakuten.com/sell,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/sell,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+https://www.rakuten.com/help,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/help,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+https://www.rakuten.com,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+https://www.rakuten.com/loc/Deals/76614.html,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/loc/Deals/76614.html,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+https://www.rakuten.com/loc/Clearance/74080.html,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/loc/Clearance/74080.html,evsecure.rakuten.com.edgekey.net.,Akamai,cname
+https://www.rakuten.com/loc/Free-Shipping/69750.html,a23-66-166-7.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.rakuten.com/loc/Free-Shipping/69750.html,evsecure.rakuten.com.edgekey.net.,Akamai,cname

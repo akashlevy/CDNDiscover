@@ -1,0 +1,14 @@
+http://www.opera.com/,www.route53.opera.com.,,none
+http://www-static.operacdn.com,,Fastly,whois
+http://www-static.operacdn.com,m.global-ssl.fastly.net.,Fastly,cname
+http://www.opera.com/,www.route53.opera.com.,,none
+http://www.opera.com/computer,www.route53.opera.com.,,none
+http://www.youtube.com,youtube-ui.l.google.com.,,none
+http://www.opera.com/mobile,www.route53.opera.com.,,none
+http://www.opera.com/apps,www.route53.opera.com.,,none
+http://www.opera.com/download/get/?partner=www&opsys=Linux,www.route53.opera.com.,,none
+http://www.opera.com,www.route53.opera.com.,,none
+http://www.opera.com/download/get/?partner=www&opsys=Linux&package=RPM,www.route53.opera.com.,,none
+http://www.opera.com/download,www.route53.opera.com.,,none
+http://www.opera.com/help,www.route53.opera.com.,,none
+http://www.opera.com/computer/beta,www.route53.opera.com.,,none

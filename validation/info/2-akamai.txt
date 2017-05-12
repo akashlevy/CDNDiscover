@@ -1,0 +1,10 @@
+https://99tests.com,,,none
+https://99tests.com/bug-trackers,,,none
+https://99tests.com/crowd-testing,,,none
+https://99tests.com/software-test-pricing,,,none
+https://99tests.com/requestdemo,,,none
+https://99tests.com/signup,,,none
+https://99tests.com/signin,,,none
+https://99tests.com#scroll-section,,,none
+https://99tests.com/tester-zone,,,none
+tel:+91 94 48 31 04 39,,,none

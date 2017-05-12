@@ -1,0 +1,12 @@
+https://www.nordstromrack.com/,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://fastly.hautelookcdn.com,,Fastly,whois
+http://fastly.hautelookcdn.com,prod.nrhl.map.fastly.net.,Fastly,cname
+https://www.nordstromrack.com/?ref=nrtab,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/login,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/faq,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/nrstorelocator,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/checkout,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/category/Women,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/shop/Women/Clothing,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.nordstromrack.com/shop/Women/Clothing/Dresses,a23-192-40-167.deploy.static.akamaitechnologies.com,Akamai,revdns

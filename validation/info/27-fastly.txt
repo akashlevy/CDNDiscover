@@ -1,0 +1,25 @@
+https://foursquare.com/,,Fastly,whois
+http://ss1.4sqi.net,,Fastly,whois
+http://ss1.4sqi.net,global-ssl.fastly.net.,Fastly,cname
+http://20650507p.rfihub.com,a.rfihub.com.,,none
+http://www.facebook.com,star-mini.c10r.facebook.com.,,none
+http://api.foursquare.com,,Fastly,whois
+http://match.prod.bidr.io,,,none
+http://a.tiles.mapbox.com,server-54-192-49-4.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://a.tiles.mapbox.com,d3eju24r2ptc5d.cloudfront.net.,Amazon CloudFront,cname
+http://ib.adnxs.com,g.geogslb.com.,,none
+http://p.adsymptotic.com,awse-p-elb-nonvpc-duplciate.p.adsymptotic.com.,,none
+http://cm.g.doubleclick.net,pagead.l.doubleclick.net.,,none
+http://ss0.4sqi.net,,Fastly,whois
+http://ss0.4sqi.net,global-ssl.fastly.net.,Fastly,cname
+https://foursquare.com/,,Fastly,whois
+https://foursquare.com/about,,Fastly,whois
+https://foursquare.com/download,,Fastly,whois
+https://foursquare.com/login?continue=%2F&clicked=true,,Fastly,whois
+https://foursquare.com/signup/,,Fastly,whois
+https://foursquare.com/explore?cat=topPicks,,Fastly,whois
+https://foursquare.com/explore?cat=trending,,Fastly,whois
+https://foursquare.com/explore?cat=food,,Fastly,whois
+http://igx.4sqi.net,,Fastly,whois
+http://irs1.4sqi.net,,Fastly,whois
+https://foursquare.com/explore?cat=coffee,,Fastly,whois

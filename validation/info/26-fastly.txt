@@ -1,0 +1,2 @@
+https://www.shazam.com/,,Fastly,whois
+https://www.shazam.com/,wildcard.shazam.map.fastly.net.,Fastly,cname

@@ -1,0 +1,28 @@
+http://www.domain.com.au,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.domain.com.au,www.domain.com.au.edgekey.net.,Akamai,cname
+http://strap.domain.com.au,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://strap.domain.com.au,strap.domain.com.au.edgekey.net.,Akamai,cname
+http://static.domain.com.au,server-54-192-48-91.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+http://static.domain.com.au,d21rkoaf0q48kr.cloudfront.net.,Amazon CloudFront,cname
+http://www.domain.com.au#content,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.domain.com.au#content,www.domain.com.au.edgekey.net.,Akamai,cname
+https://www.domain.com.au,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.domain.com.au,www.domain.com.au.edgekey.net.,Akamai,cname
+https://www.domain.com.au/home?mode=buy,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.domain.com.au/home?mode=buy,www.domain.com.au.edgekey.net.,Akamai,cname
+https://www.domain.com.au/home?mode=rent,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.domain.com.au/home?mode=rent,www.domain.com.au.edgekey.net.,Akamai,cname
+http://b.domainstatic.com.au,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://b.domainstatic.com.au,www.domain.com.au.edgekey.net.,Akamai,cname
+https://www.domain.com.au/new-homes,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.domain.com.au/new-homes,www.domain.com.au.edgekey.net.,Akamai,cname
+https://www.domain.com.au/home?mode=sold,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.domain.com.au/home?mode=sold,www.domain.com.au.edgekey.net.,Akamai,cname
+http://www.domain.com.au/news/,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.domain.com.au/news/,www.domain.com.au.edgekey.net.,Akamai,cname
+http://www.domain.com.au,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.domain.com.au,www.domain.com.au.edgekey.net.,Akamai,cname
+http://www.domain.com.au/advice/,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.domain.com.au/advice/,www.domain.com.au.edgekey.net.,Akamai,cname
+https://www.domain.com.au/real-estate-agents/,a23-66-124-22.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.domain.com.au/real-estate-agents/,www.domain.com.au.edgekey.net.,Akamai,cname

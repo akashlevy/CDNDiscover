@@ -1,0 +1,12 @@
+https://wepay.com/,,,none
+http://player.vimeo.com,,Fastly,whois
+https://wepay.com/,,,none
+https://wepay.com/payments-for-platforms,,,none
+http://static.wepay.com,,,none
+https://wepay.com/business-tools,,,none
+https://wepay.com/marketplace-crowdfunding,,,none
+https://wepay.com/solutions,,,none
+https://wepay.com/getting-started,,,none
+https://wepay.com/about-wepay,,,none
+https://wepay.com/people,,,none
+https://wepay.com/careers,,,none

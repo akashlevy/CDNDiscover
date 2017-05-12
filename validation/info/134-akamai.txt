@@ -1,0 +1,12 @@
+https://www.sixflags.com/,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://www.sixflags.com,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+http://static.sixflags.com,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/#main-content,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/overtexas,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/overgeorgia,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/stlouis,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/greatadventure,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/magicmountain,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/greatamerica,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns
+https://www.sixflags.com/fiestatexas,a23-66-126-233.deploy.static.akamaitechnologies.com,Akamai,revdns

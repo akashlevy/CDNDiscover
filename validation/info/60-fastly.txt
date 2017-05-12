@@ -1,0 +1,10 @@
+https://www.cloudera.com/,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/products.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/products/enterprise-data-hub.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/products/analytic-db.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/products/operational-db.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/products/data-science-and-engineering.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/products/cloudera-essentials.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/solutions.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none
+https://www.cloudera.com/solutions/customer-insights.html,aem-prod-external-elb-1751714427.us-west-1.elb.amazonaws.com.,,none

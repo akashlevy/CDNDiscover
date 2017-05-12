@@ -1,0 +1,14 @@
+http://www.thearcug.org,,,none
+http://thearcug-wphost.netdna-ssl.com,,NetDNA,name
+http://www.youtube.com,youtube-ui.l.google.com.,,none
+http://thearcug.org,,,none
+http://www.thearcug.org#content,,,none
+https://www.thearcug.org/about-us/,,,none
+https://www.thearcug.org/news/,,,none
+https://www.thearcug.org/careers/,,,none
+https://www.thearcug.org/contact/,,,none
+https://www.thearcug.org,,,none
+https://www.thearcug.org/feed/,,,none
+http://www.thearcug.org,,,none
+https://www.thearcug.org/people-and-families/,,,none
+https://www.thearcug.org/people-and-families/advocacy-and-education/,,,none

@@ -19,15 +19,17 @@ def run(categ='Top'):
         texfile.write('\\centering\n')
         texfile.write('\\caption{Alexa-ranked English websites ' +
                       'and their CDNs}\n')
+        texfile.write('\\scriptsize\n')
         texfile.write('\\label{tab:cdn-table}\n')
-        texfile.write('\\begin{tabular}{|llll|llll|}\n')
+        texfile.write('\\begin{tabular}{|llll|llll|llll|}\n')
         texfile.write('\\hline\n')
-        texfile.write('\\# & Domain & 1 & 2 & \\# & Domain & 1 & 2 \\\\\n')
+        texfile.write('\\# & Domain & 1 & 2 & \\# & Domain & 1 & 2 & \\# ' +
+                      '& Domain & 1 & 2 \\\\\n')
         texfile.write('\\hline\n')
 
         # Generate entries
-        for i in range(70):
-            for j in [i, i+70]:
+        for i in range(40):
+            for j in [i, i+40, i+80]:
                 # Process CSV entry
                 url, cdn1, _, cdn2, _, _ = data[j].split(',')
                 urlfile = url.replace('.', '_')
@@ -37,20 +39,20 @@ def run(categ='Top'):
 
                 # Create rank, icon, URL
                 texfile.write(str(j+1) + ' & ')
-                texfile.write('\\includegraphics[width=5px]{' +
+                texfile.write('\\includegraphics[width=8px]{' +
                               'images/icons/' + urlfile + '.png} ')
                 texfile.write(url + ' ')
 
                 # Create CDN icons
                 for cdn in cdns:
                     if cdn:
-                        texfile.write('& \\includegraphics[width=5px]{' +
+                        texfile.write('& \\includegraphics[width=8px]{' +
                                       'images/cdnicons/' + cdn + '.png} ')
                     else:
                         texfile.write('& ')
 
                 # Insert between columns
-                if j == i:
+                if j != i+80:
                     texfile.write('& ')
 
             # Create newline
@@ -62,14 +64,21 @@ def run(categ='Top'):
         # Table header
         texfile.write('\\begin{table}[tbp]\n')
         texfile.write('\\centering\n')
-        texfile.write('\\begin{tabular}{|llll|llll|}\n')
+        texfile.write('\\scriptsize\n')
+        texfile.write('\\begin{tabular}{|llll|llll|llll|}\n')
         texfile.write('\\hline\n')
-        texfile.write('\\# & Domain & 1 & 2 & \\# & Domain & 1 & 2 \\\\\n')
+        texfile.write('\\# & Domain & 1 & 2 & \\# & Domain & 1 & 2 & \\# ' +
+                      '& Domain & 1 & 2 \\\\\n')
         texfile.write('\\hline\n')
 
         # Generate entries
-        for i in range(140, 195):
-            for j in [i, i+55]:
+        for i in range(120, 164):
+            for j in [i, i+44, i+88]:
+                # Fix end part problem
+                if j >= 250:
+                    texfile.write('&&&\n')
+                    continue
+
                 # Process CSV entry
                 url, cdn1, _, cdn2, _, _ = data[j].split(',')
                 urlfile = url.replace('.', '_')
@@ -79,20 +88,20 @@ def run(categ='Top'):
 
                 # Create rank, icon, URL
                 texfile.write(str(j+1) + ' & ')
-                texfile.write('\\includegraphics[width=5px]{' +
+                texfile.write('\\includegraphics[width=8px]{' +
                               'images/icons/' + urlfile + '.png} ')
                 texfile.write(url + ' ')
 
                 # Create CDN icons
                 for cdn in cdns:
                     if cdn:
-                        texfile.write('& \\includegraphics[width=5px]{' +
+                        texfile.write('& \\includegraphics[width=8px]{' +
                                       'images/cdnicons/' + cdn + '.png} ')
                     else:
                         texfile.write('& ')
 
                 # Insert between columns
-                if j == i:
+                if j != i+88:
                     texfile.write('& ')
 
             # Create newline

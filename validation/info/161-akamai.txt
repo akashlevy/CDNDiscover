@@ -1,8 +1,0 @@
-http://www.vizury.com,,,none
-http://www1.vizury.com,,,none
-http://www.vizury.com#pricing,,,none
-http://www.vizury.com,,,none
-http://www.vizury.com#home-section-3,,,none
-http://www.vizury.com#collapseOne,,,none
-http://www.vizury.com#collapseTwo,,,none
-http://www.vizury.com#collapseThree,,,none

@@ -1,16 +1,47 @@
-http://www.amazon.co.uk/,www.cdn.amazon.co.uk.,,none
-http://images-eu.ssl-images-amazon.com,server-54-230-49-144.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
-http://images-eu.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
-http://fls-eu.amazon.co.uk,fls-eu.amazon.com.,,none
-http://www.amazon.co.uk/ref=nav_logo/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/prime/ref=nav_logo_prime_join/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://images-na.ssl-images-amazon.com,server-54-230-49-144.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
-http://images-na.ssl-images-amazon.com,dk9ps7goqoeef.cloudfront.net.,Amazon CloudFront,cname
-http://www.amazon.co.uk/gp/site-directory/ref=nav_shopall_btn/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/navigation/redirector.html/ref=sign-in-redirect/262-5884801-8902043?ie=UTF8&associationHandle=gbflex&currentPageURL=https%3A%2F%2Fwww.amazon.co.uk%2F%3Fref_%3Dnav_ya_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/prime/pipeline/landing/ref=nav_prime_try_btn/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/registry/wishlist/ref=nav_wishlist_btn/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/cart/view.html/ref=nav_cart/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/yourstore/home/ref=nav_cs_ys/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://www.amazon.co.uk/gp/deals/ref=nav_cs_gb/262-5884801-8902043,www.cdn.amazon.co.uk.,,none
-http://m.media-amazon.com,server-54-230-49-144.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
+https://images-eu.ssl-images-amazon.com/images/G/02/temp/bb/uk/4794_BUBBLE_WITCH_SAGA3_US_FLYOUT_519x545._CB519827677_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/UK-hq/2017/img/Books/XCM_1064291_Manual_519x568_1064291UKBOOKSVIBJAMIEOLIVERflyoutr2png_VIB_Jamie_Oliver_August._CB518943919_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/uk_xsite2016/QuadKindle._CB279117935_.png
+https://images-eu.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayAuiAssets-cbf6693fdb7fc3d9de728cb14a1e8fad264f577b._V2_.js#AUIClients/AmazonGatewayAuiAssets.secure.min
+https://images-eu.ssl-images-amazon.com/images/G/02/uk-dvd/warner/franchises/hbo/GOT_GNO_3._CB517460614_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/uk-electronics/anacavez/SONOS_FLYOUT_GNO._CB511275443_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/amazonlaunchpad/UK/Gateway/1045272_UK_Launchpad_Refresh_GNO._CB505941517_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/x-locale/common/transparent-pixel._CB384789948_.gif
+https://images-eu.ssl-images-amazon.com/images/G/02/AMAZON-FASHION/2017/FASHION/MERCH/8_AUGUST/ONSITE_EMAIL_MEN/1_M_NEWBASICS/GW_HERO_DESKTOP_1500X300._CB519710590_.jpg
+https://images-eu.ssl-images-amazon.com/images/G/02/AMAZON-FASHION/2017/FASHION/MERCH/8_AUGUST/ONSITE_EMAIL_WOMEN/1_NEW_BASICS/FLYOUT_CO-GENDER_UK._CB503836491_.png
+https://images-eu.ssl-images-amazon.com/images/G/01/AUIClients/GenericObservableJS-c1a60b0cbfbf5d9a43a472c753b5426b6b9787a4._V2_.js#AUIClients/GenericObservableJS.secure.min
+https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/TheTick/Launch/TheTick_S1_Echo_GW_DesktopHero_1500x300._CB517218925_.jpg
+https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.11._V519224511_.html
+https://images-eu.ssl-images-amazon.com/images/G/01/ads/advertising/ads._TTH_.js?cachebust=2333259
+https://images-eu.ssl-images-amazon.com/images/G/02/handmade/2017/flyout/iulianaa_2017-03-28T08-15_a2d67d_Handmade_1034450_flyout_r1_UK._CB529606084_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/Automotive/Fly-outs/uk_auto_09-10-2015_oil_flyout._CB291262184_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Evergreen/Unrec_Bubble/Unrec_fan_292x292._CB517682291_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/TVOD/GOTS7/TVOD_UK_GoT_S7_X-Site_GWSuperHero_Web_1500x300._CB518575255_.jpg
+https://images-eu.ssl-images-amazon.com/images/G/02/EUProgrammes/Family/Test/abharad_2017-06-28T13-56_a5eb18_1049954_uk_amazonfamily_baby_6-6-17_v1_flyout._CB505891355_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/kindle/merch/2017/campaign/czolg/xsite/tank_launch-flyout_gno-d-uk._CB503338241_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/uk_xsite2016/Musicquad._CB278880181_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/kindle/merch/gno/2016/muscat_evergreen-flyout_gno-d-uk._CB527974847_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/kindle/merch/gw/2016/muscat_evergreen_02-gw-d-uk-1500x300._CB300898215_.jpg
+https://images-eu.ssl-images-amazon.com/images/G/01/AUIClients/ClientSideMetricsAUIJavascript-3d8800fcaf5fcf0c054549940e148d47ce19e6b5._V2_.js
+https://images-eu.ssl-images-amazon.com/images/I/61tHvuwljLL.js?AUIClients/AmazonUIjQuery
+https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global_bluebeacon-V3-1x_optimized._CB509268316_.png
+https://images-eu.ssl-images-amazon.com/images/I/41y6jwsvIeL._AC_UY600__SY244_.jpg
+https://images-eu.ssl-images-amazon.com/images/I/01JFM6wegIL._RC|71ESqrZ+IJL.js,61tbfbqXY7L.js,01A18a0oAWL.js,41UddGXRE0L.js,01Tw08m1EFL.js,01wBjiz9OvL.js,21NNEUrgXPL.js,31O5fBMDOUL.js,51p6hnDqAKL.js,31UNoPUMbHL.js_.js?AUIClients/NavDesktopMetaAsset#desktop
+https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch/subs/title/gno/GNO_ACEU-262-eurosport-usopen_507x510._CB517252554_.png
+https://www.amazon.co.uk/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html?pl=%7B%22adPlacementMetaData%22%3A%7B%22pageUrl%22%3A%22aHR0cHM6Ly93d3cuYW1hem9uLmNvLnVrL3Nob3BwaW5nUG9ydGFsL2Rlc2t0b3AvYWxtZHVkbGVyP19lbmNvZGluZz1VVEY4Jm9wZl9yZWRpcj0x%22%2C%22adElementId%22%3A%22ape_Gateway_right-2_desktop_placement%22%2C%22pageType%22%3A%22Gateway%22%2C%22slotName%22%3A%22right-2%22%7D%2C%22adCreativeMetaData%22%3A%7B%22adProgramId%22%3A%221001%22%2C%22adImpressionId%22%3A%22https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fe%2Fxsp%2Fimp%3Fb%3DQq_uiLQFSEvZoSALNzBgm7YAAAFeSTK_SgMAAAH5ARdN7gs%22%2C%22adCreativeId%22%3A%222969276002%22%2C%22adId%22%3A%221999499002%22%2C%22adNetwork%22%3A%22aax%22%7D%7D&callback=r2_addFeedbackLink
+https://images-eu.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayHerotatorJS-24dbbc3dd181571141a157cf295720bacc37c37a._V2_.js#AUIClients/AmazonGatewayHerotatorJS.secure.min
+https://images-eu.ssl-images-amazon.com/images/G/02/uk_xsite2016/DE_PRIME_1006520_292x292_V2._CB280740925_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/uk-sports/SVS/Fitbit/2017/UK_SPORTS_FITBIT-GNO_05-06-2017_flyout._CB508046724_.png
+//fls-eu.amazon.co.uk/1/batch/1/OP/A1F83G8C2ARO7P:259-8884780-3970429:9X21EMX107K4FWP89ARV$uedata=s:%2Fgp%2Fuedata%3Fstaticb%26id%3D9X21EMX107K4FWP89ARV:0
+https://images-eu.ssl-images-amazon.com/images/I/11QXqf0G81L.js?AUIClients/RetailWebsiteOverlayAUIAssets
+https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/TVOD/GOTS7/TVOD_UK_GoT_S7_X-Site_Unrec_984x1279._UX492_SX492_CB518575999_.png
+//fls-eu.amazon.co.uk/1/batch/1/OP/A1F83G8C2ARO7P:259-8884780-3970429:9X21EMX107K4FWP89ARV$uedata=s:%2Fgp%2Fuedata%3Fnoscript%26id%3D9X21EMX107K4FWP89ARV:0
+https://images-eu.ssl-images-amazon.com/images/G/01/ape/sf/desktop/DAsf-1.11._V519224505_.js
+https://images-eu.ssl-images-amazon.com/images/G/02/kindle/merch/2017/campaign/tekglasaus/xsite/austin_now_shipping-flyout_gno-d-uk._CB507833834_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/pantry/x-site/1048079_uk_ap_26-5-17_flyout_updated._CB505866315_.png
+https://m.media-amazon.com/images/G/01/csm/showads.v2.js
+https://images-eu.ssl-images-amazon.com/images/G/02/UK-digital-music/2017/Merch/021017/UK_DM_MU0025_girl_corridor_herotator_1500x300_any._CB509557115_.jpg
+https://images-eu.ssl-images-amazon.com/images/G/01/ads/advertising/ads._TTH_.js?cachebust=85020320
+https://images-eu.ssl-images-amazon.com/images/G/02/UK-digital-music/2016/Campaigns/FamilyPlanLaunch/iolandac_2017-05-03T14-06_5c4c88_UK_DM_MU0008_FP_Flyout_NEW._CB511267480_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/uk-grocery/LuxuryStore/1033819_UK-_LUXURY_FOOD_AND_DRINK_GNO_FLYOUT_r1._CB533239437_.png
+https://images-eu.ssl-images-amazon.com/images/G/02/kindle/merch/2016/campaign/lucida/D/doppler_flyout-uk-522x459._CB523827398_.png
+https://images-eu.ssl-images-amazon.com/images/I/11IYhapguOL._RC|61spkUb+NVL.js,01elVCZJ01L.js,012FVc3131L.js,31pYyxAZJRL.js,31Qll8kfk9L.js,51cSfLF4N7L.js,11+vQeDfdfL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61usIbtcRmL.js,01BBu+b9t0L.js,01rpauTep4L.js,01dxy6UfE5L.js_.js?AUIClients/AmazonUI

@@ -1,2 +1,0 @@
-http://www.pepperfry.com,a23-66-127-133.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.pepperfry.com,pepperfry.com.edgekey.net.,Akamai,cname

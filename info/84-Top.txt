@@ -1,9 +1,0 @@
-http://support.microsoft.com/,a23-195-145-19.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://support.microsoft.com/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
-http://c1.microsoft.com,c.msn.com.,,none
-http://assets.onestore.ms,a23-33-107-97.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://assets.onestore.ms,assets.onestore.ms.akadns.net.,Akamai,cname
-http://support.microsoft.com/,a23-195-145-19.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://support.microsoft.com/,ev.support.microsoft.com.edgekey.net.,Akamai,cname
-https://support.microsoft.com/en-us,a23-195-145-19.deploy.static.akamaitechnologies.com,Akamai,revdns
-https://support.microsoft.com/en-us,ev.support.microsoft.com.edgekey.net.,Akamai,cname

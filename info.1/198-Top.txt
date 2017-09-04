@@ -1,2 +1,0 @@
-http://wiktionary.org/,,,none
-http://upload.wikimedia.org,,,none

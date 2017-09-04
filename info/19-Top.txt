@@ -1,14 +1,2 @@
-https://www.bing.com/,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/images?FORM=Z9LH,www-bing-com.a-0001.a-msedge.net.,,none
-http://tse4.mm.bing.net,tse4-mm-bing-net.a-0001.a-msedge.net.,,none
-http://tse3.mm.bing.net,tse3-mm-bing-net.a-0001.a-msedge.net.,,none
-http://tse2.mm.bing.net,tse2-mm-bing-net.a-0001.a-msedge.net.,,none
-http://tse1.mm.bing.net,tse1-mm-bing-net.a-0001.a-msedge.net.,,none
-https://www.bing.com/videos?FORM=Z9LH1,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/maps?FORM=Z9LH2,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/news?FORM=Z9LH3,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/rewards/dashboard,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/?FORM=HYLH,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/?FORM=HYLH1,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/search?q=wood+duck&form=hpcapt&filters=HpDate%3a%2220170509_0700%22,www-bing-com.a-0001.a-msedge.net.,,none
-https://www.bing.com/saves?type=images&FORM=HPMUSA,www-bing-com.a-0001.a-msedge.net.,,none
+/rms/BingCore.Bundle/cj,nj/0b5cf849/1a2f5baa.js?bu=rms+answers+Shared+BingCore%24ClientInstV2%24DuplicateXlsDefaultConfig%2cBingCore%24ClientInstV2%24SharedLocalStorageConfigDefault%2cBingCore%24shared%2cBingCore%24env.override%2cEmpty%2cBingCore%24event.custom.fix%2cBingCore%24event.native%2cBingCore%24onHTML%2cBingCore%24dom%2cBingCore%24cookies%2cBingCore%24rmsajax%2cBingCore%24ClientInstV2%24LogUploadCapFeatureDisabled%2cBingCore%24ClientInstV2%24ClientInstConfigSeparateOfflineQueue%2cBingCore%24clientinst%2cBingCore%24replay%2cBingCore%24Animation%2cBingCore%24fadeAnimation%2cBingCore%24framework
+data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7

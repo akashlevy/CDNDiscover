@@ -1,3 +1,0 @@
-http://www.myway.com/,cc.myway.com.,,none
-http://akz.imgfarm.com,a172-229-230-88.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://akz.imgfarm.com,akz.imgfarm.com.edgekey.net.,Akamai,cname

@@ -1,2 +1,0 @@
-http://www.twitch.tv/,a23-59-221-122.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.twitch.tv/,a23-59-221-122.deploy.static.akamaitechnologies.com,Akamai,revdns

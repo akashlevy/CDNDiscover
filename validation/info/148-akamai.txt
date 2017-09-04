@@ -1,2 +1,0 @@
-http://www.au.af.mil,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
-http://www.au.af.mil,www.au.af.mil.edgesuite.net.,Akamai,cname

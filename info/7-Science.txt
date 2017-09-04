@@ -1,2 +1,0 @@
-http://www.ieee.org/,a23-33-97-238.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.ieee.org/,www.ieee.org.edgekey.net.,Akamai,cname

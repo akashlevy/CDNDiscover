@@ -1,3 +1,2 @@
-https://docs.google.com/,,,none
-http://accounts.youtube.com,www3.l.google.com.,,none
-http://www.gstatic.com,,,none
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAABK0lEQVR4Ae2VA4wecRBHX23bisugjOtGjc3abezUto0YdU/hOTrb6pmxPmMyZy7O95a//yRvPYvNjFHIfTaAdXz4cPONpZjiWqtIpyaOmtH4UNjCR1yi8nLZuEZFyibS8Ml02qjGR3umESKjLvYY0/joyGSiZDyfKUY0PjqzmAapXDGiaRX9Zh4op6VSzoS+a1pFPtKYCcIkqqW2nw74epgU2X8PymPJT8yK3KzQdFhyvFmRj1OaVkqqNS96pGmSJOcQEJ2059KcLNN0xNrNfgXKU8mPzb2QiUwHYTK1Uttn5hP5wWxQzkmljPHWPtqlNEnlorU2MpU4Gc9lspXGNoMIfX47rLTabWSq/rj55r+Vr7hF4uGcHb+jeo5gBW35H1mMRfK5zVrGMIkf4fYw3QYeh94AAAAASUVORK5CYII=
+https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=761017087&timestamp=1504466364239

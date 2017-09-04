@@ -1,6 +1,8 @@
-http://mail.yahoo.com/,login.yahoo.com.,,none
-http://s1.yimg.com,s.gycs.b.yahoodns.net.,,none
-http://mg.mail.yahoo.com,fd-geoycpi-uno.gycpi.b.yahoodns.net.,,none
-http://mail.yahoo.com/,login.yahoo.com.,,none
-http://s.yimg.com,s.gycs.b.yahoodns.net.,,none
-http://mail.yahoo.com/#country-codes-menu,login.yahoo.com.,,none
+https://s.yimg.com/rq/darla/3-0-5/js/g-r-min.js
+https://s.yimg.com/rq/darla/3-0-5/html/r-csc.html
+/config/loga?aad=6&pad=6&aad2=0&pad2=0&partner=&src=ym&intl=us&verify=0&bsp=150002527&isp=150002527&plt=25&alt=-1504466376503&adb=off&crumb=80YISwa82F9
+https://s.yimg.com/rq/darla/3-0-5/html/r-sf.html
+https://fc.yahoo.com/sdarla/php/client.php?l=RICH{dest:tgtRICH;asz:flex}&f=150002527&ref=https%3A%2F%2Flogin.yahoo.com%2F
+https://s.yimg.com/rz/d/yahoo_en-US_f_p_bestfit_2x.png
+https://s.yimg.com/rq/darla/boot.js
+https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c5=150002527&ns_c=UTF-8&ns__t=1504466377159&c7=https%3A%2F%2Flogin.yahoo.com%2F%3F.src%3Dym%26.intl%3Dus%26.lang%3Den-US&c14=-1

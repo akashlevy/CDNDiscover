@@ -1,10 +1,7 @@
-http://www.google.com.au/,,,none
-http://www.google.com.au/setprefs?suggon=2&prev=https://www.google.com.au/?gws_rd%3Dssl&sig=0_JLPl8iZ7BpNf8KVCGK_UoJyJ29Q%3D,,,none
-https://www.google.com.au/imghp?hl=en&tab=wi&ei=pLgSWaWtNsjXmwHg86j4Dg&ved=0EKouCBYoAQ,,,none
-https://www.google.com.au/intl/en/options/,,,none
-http://lh3.googleusercontent.com,googlehosted.l.googleusercontent.com.,,none
-https://www.google.com.au/webhp?hl=en&sa=X&ved=0ahUKEwi468bP3uTTAhUBWCYKHWF4ACYQPAgD,,,none
-http://www.google.com.au/,,,none
-http://www.google.com.au/intl/en/policies/privacy/?fg=1,,,none
-https://www.google.com.au/preferences?hl=en,,,none
-https://www.google.com.au/preferences?hl=en-AU&fg=1,,,none
+/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+/xjs/_/js/k=xjs.s.en.IKMh0say_zg.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,sf,d3l/am=wCKMHC84APJ_QigMbiEskAVMHEA/exm=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oEZzOV92jm2TYCzxDPu8TscrOy-hw
+javascript:''
+https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.ellQXbSf-LI.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/am=AAg/rs=AHpOoo9jm0At0b0B7I7G3MSvlepU00mZfA/cb=gapi.loaded_0
+/images/hpp/ic_wahlberg_product_core_48.png8.png
+/xjs/_/js/k=xjs.s.en.IKMh0say_zg.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=wCKMHC84APJ_QigMbiEskAVMHEA/rt=j/d=1/t=zcms/rs=ACT90oEZzOV92jm2TYCzxDPu8TscrOy-hw
+https://www.gstatic.com/og/_/js/k=og.og2.en_US._5iKmPnfK78.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTv5_BFzi3keJWEHjFlRvKnEPJ3PLg

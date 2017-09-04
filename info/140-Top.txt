@@ -1,7 +1,0 @@
-http://www.hp.com/,www.hpgtm.nsatc.net.,,none
-http://www.www8-hp.com,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
-http://www.www8-hp.com,www.www8-hp.com.edgesuite.net.,Akamai,cname
-http://storage.media.ext.hp.com,a204-153-49-137.deploy.akamaitechnologies.com,Akamai,revdns
-http://storage.media.ext.hp.com,storage.media.ext.hp.com.edgesuite.net.,Akamai,cname
-http://www.hp.com/#skiptobody,www.hpgtm.nsatc.net.,,none
-http://www.hp.com/#skiptofooter,www.hpgtm.nsatc.net.,,none

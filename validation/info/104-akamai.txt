@@ -1,1 +1,0 @@
-http://www.nomura.com,prd-www.nomura.egslb2.nomura.com.,,none

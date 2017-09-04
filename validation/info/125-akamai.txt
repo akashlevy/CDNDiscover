@@ -1,2 +1,0 @@
-http://www.sbs.com.au,a23-66-172-209.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.sbs.com.au,www.sbs.com.au.edgekey.net.,Akamai,cname

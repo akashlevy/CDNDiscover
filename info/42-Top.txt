@@ -1,12 +1,12 @@
-http://soundcloud.com/,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://a-v2.sndcdn.com,server-54-192-48-87.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
-http://a-v2.sndcdn.com,d15wdfb2rw9n2y.cloudfront.net.,Amazon CloudFront,cname
-http://soundcloud.com/,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/explore,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/upload,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/people/directory,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/pro?ref=t201,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/popular/searches,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/charts/top?genre=all-music,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/charts/new?genre=all-music,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
-http://soundcloud.com/charts/top?genre=all-audio,server-52-84-38-14.ewr50.r.cloudfront.net,Amazon CloudFront,revdns
+https://a-v2.sndcdn.com/assets/app-4dcc892-8cd1675-3.js
+https://a-v2.sndcdn.com/assets/vendor-e4436ec-ee4596e-3.js
+https://ssl.google-analytics.com/ga.js
+//5485101.fls.doubleclick.net/activityi;src=5485101;type=unive0;cat=unive0;u2=US;ord=4991025609090;~oref=https%3A%2F%2Fsoundcloud.com%2F?
+https://a-v2.sndcdn.com/assets/lib-b037991-9669075-3.js
+//secure.quantserve.com/quant.js
+https://a-v2.sndcdn.com/assets/views-9855d97-ecc29b6-3.js
+https://rules.quantcount.com/rules-p-47_zcqmJsLHXQ.js
+https://a-v2.sndcdn.com/assets/views-al-8098dc5-98a6752-3.js
+//www.googletagmanager.com/gtm.js?id=GTM-NXX9K5
+//5352434.fls.doubleclick.net/activityi;src=5352434;type=scacc0;cat=unive0;u2=US;u3=free;ord=1722841649206;~oref=https%3A%2F%2Fsoundcloud.com%2F?
+https://a-v2.sndcdn.com/assets/22-052cf2f-c743ee0-3.js

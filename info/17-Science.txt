@@ -1,2 +1,0 @@
-http://www.mayoclinic.org/,a23-33-96-153.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.mayoclinic.org/,www.mayoclinic.org.edgekey.net.,Akamai,cname

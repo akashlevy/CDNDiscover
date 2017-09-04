@@ -1,2 +1,0 @@
-http://www.sophos.com,a23-66-162-204.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.sophos.com,www.sophos.com.edgekey.net.,Akamai,cname

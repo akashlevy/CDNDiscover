@@ -1,10 +1,20 @@
-http://www.bet365.com/,,,none
-https://www.bet365.com/home/?lng=1,,,none
-https://www.bet365.com/es/,,,none
-https://www.bet365.com/de/,,,none
-https://www.bet365.com/it/,,,none
-https://www.bet365.com/pt/,,,none
-https://www.bet365.com/da/,,,none
-https://www.bet365.com/sv/,,,none
-https://www.bet365.com/nn/,,,none
-https://www.bet365.com/zh-CHS/,,,none
+/home/images/PageLoader.gif
+
+					/home/images/landingpage/imgs/col4/BingoLanding_199x81.jpg
+/home/js/globals_vA058cr.js
+/home/images/landingpage/imgs/eng/bg-sports-title-white.gif
+/home/images/landingpage/imgs/eng/204x30-live-streaming-02.gif
+
+					/home/images/landingpage/imgs/col4/bg-casino.jpg
+
+					/home/images/landingpage/imgs/col4/PharaohTreasure.jpg
+/home/js/Browser_vA009cr.js
+/home/images/landingpage/imgs/eng/liveinplay.gif
+/home/images/landingpage/imgs/col4/eng/bg-poker-title.gif
+/home/images/landingpage/imgs/col4/eng/bg-casino-title.gif
+
+					/home/images/landingpage/new/pods/mainimages/199x81px-Poker-Image.jpg
+				
+/home/images/landingpage/imgs/col4/eng/bg-games-title.gif
+/home/js/cookies_vA006cr.js
+/home/images/landingpage/imgs/col4/eng/bg-bingo-title.gif

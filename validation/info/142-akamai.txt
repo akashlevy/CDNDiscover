@@ -1,2 +1,0 @@
-http://www.tvb.com,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
-http://www.tvb.com,www.geo.tvb.com.akadns.net.,Akamai,cname

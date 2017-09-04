@@ -1,12 +1,13 @@
-http://www.indeed.com/,,Rackspace,whois
-http://www.indeed.com/,,Rackspace,whois
-http://www.indeed.com/resumes?isid=find-resumes&ikw=hometop&co=US&hl=en,,Rackspace,whois
-http://www.indeed.com/hire?hl=en&cc=US,,Rackspace,whois
-http://d3fw5vlhllyvee.cloudfront.net,server-54-230-51-176.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
-http://d3fw5vlhllyvee.cloudfront.net,,Amazon CloudFront,name
-http://www.indeed.com/promo/resume,,Rackspace,whois
-https://www.indeed.com/account/login?dest=%2F,,Rackspace,whois
-http://www.indeed.com/advanced_search?l=Princeton%2C+NJ,,Rackspace,whois
-http://www.indeed.com/jobs,,Rackspace,whois
-http://www.indeed.com/setprefs?action=set&hl=es&tk=1bfok1g1ha3t9bcp&prevhl=en,,Rackspace,whois
-http://www.indeed.com/promo/gotajob,,Rackspace,whois
+//bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&ActivityID=661980&ns=1
+https://www.google-analytics.com/plugins/ua/linkid.js
+https://connect.facebook.net/en_US/fbevents.js
+//bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&ActivityID=661980&rnd=582268.2595995989
+https://www.facebook.com/tr?id=579216298929618&ev=PageView&noscript=1
+https://secure-ds.serving-sys.com/SemiCachedScripts/ebAttribution.js
+//www.google-analytics.com/analytics.js
+http://b.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2F&c15=1bp4jf8uhb9h3br5&cv=2.0&cj=1
+/tos/banner.js?ctk=1bp4jf8uhb9h3br5&hl=en
+https://sb.scorecardresearch.com/beacon.js
+data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==
+https://connect.facebook.net/signals/config/579216298929618?v=2.7.21
+/s/e59bf9e/jobsearch-all-compiled.js

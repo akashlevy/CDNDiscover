@@ -1,1 +1,0 @@
-http://www.mit.edu/,www.mit.edu.edgekey.net.,Akamai,cname

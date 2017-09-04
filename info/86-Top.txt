@@ -1,8 +1,0 @@
-http://indiatimes.com/,,,none
-http://media.indiatimes.in,a23-66-220-124.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://media.indiatimes.in,media.indiatimes.in.edgekey.net.,Akamai,cname
-http://staticresources.indiatimes.in,a204-153-49-135.deploy.akamaitechnologies.com,Akamai,revdns
-http://staticresources.indiatimes.in,staticresources.indiatimes.in.edgesuite.net.,Akamai,cname
-http://images.taboola.com,,Fastly,whois
-http://images.taboola.com,f2.shared.global.fastly.net.,Fastly,cname
-http://indiatimes.com/#top,,,none

@@ -1,5 +1,0 @@
-http://www.bgr.com/,bgr.com.,,none
-http://s0.wp.com,,WordPress,name
-http://cdn.bgr.com,boygeniusreport.files.wordpress.com.,,none
-http://boygeniusreport.files.wordpress.com,s2.files.wordpress.com.,,none
-http://www.bgr.com/,bgr.com.,,none

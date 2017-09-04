@@ -1,6 +1,9 @@
-https://translate.google.com/,www3.l.google.com.,,none
-https://translate.google.com/?hl=en&tab=TT,www3.l.google.com.,,none
-https://translate.google.com/,www3.l.google.com.,,none
-https://translate.google.com/?hl=en&eotf=0,www3.l.google.com.,,none
-https://translate.google.com/?tr=f&hl=en,www3.l.google.com.,,none
-https://translate.google.com/?tr=t&hl=en,www3.l.google.com.,,none
+//www.gstatic.com/inputtools/js/ita/inputtools_3.js
+https://ssl.gstatic.com/inputtools/js/config/65698178.js
+https://ssl.gstatic.com/inputtools/js/config/49160274.js
+/translate/releases/twsfe_w_20170828_RC02/r/js/desktop_module_main.js
+https://ssl.gstatic.com/inputtools/js/msgs/9/en.js
+https://www.gstatic.com/og/_/js/k=og.og.en_US.kYzcGZnBd4U.O/rt=j/m=ld,gl,is,id,nb,nw,sb,sd,p,vd,awd,st,lod,eld,ip,dp,cpd,mud/exm=bt,base,bn,bu,cp,el,lo,sbi,ni,sf,up,dd,aw,iw,if,gi,vi,pi,eq,uc/d=1/ed=1/rs=AA2YrTtk8N1G1oCVsYQgXkcmamtIMyqJmQ
+https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.ellQXbSf-LI.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/am=AAg/rs=AHpOoo9jm0At0b0B7I7G3MSvlepU00mZfA/cb=gapi.loaded_0
+//www.google-analytics.com/analytics.js
+https://ssl.gstatic.com/inputtools/js/ln/15/en.js

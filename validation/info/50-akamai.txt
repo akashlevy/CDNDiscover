@@ -1,6 +1,0 @@
-http://www.easy-forex.com,a23-192-50-85.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.easy-forex.com,san.easy-forex.com.edgekey.net.,Akamai,cname
-http://static.easymarkets.com,a23-66-162-241.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://static.easymarkets.com,easymarkets.com.edgekey.net.,Akamai,cname
-http://www.easy-forex.com,a23-192-50-85.deploy.static.akamaitechnologies.com,Akamai,revdns
-http://www.easy-forex.com,san.easy-forex.com.edgekey.net.,Akamai,cname

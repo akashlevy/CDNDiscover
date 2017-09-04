@@ -1,22 +1,13 @@
-https://www.mozilla.org/,,Cloudflare,whois
-https://www.mozilla.org/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/,,Cloudflare,whois
-https://www.mozilla.org/en-US/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/firefox/new/,,Cloudflare,whois
-https://www.mozilla.org/en-US/firefox/new/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/internet-health/,,Cloudflare,whois
-https://www.mozilla.org/en-US/internet-health/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/technology/,,Cloudflare,whois
-https://www.mozilla.org/en-US/technology/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/about/,,Cloudflare,whois
-https://www.mozilla.org/en-US/about/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-http://videos.cdn.mozilla.net,server-54-192-48-36.jfk5.r.cloudfront.net,Amazon CloudFront,revdns
-http://videos.cdn.mozilla.net,d238bh8cgqmc25.cloudfront.net.,Amazon CloudFront,cname
-https://www.mozilla.org/en-US/contribute/,,Cloudflare,whois
-https://www.mozilla.org/en-US/contribute/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/firefox/system-requirements/,,Cloudflare,whois
-https://www.mozilla.org/en-US/firefox/system-requirements/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/firefox/new/?scene=2,,Cloudflare,whois
-https://www.mozilla.org/firefox/new/?scene=2,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
-https://www.mozilla.org/en-US/privacy/firefox/,,Cloudflare,whois
-https://www.mozilla.org/en-US/privacy/firefox/,www.mozilla.org.cdn.cloudflare.net.,Cloudflare,cname
+/media/img/nav/promos/css-grid-demo.519391163c6a.png
+/media/js/site-bundle.5f2462a3ca26.js
+/media/js/gtm-snippet-bundle.e956015fe7f3.js
+/media/js/common-bundle.bc3cd58a7ff2.js
+/media/js/firefox-update-notification-bundle.833e19e1384b.js
+/media/js/stub-attribution-bundle.6f2d0cdf7104.js
+/media/img/l10n/en-US/firefox/ios/btn-app-store.1cfd5dba4a92.svg
+/media/img/nav/promos/safer-logins.a578d3224c76.png
+/media/img/nav/promos/fb-share-tips.c00975453739.png
+/media/img/nav/promos/web-assembly.899f5b709746.png
+//www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&l=dataLayer
+/media/img/l10n/en-US/firefox/android/btn-google-play.77bdbc935c58.png
+/media/js/home-bundle.9bb03a5ee177.js

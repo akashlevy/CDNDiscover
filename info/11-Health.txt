@@ -1,3 +1,0 @@
-http://www.medicinenet.com/,107.154.102.112.ip.incapdns.net,Incapsula,revdns
-http://www.medicinenet.com/,,Incapsula,whois
-http://www.medicinenet.com/,wlrr7.x.incapdns.net.,Incapsula,cname

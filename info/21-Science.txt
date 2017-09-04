@@ -1,3 +1,0 @@
-http://blockchain.info/http://blockchain.info/homehttp://blockchain.info/wallethttp://storage.googleapis.com,,Cloudflare,whois
-http://blockchain.info/chartshttp://api.blockchain.infohttp://blockchain.infohttp://blockchain.info/statshttps://blockchain.info/marketshttp://blockchain.info/apihttp://blockchain.info/blockshttp://blockchain.info/block/00000000000000000005c250f94b714fbea288b780568239e476a9d69a4fffcchttp://maps.googleapis.com,,Cloudflare,whois
-http://blockchain.info/blocks/AntPool,,Cloudflare,whois

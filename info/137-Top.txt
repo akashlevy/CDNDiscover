@@ -1,9 +1,0 @@
-http://www.wordpress.org/,wordpress.org.,,none
-http://wpdotorg.files.wordpress.com,s2.files.wordpress.com.,,none
-http://www.facebook.com,star-mini.c10r.facebook.com.,,none
-http://s.w.org,,,none
-http://platform.twitter.com,,Twitter,whois
-http://www.wordpress.org/,wordpress.org.,,none
-http://www.wordpress.org/showcase/,wordpress.org.,,none
-http://wordpress.org,,,none
-http://wordpress.com,,,none
